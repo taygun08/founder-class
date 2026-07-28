@@ -1,4 +1,4 @@
-# Modül 5: Yapay Zeka ve Teknoloji
+# Modül 07: Yapay Zeka ve Teknoloji
 
 ## Neden Her İş İnsanı Yapay Zeka Okuryazarı Olmalı?
 
@@ -115,3 +115,7 @@ Bu modul, yetiskin ogrenmesi (andragogy) prensiplerine dayanir:
 | Digital Omnibus 2026 | Regulation | ABD |
 
 Detayli kaynakca icin `references.md` dosyasina bakiniz.
+
+---
+
+← [Önceki: Modül 06 - Girişimcilik](../06-entrepreneurship/README.md) | [Ana Sayfa](../../README.md) | [Sonraki: Modül 08 - Araştırma ve Analiz](../08-research-analysis/README.md) →

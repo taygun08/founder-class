@@ -90,10 +90,10 @@ Hafta 12:   M1-FIN08 (Turkiye'de Finans + ESG + Vergi + BDDK)
 | Alt Modul | Baglantili Modul / Alan | Baglanti Turu |
 |-----------|-------------------------|---------------|
 | M1-FIN01 Finansal Okuryazarlik | **Muhasebe modülü (01-accounting)** (finansal tablo uretimi) | On kosul / Devami |
-| M1-FIN02 Makroekonomi | **Genel Is Dunyasi Modulu** (is ortami analizi) | Es zamanli |
+| M1-FIN02 Makroekonomi | **Is Stratejisi Modulu** (is ortami analizi) | Es zamanli |
 | M1-FIN03 Kurumsal Finansman | **Strateji Modulu** (sirket degerleme) | Devami |
-| M1-FIN04 Finansal Modelleme | **Araştırma ve Analiz (06)** (ileri Excel/Python) | Devami |
-| M1-FIN05 Yatirim ve Portfoy | **Araştırma ve Analiz (06)** (ileri portfoy) | Devami |
+| M1-FIN04 Finansal Modelleme | **Araştırma ve Analiz (08)** (ileri Excel/Python) | Devami |
+| M1-FIN05 Yatirim ve Portfoy | **Araştırma ve Analiz (08)** (ileri portfoy) | Devami |
 | M1-FIN06 Davranissal Finans | **Psikoloji / Karar Bilimi Modulu** | Paralel |
 | M1-FIN07 Startup Finansmani | **Girisimcilik Modulu** (is plani, yatirimci) | Dogrudan bagimli |
 | M1-FIN08 Turkiye'de Finans | **Hukuk ve Vergi (09)** (SPK, KVK) | Devami |

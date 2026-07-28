@@ -1,4 +1,4 @@
-# 04 - Girisimcilik Modulu
+# 06 - Girisimcilik Modulu
 
 ## Modul Genel Bakis
 
@@ -105,3 +105,7 @@ Modul boyunca asagidaki kaynak turleri kullanilacaktir:
 
 *Modul Tarihi: Temmuz 2026*
 *Kaynak: Girisimcilik Modulu Kapsamli Arastirma Raporu*
+
+---
+
+← [Önceki: Modül 05 - Pazarlama](../05-marketing/README.md) | [Ana Sayfa](../../README.md) | [Sonraki: Modül 07 - AI ve Teknoloji](../07-ai-and-technology/README.md) →

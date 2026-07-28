@@ -61,3 +61,7 @@ Bu modülde tüm eğitim içeriği Türkçe olarak sunulmakla birlikte, uluslara
 ## Modülün Finans Modülü ile İlişkisi
 
 Bu modül, Finans modülünün ön koşuludur. Muhasebe modülünde kazanılan beceriler, Finans modülünde şirket değerlemesi, finansal analiz, sermaye bütçelemesi ve portföy yönetimi gibi ileri düzey konuların temelini oluşturur. Öğrenciler, finansal tabloların nasıl üretildiğini bilmeden, bu tablolar üzerinden anlamlı analizler yapamazlar.
+
+---
+
+← [Önceki: Modül 00 - Giriş](../00-introduction/README.md) | [Ana Sayfa](../../README.md) | [Sonraki: Modül 02 - Finans](../02-finance/README.md) →

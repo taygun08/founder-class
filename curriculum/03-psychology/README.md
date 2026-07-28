@@ -139,3 +139,7 @@ Bu modul, bir MBA programinin "Organizational Behavior" dersinden farkli olarak 
 - Ve tum bunlari **Turk is kulturel baglaminda** yapmasini saglamaktir.
 
 Modul, Nobel odullu arastirmalardan FBI muzakere tekniklerine, Antik Yunan filozoflarinin dusunce araclarindan modern davranissal ekonomiye kadar genis bir yelpazeyi, **dogrudan is hayatinda kullanilabilir** hale getirerek sunar.
+
+---
+
+← [Önceki: Modül 02 - Finans](../02-finance/README.md) | [Ana Sayfa](../../README.md) | [Sonraki: Modül 04 - İş Stratejisi](../04-business-strategy/README.md) →

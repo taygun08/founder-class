@@ -1,0 +1,51 @@
+# İş Dünyası Eğitim Müfredatı — İçindekiler
+
+## Başlangıç
+* [Giriş ve Öğrenme Felsefesi](curriculum/00-introduction/README.md)
+  * [Öğrenme Felsefesi](curriculum/00-introduction/learning-philosophy.md)
+
+## Ana Müfredat
+* [Modül 01: Muhasebe](curriculum/01-accounting/README.md)
+  * [Syllabus](curriculum/01-accounting/syllabus.md)
+  * [Referanslar](curriculum/01-accounting/references.md)
+* [Modül 02: Finans](curriculum/02-finance/README.md)
+  * [Syllabus](curriculum/02-finance/syllabus.md)
+  * [Referanslar](curriculum/02-finance/references.md)
+* [Modül 03: Psikoloji](curriculum/03-psychology/README.md)
+  * [Syllabus](curriculum/03-psychology/syllabus.md)
+  * [Referanslar](curriculum/03-psychology/references.md)
+* [Modül 04: İş Stratejisi](curriculum/04-business-strategy/README.md)
+  * [Syllabus](curriculum/04-business-strategy/syllabus.md)
+  * [Referanslar](curriculum/04-business-strategy/references.md)
+* [Modül 05: Pazarlama](curriculum/05-marketing/README.md)
+  * [Syllabus](curriculum/05-marketing/syllabus.md)
+  * [Referanslar](curriculum/05-marketing/references.md)
+* [Modül 06: Girişimcilik](curriculum/06-entrepreneurship/README.md)
+  * [Syllabus](curriculum/06-entrepreneurship/syllabus.md)
+  * [Referanslar](curriculum/06-entrepreneurship/references.md)
+* [Modül 07: Yapay Zeka ve Teknoloji](curriculum/07-ai-and-technology/README.md)
+  * [Syllabus](curriculum/07-ai-and-technology/syllabus.md)
+  * [Referanslar](curriculum/07-ai-and-technology/references.md)
+* [Modül 08: Araştırma ve Analiz](curriculum/08-research-analysis/README.md)
+  * [Syllabus](curriculum/08-research-analysis/syllabus.md)
+  * [Referanslar](curriculum/08-research-analysis/references.md)
+* [Modül 09: İş Hukuku ve Vergi](curriculum/09-legal/README.md)
+  * [Syllabus](curriculum/09-legal/syllabus.md)
+  * [Referanslar](curriculum/09-legal/references.md)
+* [Modül 10: Capstone](curriculum/10-capstone/README.md)
+  * [Projeler](curriculum/10-capstone/projects.md)
+  * [Syllabus](curriculum/10-capstone/syllabus.md)
+
+## Kaynaklar
+* [Kitap Listesi](resources/books.md)
+* [Online Kurslar](resources/courses.md)
+* [Vaka Çalışmaları](resources/case-studies.md)
+* [Araçlar](resources/tools.md)
+* [Takip Edilecek Kişiler](resources/people-to-follow.md)
+
+## Planlama
+* [Tam Takvim](calendar/full-calendar.md)
+* [Çeyrek 1: Muhasebe + Finans](calendar/quarter-1.md)
+* [Çeyrek 2: Psikoloji + Strateji](calendar/quarter-2.md)
+* [Çeyrek 3: Pazarlama + Girişimcilik](calendar/quarter-3.md)
+* [Çeyrek 4-6: AI, Araştırma, Hukuk, Capstone](calendar/quarter-4.md)

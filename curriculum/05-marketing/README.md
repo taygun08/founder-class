@@ -18,8 +18,8 @@ Pazarlama, modern iş dünyasının en dinamik ve stratejik işlevlerinden birid
 
 ## Ön Koşullar
 
-- 03-İş Stratejisi modülünün tamamlanmış olması önerilir
-- 04-Girişimcilik modülündeki Growth/GTM haftalarıyla bağlantılıdır
+- 04-İş Stratejisi modülünün tamamlanmış olması önerilir
+- 06-Girişimcilik modülündeki Growth/GTM haftalarıyla bağlantılıdır
 
 ## Modül Yapısı
 
@@ -43,7 +43,11 @@ Pazarlama, modern iş dünyasının en dinamik ve stratejik işlevlerinden birid
 
 ## Bağlantılı Modüller
 
-- **04-Girişimcilik**: GTM ve Growth stratejilerinin derinlemesine işlenmesi
-- **03-İş Stratejisi**: Rekabet stratejisi ile pazarlama stratejisi arasındaki bağ
-- **01-Finans**: Pazarlama bütçelemesi ve ROI hesaplamaları
-- **06-Araştırma ve Analiz**: Pazar araştırması ve tüketici içgörüleri
+- **06-Girişimcilik**: GTM ve Growth stratejilerinin derinlemesine işlenmesi
+- **04-İş Stratejisi**: Rekabet stratejisi ile pazarlama stratejisi arasındaki bağ
+- **02-Finans**: Pazarlama bütçelemesi ve ROI hesaplamaları
+- **08-Araştırma ve Analiz**: Pazar araştırması ve tüketici içgörüleri
+
+---
+
+← [Önceki: Modül 04 - İş Stratejisi](../04-business-strategy/README.md) | [Ana Sayfa](../../README.md) | [Sonraki: Modül 06 - Girişimcilik](../06-entrepreneurship/README.md) →

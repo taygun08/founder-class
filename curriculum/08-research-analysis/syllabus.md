@@ -12,7 +12,7 @@
 - Deneysel tasarım (A/B testing, quasi-experimental)
 - Korelasyon vs nedensellik ayrımı
 
-**Okuma:** `01-arastirma-metodolojisi.md` dosyasındaki tüm içerik  
+**Okuma:** `01-arastirma-metodolojisi.md` dosyasındaki tüm içerik (modül ana dizininde)  
 **Kitap:** *The Art of Scientific Investigation* (Beveridge)  
 **Vaka:** Netflix A/B testing kültürü  
 **Alıştırma:** Bir iş hipotezi oluştur, test tasarımı yap, potansiyel confounding faktörleri belirle  

@@ -93,3 +93,7 @@ Detaylı kaynakça `references.md` dosyasında verilmiştir. Kısa liste:
 - [Haftalık Ders Programı (syllabus.md)](syllabus.md)
 - [Kaynakça ve Referanslar (references.md)](references.md)
 - [Alt Modüller (modules/README.md)](modules/README.md)
+
+---
+
+← [Önceki: Modül 08 - Araştırma ve Analiz](../08-research-analysis/README.md) | [Ana Sayfa](../../README.md) | [Sonraki: Modül 10 - Capstone](../10-capstone/README.md) →

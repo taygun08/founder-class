@@ -69,3 +69,7 @@ Bu modulun sonunda katilimcilar:
 - Vakalarin takim calismasiyla analiz edilmesi
 - Final projesinde gercek bir sirket secilmesi ve stratejik analiz yapilmasi
 - Tum danismanlik sunumlarinda MECE prensibine uygun hipotez agaci kullanilmasi
+
+---
+
+← [Önceki: Modül 03 - Psikoloji](../03-psychology/README.md) | [Ana Sayfa](../../README.md) | [Sonraki: Modül 05 - Pazarlama](../05-marketing/README.md) →

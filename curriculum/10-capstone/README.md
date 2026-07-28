@@ -1,4 +1,4 @@
-# Modul 7: CAPSTONE - Bitirme Projesi
+# Modul 10: CAPSTONE - Bitirme Projesi
 
 > **"Bilgi, onu uygulamaya koymadikca sadece bir yuktur."**
 > Bu modul, ogrendiginiz 6 modulun tumunu tek bir projede birlestirdiginiz doruk noktasidir.
@@ -371,3 +371,7 @@ Her haftanin sonunda ogrenci-mentor checkpoint toplantisi yapilir:
 ---
 
 *Bu dosya, mufredat programinin 7. modulu olan Capstone Bitirme Projesi'ne aittir. Diger moduller icin curriculum/ klasorune bakiniz.*
+
+---
+
+← [Önceki: Modül 09 - İş Hukuku ve Vergi](../09-legal/README.md) | [Ana Sayfa](../../README.md) | 🎓 Müfredatı Tamamladınız! →

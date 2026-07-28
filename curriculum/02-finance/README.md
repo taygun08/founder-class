@@ -1,4 +1,4 @@
-# Modul 1: Finans
+# Modul 02: Finans
 
 ## Genel Bakis
 
@@ -120,7 +120,7 @@ Her haftanin detayli icerigi icin: [syllabus.md](syllabus.md)
 
 ## Sonraki Module Baglanti
 
-Bu modulun ardindan katilimcilar **Muhasebe Modulu**'ne gecerek finansal bilgilerin uretilmesi ve raporlanmasina iliskin daha derinlemesine bilgi edinebilirler. Finans modulunde ogrenilen finansal tablo analizi, oran analizi ve degerleme becerileri, muhasebe modulunde saglam bir temel teskilat edecektir.
+Bu modulun ardindan katilimcilar **Psikoloji Modulu'ne (03-psychology)** gecerek karar alma sureclerindeki psikolojik faktorleri daha derinlemesine kesfedebilirler. Finans modulunde ogrenilen davranissal finans temelleri, psikoloji modulunde saglam bir temel teskilat edecektir.
 
 Ayrica **Girisimcilik Modulu** icin startup finansmani ve yatirimci iliskileri konularindaki kazanimlar dogrudan girisimcilik yol haritasina entegre edilebilir.
 
@@ -131,3 +131,7 @@ Ayrica **Girisimcilik Modulu** icin startup finansmani ve yatirimci iliskileri k
 - [Haftalik Ders Programi (syllabus.md)](syllabus.md)
 - [Kaynakca ve Referanslar (references.md)](references.md)
 - [Alt Moduller (modules/)](modules/README.md)
+
+---
+
+← [Önceki: Modül 01 - Muhasebe](../01-accounting/README.md) | [Ana Sayfa](../../README.md) | [Sonraki: Modül 03 - Psikoloji](../03-psychology/README.md) →

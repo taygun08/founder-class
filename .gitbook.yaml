@@ -1,0 +1,4 @@
+# GitBook Configuration
+root: .
+structure:
+  summary: SUMMARY.md

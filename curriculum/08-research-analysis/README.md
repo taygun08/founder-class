@@ -1,4 +1,4 @@
-# Modul 6: Arastirma ve Analiz
+# Modul 08: Arastirma ve Analiz
 
 ## Genel Bakis
 
@@ -70,3 +70,7 @@ Bu modulu tamamlayan bir kisi:
 ---
 
 **Not:** Her konunun detayli icerigi alt modul dosyalarinda (01-12) bulunmaktadir. Bu dosya modulun butunsel cercevesini sunar.
+
+---
+
+← [Önceki: Modül 07 - AI ve Teknoloji](../07-ai-and-technology/README.md) | [Ana Sayfa](../../README.md) | [Sonraki: Modül 09 - İş Hukuku ve Vergi](../09-legal/README.md) →
