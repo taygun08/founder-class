@@ -374,4 +374,4 @@ Her haftanin sonunda ogrenci-mentor checkpoint toplantisi yapilir:
 
 ---
 
-← [Önceki: Modül 09 - İş Hukuku ve Vergi](../09-legal/README.md) | [Ana Sayfa](../../README.md) | 🎓 Müfredatı Tamamladınız! →
+← [Önceki: Modül 09 - İş Hukuku ve Vergi](../09-legal/) | [Ana Sayfa](../..) | 🎓 Müfredatı Tamamladınız! →

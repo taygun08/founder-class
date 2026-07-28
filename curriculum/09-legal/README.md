@@ -96,4 +96,4 @@ Detaylı kaynakça `references.md` dosyasında verilmiştir. Kısa liste:
 
 ---
 
-← [Önceki: Modül 08 - Araştırma ve Analiz](../08-research-analysis/README.md) | [Ana Sayfa](../../README.md) | [Sonraki: Modül 10 - Capstone](../10-capstone/README.md) →
+← [Önceki: Modül 08 - Araştırma ve Analiz](../08-research-analysis/) | [Ana Sayfa](../..) | [Sonraki: Modül 10 - Capstone](../10-capstone/) →

@@ -97,4 +97,4 @@ Bu modülü **tamamlanmış** saymak için:
 
 ---
 
-← [Ana Sayfa](../../README.md) | [Sonraki: Modül 01 - Muhasebe](../01-accounting/README.md) →
+← [Ana Sayfa](../..) | [Sonraki: Modül 01 - Muhasebe](../01-accounting/) →

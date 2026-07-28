@@ -73,4 +73,4 @@ Bu modulu tamamlayan bir kisi:
 
 ---
 
-← [Önceki: Modül 07 - AI ve Teknoloji](../07-ai-and-technology/README.md) | [Ana Sayfa](../../README.md) | [Sonraki: Modül 09 - İş Hukuku ve Vergi](../09-legal/README.md) →
+← [Önceki: Modül 07 - AI ve Teknoloji](../07-ai-and-technology/) | [Ana Sayfa](../..) | [Sonraki: Modül 09 - İş Hukuku ve Vergi](../09-legal/) →

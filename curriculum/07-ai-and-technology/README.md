@@ -118,4 +118,4 @@ Detayli kaynakca icin `references.md` dosyasina bakiniz.
 
 ---
 
-← [Önceki: Modül 06 - Girişimcilik](../06-entrepreneurship/README.md) | [Ana Sayfa](../../README.md) | [Sonraki: Modül 08 - Araştırma ve Analiz](../08-research-analysis/README.md) →
+← [Önceki: Modül 06 - Girişimcilik](../06-entrepreneurship/) | [Ana Sayfa](../..) | [Sonraki: Modül 08 - Araştırma ve Analiz](../08-research-analysis/) →

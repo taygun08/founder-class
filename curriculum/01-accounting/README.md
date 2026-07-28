@@ -64,4 +64,4 @@ Bu modül, Finans modülünün ön koşuludur. Muhasebe modülünde kazanılan b
 
 ---
 
-← [Önceki: Modül 00 - Giriş](../00-introduction/README.md) | [Ana Sayfa](../../README.md) | [Sonraki: Modül 02 - Finans](../02-finance/README.md) →
+← [Önceki: Modül 00 - Giriş](../00-introduction/) | [Ana Sayfa](../..) | [Sonraki: Modül 02 - Finans](../02-finance/) →

@@ -142,4 +142,4 @@ Modul, Nobel odullu arastirmalardan FBI muzakere tekniklerine, Antik Yunan filoz
 
 ---
 
-← [Önceki: Modül 02 - Finans](../02-finance/README.md) | [Ana Sayfa](../../README.md) | [Sonraki: Modül 04 - İş Stratejisi](../04-business-strategy/README.md) →
+← [Önceki: Modül 02 - Finans](../02-finance/) | [Ana Sayfa](../..) | [Sonraki: Modül 04 - İş Stratejisi](../04-business-strategy/) →

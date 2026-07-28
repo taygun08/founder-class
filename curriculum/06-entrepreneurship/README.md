@@ -108,4 +108,4 @@ Modul boyunca asagidaki kaynak turleri kullanilacaktir:
 
 ---
 
-← [Önceki: Modül 05 - Pazarlama](../05-marketing/README.md) | [Ana Sayfa](../../README.md) | [Sonraki: Modül 07 - AI ve Teknoloji](../07-ai-and-technology/README.md) →
+← [Önceki: Modül 05 - Pazarlama](../05-marketing/) | [Ana Sayfa](../..) | [Sonraki: Modül 07 - AI ve Teknoloji](../07-ai-and-technology/) →

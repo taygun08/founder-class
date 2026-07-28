@@ -50,4 +50,4 @@ Pazarlama, modern iş dünyasının en dinamik ve stratejik işlevlerinden birid
 
 ---
 
-← [Önceki: Modül 04 - İş Stratejisi](../04-business-strategy/README.md) | [Ana Sayfa](../../README.md) | [Sonraki: Modül 06 - Girişimcilik](../06-entrepreneurship/README.md) →
+← [Önceki: Modül 04 - İş Stratejisi](../04-business-strategy/) | [Ana Sayfa](../..) | [Sonraki: Modül 06 - Girişimcilik](../06-entrepreneurship/) →

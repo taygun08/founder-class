@@ -72,4 +72,4 @@ Bu modulun sonunda katilimcilar:
 
 ---
 
-← [Önceki: Modül 03 - Psikoloji](../03-psychology/README.md) | [Ana Sayfa](../../README.md) | [Sonraki: Modül 05 - Pazarlama](../05-marketing/README.md) →
+← [Önceki: Modül 03 - Psikoloji](../03-psychology/) | [Ana Sayfa](../..) | [Sonraki: Modül 05 - Pazarlama](../05-marketing/) →

@@ -134,4 +134,4 @@ Ayrica **Girisimcilik Modulu** icin startup finansmani ve yatirimci iliskileri k
 
 ---
 
-← [Önceki: Modül 01 - Muhasebe](../01-accounting/README.md) | [Ana Sayfa](../../README.md) | [Sonraki: Modül 03 - Psikoloji](../03-psychology/README.md) →
+← [Önceki: Modül 01 - Muhasebe](../01-accounting/) | [Ana Sayfa](../..) | [Sonraki: Modül 03 - Psikoloji](../03-psychology/) →
