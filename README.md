@@ -1,4 +1,4 @@
-# İş Dünyası Eğitim Müfredatı — v1.0
+# İş Dünyası Eğitim Müfredatı — v2.0
 
 > "Yenilmez ve başarılı" bir iş insanı olmak için kapsamlı, pratik ve derinlikli bir eğitim programı.
 
@@ -17,20 +17,23 @@ Bu müfredat, iş dünyasında **sadece hayatta kalmak değil, liderlik etmek** 
 
 ## 📚 Müfredat Yapısı
 
-Müfredat **7 ana modülden** oluşur. Her modül ~12 hafta sürer ve kendi içinde bağımsız tamamlanabilir. Önerilen sıralama aşağıdaki gibidir:
+Müfredat **10 modülden** oluşur. Her modül kendi içinde bağımsız tamamlanabilir. Önerilen sıralama aşağıdaki gibidir:
 
 | # | Modül | Süre | Odak |
 |---|-------|------|------|
 | 00 | **Giriş ve Öğrenme Felsefesi** | 1 hafta | Nasıl öğreneceğinizi öğrenin |
-| 01 | **Finans** | 12 hafta | Paranın dilini konuşun |
-| 02 | **Psikoloji** | 12 hafta | İnsan doğasını anlayın |
-| 03 | **İş Stratejisi** | 12 hafta | Büyük resmi görün |
-| 04 | **Girişimcilik** | 12 hafta | Sıfırdan inşa edin |
-| 05 | **Yapay Zeka ve Teknoloji** | 12 hafta | Geleceği şekillendirin |
-| 06 | **Araştırma ve Analiz** | 12 hafta | Veriyle karar verin |
-| 07 | **Capstone** | 4 hafta | Her şeyi birleştirin |
+| 01 | **Muhasebe** | 8 hafta | Finansal tabloların dilini öğrenin |
+| 02 | **Finans** | 12 hafta | Paranın dilini konuşun |
+| 03 | **Psikoloji** | 13 hafta | İnsan doğasını anlayın |
+| 04 | **İş Stratejisi** | 12 hafta | Büyük resmi görün |
+| 05 | **Pazarlama** | 8 hafta | Değer yaratın ve iletin |
+| 06 | **Girişimcilik** | 12 hafta | Sıfırdan inşa edin |
+| 07 | **Yapay Zeka ve Teknoloji** | 12 hafta | Geleceği şekillendirin |
+| 08 | **Araştırma ve Analiz** | 12 hafta | Veriyle karar verin |
+| 09 | **İş Hukuku ve Vergi** | 4 hafta | Yasal çerçeveyi bilin |
+| 10 | **Capstone** | 4 hafta | Her şeyi birleştirin |
 
-**Toplam Süre:** ~18 ay (normal tempo) | ~12 ay (yoğun tempo) | ~24 ay (yarı zamanlı)
+**Toplam Süre:** ~22 ay (normal tempo) | ~15 ay (yoğun tempo) | ~30 ay (yarı zamanlı)
 
 ---
 
@@ -38,9 +41,9 @@ Müfredat **7 ana modülden** oluşur. Her modül ~12 hafta sürer ve kendi içi
 
 | Yol | Haftalık Süre | Toplam Süre | Kimler İçin? |
 |-----|---------------|-------------|--------------|
-| **Yoğun** | 20-25 saat | ~12 ay | Tam zamanlı kendini geliştirmek isteyenler |
-| **Normal** | 10-15 saat | ~18 ay | Çalışırken kendini geliştiren profesyoneller |
-| **Esnek** | 5-8 saat | ~24 ay | Yoğun çalışan, aile sahibi profesyoneller |
+| **Yoğun** | 20-25 saat | ~15 ay | Tam zamanlı kendini geliştirmek isteyenler |
+| **Normal** | 10-15 saat | ~22 ay | Çalışırken kendini geliştiren profesyoneller |
+| **Esnek** | 5-8 saat | ~30 ay | Yoğun çalışan, aile sahibi profesyoneller |
 
 ---
 
@@ -52,13 +55,16 @@ mufredat/
 ├── CLAUDE.md                    # Proje kuralları (Claude için)
 ├── curriculum/                  # Müfredat içeriği
 │   ├── 00-introduction/         # Giriş ve öğrenme felsefesi
-│   ├── 01-finance/              # Finans modülü
-│   ├── 02-psychology/           # Psikoloji modülü
-│   ├── 03-business-strategy/    # İş stratejisi modülü
-│   ├── 04-entrepreneurship/     # Girişimcilik modülü
-│   ├── 05-ai-and-technology/    # AI ve teknoloji modülü
-│   ├── 06-research-analysis/    # Araştırma ve analiz modülü
-│   └── 07-capstone/             # Bitirme projeleri
+│   ├── 01-accounting/           # Muhasebe modülü
+│   ├── 02-finance/              # Finans modülü
+│   ├── 03-psychology/           # Psikoloji modülü
+│   ├── 04-business-strategy/    # İş stratejisi modülü
+│   ├── 05-marketing/            # Pazarlama modülü
+│   ├── 06-entrepreneurship/     # Girişimcilik modülü
+│   ├── 07-ai-and-technology/    # AI ve teknoloji modülü
+│   ├── 08-research-analysis/    # Araştırma ve analiz modülü
+│   ├── 09-legal/                # İş hukuku ve vergi modülü
+│   └── 10-capstone/             # Bitirme projeleri
 ├── calendar/                    # Takvim ve planlama
 ├── resources/                   # Kaynaklar (kitaplar, kurslar, araçlar)
 └── versions/                    # Versiyon arşivi
@@ -106,7 +112,8 @@ Her gün şu soruları cevaplayın:
 
 | Versiyon | Tarih | Değişiklikler |
 |----------|-------|---------------|
-| v1.0 | Temmuz 2026 | İlk sürüm: 6 modül + capstone + takvim + kaynaklar |
+| v2.0 | Temmuz 2026 | 3 yeni modül (Muhasebe, Pazarlama, Hukuk/Vergi), 96+ gap fix, kapsamlı cross-reference güncellemesi |
+| v1.0 | Temmuz 2026 | İlk sürüm: 6 modül + giriş + capstone + takvim + kaynaklar |
 
 ---
 

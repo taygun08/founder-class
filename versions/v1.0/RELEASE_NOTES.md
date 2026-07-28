@@ -1,117 +1,84 @@
-# Müfredat v1.0 — Sürüm Notları
+# Müfredat v2.0 — Sürüm Notları
 
 > **Yayın Tarihi:** Temmuz 2026  
-> **Kapsam:** 6 modül + Capstone + Giriş | 76 hafta | 18 ay (Normal Tempo)
+> **Kapsam:** 10 modül + Capstone | 98 hafta | ~22 ay (Normal Tempo)
 
 ---
 
-## Bu Sürümde Neler Var?
+## v2.0'da Neler Yeni?
 
-### Tamamlanan Modüller
+### 🆕 3 Yeni Modül
+| # | Modül | Süre | Açıklama |
+|---|-------|------|----------|
+| 01 | **Muhasebe** | 8 hafta | Çift taraflı kayıt, TMS/TFRS, maliyet, denetim, TMS 29 |
+| 05 | **Pazarlama** | 8 hafta | STP, marka, dijital, büyüme pazarlaması, fiyatlandırma |
+| 09 | **İş Hukuku ve Vergi** | 4 hafta | Şirketler hukuku, sözleşme, iş hukuku, Türk vergi sistemi |
 
-| # | Modül | Durum | İçerik |
-|---|-------|-------|--------|
-| 00 | Giriş ve Öğrenme Felsefesi | ✅ | README, öğrenme felsefesi, sistem kurulumu |
-| 01 | Finans | ✅ | 12 hafta, 8 konu, tam syllabus + referanslar |
-| 02 | Psikoloji | ✅ | 12 hafta, 10 konu, tam syllabus + referanslar |
-| 03 | İş Stratejisi | ✅ | 14 hafta, 10 konu + MBB danışmanlık, tam syllabus + referanslar |
-| 04 | Girişimcilik | ✅ | 12 hafta, 12 konu + YC entegrasyonu, tam syllabus + referanslar |
-| 05 | Yapay Zeka ve Teknoloji | ✅ | 12 hafta, 12 alt modül, tam syllabus + referanslar |
-| 06 | Araştırma ve Analiz | ✅ | 12 hafta, tam syllabus + referanslar |
-| 07 | Capstone | ✅ | 4 hafta, 3 proje seçeneği |
+### 🔧 Kapsamlı Gap Fix (~96 bulgu kapatıldı)
 
-### Takvim
-| Dosya | İçerik |
-|-------|--------|
-| `full-calendar.md` | 76 haftalık tam takvim (3 tempo seçeneği) |
-| `quarter-1.md` | Finans detay (Hafta 1-12) |
-| `quarter-2.md` | Psikoloji detay (Hafta 13-24) |
-| `quarter-3.md` | Strateji detay (Hafta 25-36) |
-| `quarter-4.md` | Girişimcilik + AI + Araştırma + Capstone (Hafta 37-76) |
+**02-finance:** Türev ürünler/hedging, risk yönetimi (VaR), ESG finans, BDDK, finansal modelleme genişletildi
 
-### Kaynaklar
-| Dosya | İçerik |
-|-------|--------|
-| `books.md` | 75+ kitap, kategorize edilmiş |
-| `courses.md` | 40+ online kurs ve sertifika programı |
-| `tools.md` | İş araçları, AI araçları, veri araçları |
-| `case-studies.md` | 30+ vaka çalışması (global + Türkiye) |
-| `people-to-follow.md` | Akademisyenler, yatırımcılar, CEO'lar, içerik üreticileri |
+**03-psychology:** Nöroliderlik (SCARF), DEI/kapsayıcılık, kuşak farklılıkları, uzaktan çalışma, etik karar, kriz psikolojisi, çatışma yönetimi, nöroçeşitlilik, oyunlaştırma eklendi. 12→13 hafta.
+
+**04-business-strategy:** ESG stratejisi, tedarik zinciri, jeopolitik risk, rekabet hukuku, exit stratejisi, Çin/Asya pazarları, JV, aile şirketleri, M&A derinleştirildi. 14→12 haftaya normalize edildi.
+
+**06-entrepreneurship:** Bootstrapping vs VC, regüle sektörler, solo founder/creator economy, B2B vs B2C, SME vs VC-scale, franchise, Web3/kripto, sosyal girişimcilik, acquisition-led growth eklendi. Yazım hataları düzeltildi.
+
+**07-ai-and-technology:** AI agent'lar, AI safety/alignment, MLOps, AI ile ürün yönetimi, iş gücüne etkisi, açık kaynak vs ticari, prompt engineering derinleştirme, Edge AI, GDPR eklendi. ASCII karakter temizliği yapıldı.
+
+**08-research-analysis:** Web scraping etiği, ML temelleri, behavioral analytics, conjoint analizi, veri kalitesi çerçeveleri, deney kültürü eklendi. modules/README.md oluşturuldu. Bölüm numaralandırması standardize edildi.
+
+**10-capstone:** syllabus.md oluşturuldu, mentorluk rehberi eklendi, akran değerlendirmesi eklendi, zaman planlaması düzeltildi. Sertifika şablonu ayrı dosyaya taşındı.
+
+### 🔗 Cross-Reference Temizliği
+- 12+ kırık referans (olmayan "Muhasebe Modülü", "Hukuk Modülü" vb.) düzeltildi
+- Tüm modüller yeniden numaralandırıldı (01→10)
+- 18 dosyada cross-reference güncellendi
+- Sıfır eski/kırık referans
+
+### 📅 Takvim
+- 76 hafta → 98 hafta (yeni modüllerle)
+- Normal tempo: ~18 ay → ~22 ay
+- Tüm quarter dosyaları yeniden yazıldı
 
 ---
 
-## Metodoloji
+## Modül Listesi
 
-Bu müfredat şu kaynaklardan beslenerek oluşturuldu:
-
-### Araştırma Kaynakları
-- **7 MBA programı** müfredat analizi: Harvard, Stanford, Wharton, MIT Sloan, INSEAD, LBS, Kellogg
-- **Y Combinator** Startup School içerikleri ve Paul Graham külliyatı
-- **CFA Institute** finansal analiz müfredatı
-- **DeepLearning.AI / Andrew Ng** AI eğitim içerikleri
-- **McKinsey, BCG, Bain** strateji danışmanlığı frameworkleri
-- **Türkiye bağlamı:** TÜSİAD, SPK, BIST, KAP, TCMB, yerel startup ekosistemi
-
-### Öğrenme Tasarımı Prensipleri
-- **Kolb Döngüsü:** Deneyim → Yansıtma → Kavramsallaştırma → Aktif Deney
-- **Spaced Repetition:** Aralıklı tekrar ile kalıcı öğrenme
-- **Case Method:** Harvard modeli vaka tartışmaları
-- **Action Learning:** MIT modeli uygulamalı projeler
-- **First Principles:** Temel prensiplerden türetme
+| # | Modül | Süre | Durum |
+|---|-------|------|-------|
+| 00 | Giriş ve Öğrenme Felsefesi | 1 hafta | ✅ |
+| 01 | Muhasebe | 8 hafta | ✅ YENİ |
+| 02 | Finans | 12 hafta | ✅ Güncellendi |
+| 03 | Psikoloji | 13 hafta | ✅ Güncellendi |
+| 04 | İş Stratejisi | 12 hafta | ✅ Güncellendi |
+| 05 | Pazarlama | 8 hafta | ✅ YENİ |
+| 06 | Girişimcilik | 12 hafta | ✅ Güncellendi |
+| 07 | Yapay Zeka ve Teknoloji | 12 hafta | ✅ Güncellendi |
+| 08 | Araştırma ve Analiz | 12 hafta | ✅ Güncellendi |
+| 09 | İş Hukuku ve Vergi | 4 hafta | ✅ YENİ |
+| 10 | Capstone | 4 hafta | ✅ Güncellendi |
 
 ---
 
 ## İstatistikler
 
-| Metrik | Değer |
-|--------|-------|
-| Toplam modül | 7 (6 + Capstone) |
-| Toplam hafta | 76 |
-| Toplam konu başlığı | 60+ |
-| Önerilen kitap | 75+ |
-| Online kurs | 40+ |
-| Vaka çalışması | 30+ |
-| Pratik alıştırma | 100+ |
-| Toplam içerik dosyası | 40+ |
-| Araştırmada taranan kaynak | 200+ |
-
----
-
-## Sürüm Yol Haritası
-
-### v1.1 (Planlanan)
-- [ ] Her modül için video/sesli ders içerikleri
-- [ ] İnteraktif quiz ve değerlendirme soruları
-- [ ] Grup çalışması rehberleri
-- [ ] Daha fazla Türkiye vaka çalışması
-
-### v1.2 (Planlanan)
-- [ ] İleri seviye derinleşme modülleri
-- [ ] Sektörel özelleştirmeler (Teknoloji, Finans, Sağlık, Enerji)
-- [ ] Mentor eşleştirme rehberi
-- [ ] Dijital öğrenme platformu entegrasyonu
-
-### v2.0 (Vizyon)
-- [ ] İnteraktif web platformu
-- [ ] Yapay zeka destekli kişiselleştirilmiş öğrenme yolu
-- [ ] Canlı vaka tartışmaları ve simülasyonlar
-- [ ] Sertifikasyon programı
+| Metrik | v1.0 | v2.0 |
+|--------|------|------|
+| Toplam modül | 7 (6 + Capstone) | 10 (9 + Capstone) |
+| Toplam hafta | 76 | 98 |
+| Normal tempo | ~18 ay | ~22 ay |
+| Toplam dosya | 57 | 82 |
+| Önerilen kitap | 75+ | 120+ |
+| Online kurs | 50+ | 80+ |
+| Vaka çalışması | 50+ | 80+ |
+| Pratik alıştırma | 100+ | 150+ |
 
 ---
 
 ## Katkıda Bulunanlar
 
-Bu müfredat, Claude (Anthropic) tarafından, kapsamlı web araştırmaları ve çoklu uzman ajan paralel çalışmasıyla oluşturulmuştur.
-
-**Araştırma Ajanları:** Finans, Psikoloji, Strateji, Girişimcilik, AI/Teknoloji, Araştırma/Analiz, MBA Benchmarking, Türkiye Bağlamı
-
-**İçerik Üretim Ajanları:** Her modül için özel içerik üreticileri
-
----
-
-## Lisans ve Kullanım
-
-Bu müfredat kişisel gelişim amaçlıdır. İçerik referansları kendi kaynaklarına aittir. Müfredat yapısı ve özgün içerikler serbestçe kullanılabilir, değiştirilebilir ve paylaşılabilir.
+Bu müfredat, Claude (Anthropic) tarafından, 8 araştırma + 7 içerik üretim + 4 gap analizi + 1 cross-reference ajanıyla oluşturulmuştur. Toplam ~20 paralel ajan çalışması.
 
 ---
 

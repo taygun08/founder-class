@@ -1,7 +1,7 @@
 # CLAUDE.md — İş Dünyası Eğitim Müfredatı (mufredat)
 
 ## Proje Özeti
-İş dünyasında bir insanı yenilmez ve başarılı kılacak kapsamlı bir eğitim müfredatı. Finans, psikoloji, iş stratejisi, girişimcilik, yapay zeka ve araştırma & analiz olmak üzere 6 ana modülden oluşur. Bu ilk versiyondur (v1.0), gelecek iterasyonlar için genişletilebilir yapıdadır.
+İş dünyasında bir insanı yenilmez ve başarılı kılacak kapsamlı bir eğitim müfredatı. Muhasebe, finans, psikoloji, iş stratejisi, pazarlama, girişimcilik, yapay zeka, araştırma & analiz ve iş hukuku olmak üzere 10 ana modülden oluşur. Bu ilk versiyondur (v2.0), gelecek iterasyonlar için genişletilebilir yapıdadır.
 
 ## Claude'un Rolü: Lider
 Bu projede Claude "Lider" rolündedir. Alt ajanları yönetir, paralel araştırmalar yaptırır, gap'leri tespit eder, kararlar alır ve süreci kesintisiz yürütür.
@@ -61,12 +61,12 @@ Bu projede Claude "Lider" rolündedir. Alt ajanları yönetir, paralel araştır
 - GitHub'da düzgün render edilebilir olacak.
 
 ### 9. Versiyonlama
-- Bu ilk versiyon: v1.0
+- Bu ikinci versiyon: v2.0
 - Gelecek iterasyonlar için klasör yapısı temiz ve modüler.
 - Her versiyon `versions/` altında snapshot olarak saklanabilir.
 
 ### 10. Durma Koşulu
-- Tüm müfredat (6 modül + giriş + capstone + takvim + kaynaklar) eksiksiz tamamlanana kadar DURMA.
+- Tüm müfredat (10 modül + giriş + capstone + takvim + kaynaklar) eksiksiz tamamlanana kadar DURMA.
 - Bitirdiğinde kullanıcıya bildir ve özet çıkar.
 
 ## Proje Yapısı
@@ -76,13 +76,16 @@ mufredat/
 ├── README.md
 ├── curriculum/
 │   ├── 00-introduction/       # Müfredat felsefesi, kullanım kılavuzu
-│   ├── 01-finance/            # Finansal okuryazarlık, yatırım, değerleme
-│   ├── 02-psychology/         # Davranışsal ekonomi, müzakere, liderlik
-│   ├── 03-business-strategy/  # Rekabet stratejisi, iş modeli inovasyonu
-│   ├── 04-entrepreneurship/   # Lean startup, fundraising, büyüme
-│   ├── 05-ai-and-technology/  # AI stratejisi, otomasyon, veri kararları
-│   ├── 06-research-analysis/  # Pazar araştırması, veri analizi
-│   └── 07-capstone/           # Bitirme projeleri
+│   ├── 01-accounting/           # Muhasebe modülü
+│   ├── 02-finance/              # Finans modülü
+│   ├── 03-psychology/           # Psikoloji modülü
+│   ├── 04-business-strategy/    # İş stratejisi modülü
+│   ├── 05-marketing/            # Pazarlama modülü
+│   ├── 06-entrepreneurship/     # Girişimcilik modülü
+│   ├── 07-ai-and-technology/    # AI ve teknoloji modülü
+│   ├── 08-research-analysis/    # Araştırma ve analiz modülü
+│   ├── 09-legal/                # İş hukuku ve vergi modülü
+│   └── 10-capstone/             # Bitirme projeleri
 ├── calendar/                  # Takvim ve öğrenme yolları
 ├── resources/                 # Kitaplar, kurslar, vaka çalışmaları, araçlar
 └── versions/                  # Versiyon snapshot'ları

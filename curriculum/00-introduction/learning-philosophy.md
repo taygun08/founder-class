@@ -205,4 +205,4 @@ Cal Newport'un formülü:
 
 > "Öğrenmenin amacı bilgi değil, eylemdir." — Thomas Hobbes
 
-**Şimdi:** Öğrenme manifestonu yaz, sistemini kur, ve Modül 01'e geç. 🚀
+**Şimdi:** Öğrenme manifestonu yaz, sistemini kur, ve Modül 02'ye geç. 🚀

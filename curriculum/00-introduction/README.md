@@ -57,7 +57,7 @@ Bu modülü tamamladığınızda:
 ### Gün 7: Değerlendirme ve Başlangıç
 - [ ] Bu haftanın öğrenme günlüğünü gözden geçir
 - [ ] Sisteminde ne çalıştı, ne çalışmadı? Ayarla.
-- [ ] Modül 01 (Finans) için takvime ilk haftayı planla
+- [ ] Modül 02 (Finans) için takvime ilk haftayı planla
 - **Mini Proje:** 1 sayfalık "Öğrenme Manifestom" yaz:
   - Neden bu müfredatı takip ediyorum?
   - Beni ne motive ediyor?
@@ -97,4 +97,4 @@ Bu modülü **tamamlanmış** saymak için:
 
 ---
 
-**Sonraki:** [Modül 01: Finans](../01-finance/README.md) → Paranın dilini öğrenmeye hazır mısın? 💰
+**Sonraki:** [Modül 01: Muhasebe](../01-accounting/README.md) → Paranın dilini öğrenmeye hazır mısın? 💰

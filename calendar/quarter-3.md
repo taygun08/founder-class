@@ -1,83 +1,46 @@
-# Çeyrek 3: İş Stratejisi (Ay 7-9, Hafta 25-36)
+# Çeyrek 3: Pazarlama + Girişimcilik (Ay 12-17)
 
-> **Modül 03** | **Odak:** Büyük resmi gör, kazanan stratejiyi tasarla
-
----
-
-## Hafta 25-28: Rekabet ve Konumlandırma
-
-### H25: Rekabet Stratejisi
-- Porter'ın 5 Gücü, Generic Strategies, Value Chain
-- **Kitap:** Porter — *Competitive Strategy* (veya Magretta'nın özet kitabı)
-- **Alıştırma:** Bir sektör için tam 5 Güç analizi
-- **Türkiye'de Bu:** Türk holdingleri ve rekabet dinamikleri
-
-### H26: Değer Zinciri ve Stratejik Grup Haritası
-- Value chain mapping, strategic group map
-- **Vaka:** Zara, Toyota, Turkish Airlines
-- **Alıştırma:** THY'nin değer zincirini haritala
-
-### H27: Blue Ocean Strategy
-- Strategy Canvas, ERRC Matrix, Value Innovation
-- **Kitap:** Kim & Mauborgne — *Blue Ocean Strategy*
-- **Alıştırma:** Seçtiğin sektörde mavi okyanus stratejisi tasarla (ERRC ile)
-- **Türkiye'de Bu:** Trendyol ve Getir — Türkiye'den mavi okyanus örnekleri
-
-### H28: İş Modeli İnovasyonu
-- BMC, Value Proposition Canvas, Platform Thinking
-- **Kitap:** Osterwalder & Pigneur — *Business Model Generation*
-- **Alıştırma:** Mevcut bir şirketin iş modelini canvas'ta çiz, alternatif model tasarla
+> **Modül 05, 06** | **Hafta 46-65**
 
 ---
 
-## Hafta 29-32: Büyüme ve Stratejik Düşünce
+## Modül 05: Pazarlama (Hafta 46-53 — 8 hafta)
 
-### H29: Büyüme Stratejisi
-- Ansoff Matrix, BCG Matrix, organik vs inorganik büyüme
-- **Kitap:** Lafley & Martin — *Playing to Win*
-- **Alıştırma:** Koç Holding'in portföyünü BCG Matrix'inde konumlandır
+| Hafta | Konu |
+|-------|------|
+| H46 | Pazarlama Stratejisi: STP, Konumlandırma (Kotler, Ries & Trout) |
+| H47 | Tüketici Davranışı (Kahneman, Cialdini kesişimi) |
+| H48 | Marka Yönetimi: CBBE, Brand Equity (Aaker, Keller) |
+| H49 | Dijital Pazarlama I: SEO, SEM, İçerik, Sosyal Medya |
+| H50 | Dijital Pazarlama II: Performans, Programatik, CRO |
+| H51 | Fiyatlandırma Stratejisi (değer bazlı, dinamik, psikoloji) |
+| H52 | Büyüme Pazarlaması: AARRR, Growth Loops, PLG |
+| H53 | 🏆 Pazarlama Planı Final + Pazarlama Analitiği |
 
-### H30: M&A ve Portföy Stratejisi
-- M&A süreci, due diligence, PMI (post-merger integration)
-- **Alıştırma:** Hayali bir satın alma hedefinin due diligence önceliklerini belirle
-
-### H31: Stratejik Düşünce I — Oyun Teorisi
-- Nash dengesi, mahkum ikilemi, sinyalizasyon, taahhüt
-- **Kitap:** McMillan — *Games, Strategies, and Managers*
-- **Alıştırma:** Mahkum ikilemi simülasyonu (grupla oyna)
-
-### H32: Stratejik Düşünce II — Sistem Düşüncesi ve Senaryo Planlama
-- Geribesim döngüleri, kaldıraç noktaları, Shell senaryo yöntemi
-- **Kitap:** Meadows — *Thinking in Systems*
-- **Alıştırma:** "2029 Türkiye Ekonomisi" için 4 senaryo geliştir
+→ [curriculum/05-marketing/](../curriculum/05-marketing/)
 
 ---
 
-## Hafta 33-36: Uygulama, İnovasyon ve Final
+## Modül 06: Girişimcilik (Hafta 54-65 — 12 hafta)
 
-### H33: Strateji Uygulaması — OKR
-- OKR/CFR, cascading goals, Andy Grove prensipleri
-- **Kitap:** Doerr — *Measure What Matters*
-- **Alıştırma:** Kendi ekibin/şirketin için 1 yıllık OKR yaz
-- **Türkiye'de Bu:** Türk şirketlerinde OKR uygulama zorlukları
+| Hafta | Konu |
+|-------|------|
+| H54 | Girişimci Zihniyeti, SME vs VC-Scale, Bootstrapping |
+| H55 | Problem Validation, Müşteri Keşfi (The Mom Test) |
+| H56 | Lean Startup: MVP, B2B vs B2C |
+| H57 | Product-Market Fit (Sean Ellis, Cohort) |
+| H58 | Fundraising: Bootstrapping vs VC, SAFE, Regüle Sektörler |
+| H59 | Growth: AARRR, Growth Loops, Creator Economy |
+| H60 | Go-to-Market: PLG vs SLG, Kanallar |
+| H61 | Ekip, Kültür, Solo Founder Stratejileri |
+| H62 | Scaling: Blitzscaling, Acquisition-led Growth |
+| H63 | Exit, Franchise, Web3/Kripto Girişimciliği |
+| H64 | Sosyal Girişimcilik, YC ve Diğer Okullar |
+| H65 | 🏆 Demo Day: Pitch Deck + Yatırımcı Sunumu |
 
-### H34: İnovasyon Stratejisi
-- Yıkıcı inovasyon, Jobs-to-Be-Done, innovator's dilemma
-- **Kitap:** Christensen — *The Innovator's Dilemma* + *Competing Against Luck*
-- **Alıştırma:** Bir ürünün "işe alındığı" JTBD'yi haritala
-
-### H35: Dijital Dönüşüm ve Kriz Yönetimi
-- Dijital olgunluk modelleri, platform dönüşümü, turnaround
-- **Kitap:** Trabucchi & Buganza — *The Digital Phoenix Effect*
-- **Alıştırma:** Geleneksel bir şirket için dijital dönüşüm yol haritası
-
-### H36: Modül Finali — Yönetim Kurulu Sunumu
-- Kapsamlı strateji analizi + öneri paketi
-- **Teslim:** 15 slaytlık board-ready sunum + 5 sayfalık executive summary
-- **Format:** McKinsey piramit prensibiyle yapılandırılmış
-- **Türkiye'de Bu:** Bir Türk şirketinin yönetim kuruluna strateji sunumu (simülasyon)
+→ [curriculum/06-entrepreneurship/](../curriculum/06-entrepreneurship/)
 
 ---
 
-**✅ Teslim:** Strateji board sunumu + Mavi okyanus projesi + OKR seti  
-**Sonraki:** [Çeyrek 4: Girişimcilik →](quarter-4.md)
+**✅ Çeyrek 3 Kilometre Taşı:** Pazarlama planı + Yatırımcıya pitch yapabilme  
+**Sonraki:** [Çeyrek 4: AI + Araştırma + Hukuk + Capstone](quarter-4.md)
