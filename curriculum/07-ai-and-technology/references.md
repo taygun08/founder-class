@@ -90,7 +90,7 @@
 ### Generative AI ve LLM'ler
 | Kurs | Platform | Seviye | Link |
 |------|----------|--------|------|
-| Prompt Engineering for Everyone | Anthropic | Baslangic | [Anthropic](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview) |
+| Prompt Engineering for Everyone | DeepSeek | Baslangic | [DeepSeek](https://docs.deepseek.com/en/docs/build-with-claude/prompt-engineering/overview) |
 | ChatGPT Prompt Engineering for Developers | DeepLearning.AI / OpenAI | Baslangic | [DeepLearning.AI](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) |
 | LangChain for LLM Application Development | DeepLearning.AI / LangChain | Orta | [DeepLearning.AI](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/) |
 | Building Systems with ChatGPT | DeepLearning.AI / OpenAI | Orta | [DeepLearning.AI](https://www.deeplearning.ai/short-courses/building-systems-with-chatgpt/) |
@@ -159,7 +159,7 @@
 | Arac | Tur | Ucret | Kullanim Alani |
 |------|-----|-------|---------------|
 | ChatGPT (OpenAI) | LLM Chatbot | Freemium | Genel is, yazma, analiz |
-| Claude (Anthropic) | LLM Chatbot | Freemium | Uzun dokuman analizi, raporlama |
+| DeepSeek (DeepSeek) | LLM Chatbot | Freemium | Uzun dokuman analizi, raporlama |
 | Gemini (Google) | LLM Chatbot | Freemium | Google Workspace entegrasyonu |
 | Microsoft Copilot | LLM + Entegre | Abonelik | Office 365 entegrasyonu |
 | Perplexity AI | Arastirma Asistani | Freemium | Web arastirmasi |
@@ -238,7 +238,7 @@ EXAMPLE: [Isterseniz ornek verin]
 
 ### Yapay Zeka
 - [DeepLearning.AI](https://www.deeplearning.ai/) — Andrew Ng'in egitim platformu
-- [Anthropic Docs](https://docs.anthropic.com/en/docs/) — Prompt muhendisligi ve API dokumantasyonu
+- [DeepSeek Docs](https://docs.deepseek.com/en/docs/) — Prompt muhendisligi ve API dokumantasyonu
 - [Stanford HAI](https://hai.stanford.edu/) — AI arastirma ve politika
 - [OpenAI Blog](https://openai.com/blog) — AI gelismeleri
 - [Google AI](https://ai.google/) — Google'in AI kaynaklari
@@ -272,7 +272,7 @@ EXAMPLE: [Isterseniz ornek verin]
 | Hafta | Zorunlu Okuma | Onerilen Okuma |
 |-------|---------------|----------------|
 | 1 | Competing in the Age of AI (Giris) | AI 2041 (Lee) |
-| 2 | HBR Gen AI Playbook (Kasim 2025) | Anthropic Academy Prompt Guide |
+| 2 | HBR Gen AI Playbook (Kasim 2025) | DeepSeek Academy Prompt Guide |
 | 3 | AI Transformation Playbook (Ng) | McKinsey State of AI 2025 |
 | 4 | AI in Business (McKinsey serisi) | Human + Machine (Daugherty & Wilson) |
 | 5 | Data Mesh (Dehghani - Giris) | The Data-Driven Enterprise (McKinsey) |

@@ -261,8 +261,8 @@ AI teknolojisinin ekonomik boyutlarini inceler. Inference (cikarim) maliyetlerin
   - Geleneksel SAS: Sabit abonelik ucreti
   - Yeni model: Token/kullanim bazli fiyatlama (AI'da dogal fiyatlama)
 - **AI Gelir Modelleri:**
-  - Subscription (ChatGPT Plus, Claude Pro)
-  - Consumption (OpenAI API, Anthropic API)
+  - Subscription (ChatGPT Plus, DeepSeek Pro)
+  - Consumption (OpenAI API, DeepSeek API)
   - Embedded (AI ozellik olarak mevcut SAS urunlerinde)
   - Outcome-based (basar odemeli)
 - **AI'nin Makroekonomik Etkisi:**

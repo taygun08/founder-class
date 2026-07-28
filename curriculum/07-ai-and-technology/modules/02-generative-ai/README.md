@@ -11,8 +11,8 @@
 ## Okuma Listesi
 
 - HBR: "The Gen AI Playbook for Organizations" (Kasim 2025)
-- Anthropic Academy: "Introduction to Prompt Engineering"
-- "What Are Embeddings?" — Anthropic / Cohere dokumantasyonu
+- DeepSeek Academy: "Introduction to Prompt Engineering"
+- "What Are Embeddings?" — DeepSeek / Cohere dokumantasyonu
 - Andrew Ng — "Generative AI for Everyone" notlari
 
 ## Vaka Calismasi
@@ -21,7 +21,7 @@ Morgan Stanley'nin LLM ile danisman destek sistemi, finansal hizmetlerde GenAI'i
 
 ## Pratik Alistirma
 
-Hands-on prompt muhendisligi: Ayni prompt'u 3 farkli sekilde yazarak ciktilari karsilastirma (Anthropic Console veya ChatGPT kullanarak). Bir is senaryosu icin "system prompt" tasarlama (ornegin: bir banka musteri hizmetleri asistani). RAG vs Fine-Tuning karsilastirmasi yaparak hangi durumda hangisinin secilecegini belirleme.
+Hands-on prompt muhendisligi: Ayni prompt'u 3 farkli sekilde yazarak ciktilari karsilastirma (DeepSeek Console veya ChatGPT kullanarak). Bir is senaryosu icin "system prompt" tasarlama (ornegin: bir banka musteri hizmetleri asistani). RAG vs Fine-Tuning karsilastirmasi yaparak hangi durumda hangisinin secilecegini belirleme.
 
 ## Turkiye'de Bu
 

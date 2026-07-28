@@ -78,7 +78,7 @@
 
 ## Katkıda Bulunanlar
 
-Bu müfredat, Claude (Anthropic) tarafından, 8 araştırma + 7 içerik üretim + 4 gap analizi + 1 cross-reference ajanıyla oluşturulmuştur. Toplam ~20 paralel ajan çalışması.
+Bu müfredat, DeepSeek (DeepSeek) tarafından, 8 araştırma + 7 içerik üretim + 4 gap analizi + 1 cross-reference ajanıyla oluşturulmuştur. Toplam ~20 paralel ajan çalışması.
 
 ---
 

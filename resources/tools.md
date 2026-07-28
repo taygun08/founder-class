@@ -105,8 +105,8 @@
 | Arac | Aciklama | Ucret | Kullanim Alani | Link |
 |------|----------|-------|----------------|------|
 | **ChatGPT** | OpenAI sohbet robotu; metin, mantik, analiz | Ucretsiz (Plus ~$20/ay) | Genel AI, Arastirma, Icerik | [chat.openai.com](https://chat.openai.com) |
-| **Claude** | Anthropic sohbet robotu; uzun belge analizi, dusunce ortakligi | Ucretsiz (Pro ~$20/ay) | Arastirma, Analiz, Kod | [claude.ai](https://claude.ai) |
-| **Claude Code** | Terminal tabanli AI kodlama asistani | Ucretli (API) | Kod Gelistirme | [anthropic.com](https://www.anthropic.com) |
+| **DeepSeek** | DeepSeek sohbet robotu; uzun belge analizi, dusunce ortakligi | Ucretsiz (Pro ~$20/ay) | Arastirma, Analiz, Kod | [claude.ai](https://claude.ai) |
+| **DeepSeek Code** | Terminal tabanli AI kodlama asistani | Ucretli (API) | Kod Gelistirme | [deepseek.com](https://www.deepseek.com) |
 | **GitHub Copilot** | Kod tamamlama ve AI yardimci | Ucretsiz (Pro ~$10/ay) | Kod Gelistirme | [github.com/features/copilot](https://github.com/features/copilot) |
 | **Perplexity** | AI destekli arama motoru | Ucretsiz (Pro ~$20/ay) | Arastirma, Kaynakli Cevaplar | [perplexity.ai](https://www.perplexity.ai) |
 | **Gemini** | Google AI asistani | Ucretsiz (Advanced ~$20/ay) | Genel AI, Arastirma | [gemini.google.com](https://gemini.google.com) |

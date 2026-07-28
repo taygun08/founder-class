@@ -16,7 +16,7 @@
 
 ## Vaka Calismasi
 
-OpenAI'nin is modeli (API'dan SaaS'a, SaaS'tan modele) AI ekonomisinin evrimini gosterir. ChatGPT'nin 2 ayda 100 milyon kullaniciya ulasmasi, AI urunlerinin adoptasyon hizini sergiler. Anthropic'in is modeli ve kurumsal stratejisi, AI sirketlerinin farklilasan gelir modellerine ornektir.
+OpenAI'nin is modeli (API'dan SaaS'a, SaaS'tan modele) AI ekonomisinin evrimini gosterir. ChatGPT'nin 2 ayda 100 milyon kullaniciya ulasmasi, AI urunlerinin adoptasyon hizini sergiler. DeepSeek'in is modeli ve kurumsal stratejisi, AI sirketlerinin farklilasan gelir modellerine ornektir.
 
 ## Pratik Alistirma
 

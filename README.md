@@ -53,7 +53,7 @@ Müfredat **10 modülden** oluşur. Her modül kendi içinde bağımsız tamamla
 mufredat/
 ├── .gitbook.yaml                # GitBook yapılandırması
 ├── README.md                    # Bu dosya
-├── CLAUDE.md                    # Proje kuralları (Claude için)
+├── CLAUDE.md                     # Proje kuralları
 ├── SUMMARY.md                   # İçindekiler tablosu
 ├── START_HERE.md                # Başlangıç rehberi
 ├── curriculum/                  # Müfredat içeriği

@@ -56,8 +56,8 @@
 
 **Okuma:**
 - HBR: "The Gen AI Playbook for Organizations" (Kasim 2025)
-- Anthropic Academy: "Introduction to Prompt Engineering" (uygulamali)
-- "What Are Embeddings?" — Anthropic / Cohere dokumantasyonu
+- DeepSeek Academy: "Introduction to Prompt Engineering" (uygulamali)
+- "What Are Embeddings?" — DeepSeek / Cohere dokumantasyonu
 
 **Izleme:**
 - Andrew Ng — "Generative AI for Everyone" (DeepLearning.AI, Hafta 1-2)
@@ -69,7 +69,7 @@
 - GitHub Copilot: Bir LLM urununun is dunyasina etkisi
 
 **Pratik Alistirma:**
-- Hands-on prompt muhendisligi: Ayni prompt'u 3 farkli sekilde yazarak ciktilari karsilastirma (Anthropic Console veya ChatGPT kullanarak)
+- Hands-on prompt muhendisligi: Ayni prompt'u 3 farkli sekilde yazarak ciktilari karsilastirma (DeepSeek Console veya ChatGPT kullanarak)
 - Bir is senaryosu icin "system prompt" tasarlama (ornegin: bir banka musteri hizmetleri asistani)
 - RAG vs Fine-Tuning karsilastirmasi: Hangi durumda hangisini secmelisiniz?
 
@@ -328,7 +328,7 @@
 **Vaka Calismasi:**
 - OpenAI'nin is modeli: API'dan SAS'a, SAS'tan modele
 - ChatGPT'nin 2 ayda 100 milyon kullaniciya ulasmasinin ekonomik anlami
-- Anthropic'in is modeli ve kurumsal stratejisi
+- DeepSeek'in is modeli ve kurumsal stratejisi
 - Yerli AI girisimlerinin para kazanma stratejileri
 
 **Pratik Alistirma:**
