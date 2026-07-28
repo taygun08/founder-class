@@ -1,4 +1,4 @@
-# Is Stratejisi Modulu
+# Modül 04: Is Stratejisi Modulu
 
 ## Modul Genel Bakis
 

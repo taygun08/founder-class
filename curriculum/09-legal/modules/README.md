@@ -108,7 +108,7 @@ Bu dosya, ana modülü oluşturan dört haftalık içeriğin **alt modül (sub-m
 ### Diğer Modüllerle Entegrasyon
 
 - **Pazarlama Modülü** ile: Marka stratejisi, isimlendirme (branding)
-- **Ürün Geliştirme Modülü** ile: Patent araştırması, fikri mülkiyet analizi
+- **Girişimcilik Modülü** ile: Patent araştırması, fikri mülkiyet analizi
 
 ---
 
@@ -170,7 +170,7 @@ Bu dosya, ana modülü oluşturan dört haftalık içeriğin **alt modül (sub-m
 
 ### Diğer Modüllerle Entegrasyon
 
-- **İnsan Kaynakları Modülü** ile: Bordro yönetimi, personel el kitabı
+- **Girişimcilik Modülü** ile: Bordro yönetimi, personel el kitabı
 - **Finans Modülü** ile: Kıdem tazminatı karşılığı (provision for severance), SGK prim giderleri
 
 ---

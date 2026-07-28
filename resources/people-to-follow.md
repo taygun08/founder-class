@@ -80,11 +80,11 @@
 | 8 | **Sina Afra** | Finans / Girisimcilik | Para Durumu blog yazari; fon yoneticisi; finansal okuryazarlik | [paradurumu.com](https://www.paradurumu.com), [X/Twitter](https://x.com/sinaafra) |
 | 9 | **Burak Ozbag** | Finans / Yatirim | Fon yoneticisi; finansal piyasa yorumcusu | [X/Twitter](https://x.com/burakozbag) |
 | 10 | **Dr. Fehmi Eksi** | Girisimcilik / Danismanlik | TTO ve akademik girisimcilik | Blog, roportajlari |
-| 11 | **Sertaq Dogramaci** | Girisimcilik / Teknoloji | Turk girisimci; Gram Games kurucusu (Zynga satin almasi) | [LinkedIn](https://www.linkedin.com/in/sertaqdogramaci) |
+| 11 | **Sertaç Doğramacı** | Girisimcilik / Teknoloji | Turk girisimci; Gram Games kurucusu (Zynga satin almasi) | [LinkedIn](https://www.linkedin.com/in/sertaqdogramaci) |
 | 12 | **Riza Mecit** | Is Dunyasi / Strateji | Kucuk Isletme Danismani; is modeli ve strateji uzerine icerikler | [LinkedIn](https://www.linkedin.com/in/rizamecit) |
 | 13 | **Alphan Manas** | Girisimcilik / Inovasyon | Teknogirisimci; fütürist; inovasyon danismani | [X/Twitter](https://x.com/AManas) |
 | 14 | **Sami Atalan** | Ekonomi / Finans | Fon yoneticisi; finansal piyasa yorumculugu | [X/Twitter](https://x.com/samiatalan) |
-| 15 | **Baris Srdan** | Finans / Sertifika | Finans Egemeni; SPK, CFA ve kariyer uzerine icerikler | [X/Twitter](https://x.com/finans_egemeni) |
+| 15 | **Barış Serdan** | Finans / Sertifika | Finans Egemeni; SPK, CFA ve kariyer uzerine icerikler | [X/Twitter](https://x.com/finans_egemeni) |
 
 ---
 
@@ -126,11 +126,9 @@
 | 10 | **Bits about Money** | Patrick McKenzie | Odeme sistemleri, fintech, finans | Ayda 1-2 | [bitsaboutmoney.com](https://bitsaboutmoney.com) |
 | 11 | **The Generalist** | Mario Gabriele | Teknoloji sirket profilleri, derin analizler | Haftalik | [generalist.com](https://www.generalist.com) |
 | 12 | **Marginal Revolution** | Tyler Cowen & Alex Tabarrok | Ekonomi, kultur, politika | Gunluk | [marginalrevolution.com](https://marginalrevolution.com) |
-| 13 | **Paramhane** | — | Finans, yatirim, piyasa yorumu (Turkce) | Degisken | [paramhane.com](https://www.paramhane.com) |
-| 14 | **Bir Fikrin Mi Var?** | M. Gokhan Unlu | Girisimcilik, startup haberleri (Turkce) | Haftalik | [fikrinmivar.com](https://fikrinmivar.com) |
-| 15 | **Finans Egemeni** | Baris Srdan | Finans, sertifikalar, kariyer (Turkce) | Degisken | [finansegemeni.com](https://www.finansegemeni.com) |
-| 16 | **Webrazzi Newsletter** | Webrazzi | Teknoloji, startup, dijital Turkiye | Gunluk | [webrazzi.com](https://webrazzi.com) |
-| 17 | **Dunya Gazetesi Bulten** | Dunya Gazetesi | Turkiye ekonomi haberleri | Gunluk | [dunya.com](https://www.dunya.com) |
+| 13 | **Bir Fikrin Mi Var?** | M. Gokhan Unlu | Girisimcilik, startup haberleri (Turkce) | Haftalik | [birfikrinmivar.com](https://birfikrinmivar.com) |
+| 14 | **Webrazzi Newsletter** | Webrazzi | Teknoloji, startup, dijital Turkiye | Gunluk | [webrazzi.com](https://webrazzi.com) |
+| 15 | **Dunya Gazetesi Bulten** | Dunya Gazetesi | Turkiye ekonomi haberleri | Gunluk | [dunya.com](https://www.dunya.com) |
 
 ---
 

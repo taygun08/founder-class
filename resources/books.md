@@ -30,12 +30,12 @@
 | # | Kitap | Yazar(lar) | Yil | Aciklama | Ilgili Modul | Seviye |
 |---|-------|-----------|-----|----------|-------------|--------|
 | 1 | **Thinking, Fast and Slow** | Daniel Kahneman | 2011 | Ikili dusunme sistemi (Hizli/Yavas); bilissel onyargilar ve karar verme. | Davranissal Finans, Karar Alma | Orta |
-| 2 | **Nudge** | Richard Thaler & Cass Sunstein | 2008 (2. baski 2021) | Durtme teorisi: insan davranislarini dogru yonlendiren politika tasarimi. | Davranissal Finans, Politikalar | Baslangic |
+| 2 | **Nudge: The Final Edition** | Richard Thaler & Cass Sunstein | 2021 | Durtme teorisi: insan davranislarini dogru yonlendiren politika tasarimi. | Davranissal Finans, Politikalar | Baslangic |
 | 3 | **Misbehaving: The Making of Behavioral Economics** | Richard Thaler | 2015 | Davranissal ekonominin dogusu ve gelisimi. | Davranissal Finans | Baslangic |
-| 4 | **Predictably Irrelevant** | Dan Ariely | 2008 | Karar vermede irrasyonel ama ongorulebilir kalip davranislar. | Karar Alma, Tuketici Davranisi | Baslangic |
+| 4 | **Predictably Irrational** | Dan Ariely | 2008 | Karar vermede irrasyonel ama ongorulebilir kalip davranislar. | Karar Alma, Tuketici Davranisi | Baslangic |
 | 5 | **The Undoing Project** | Michael Lewis | 2016 | Kahneman ve Tversky'nin ortakligi ve davranissal ekonominin dogusu. | Davranissal Finans, Arka Plan | Baslangic |
 | 6 | **Influence: The Psychology of Persuasion** | Robert Cialdini | 1984 (4. baski 2020) | Ikna prensipleri: karsilik, tutarlilik, sosyal kanit, otorite, begeni, kitlik. | Muzakere, Iletisim, Pazarlama | Baslangic |
-| 7 | **The Art of Thinking Clearly** | Rolf Dobelli | 2011 | Gunluk hayatta karsilasilan bilissel onyargilarin sistematik analizi. | Karar Alma, Kritik Dusunme | Baslangic |
+| 7 | **The Art of Thinking Clearly** | Rolf Dobelli | 2013 | Gunluk hayatta karsilasilan bilissel onyargilarin sistematik analizi. | Karar Alma, Kritik Dusunme | Baslangic |
 | 8 | **Fooled by Randomness** | Nassim Nicholas Taleb | 2001 (2. baski 2004) | Rastgeleligin yatirim ve yasam uzerindeki sasirtici rolu. | Davranissal Finans, Risk Yonetimi | Orta |
 | 9 | **The Black Swan** | Nassim Nicholas Taleb | 2007 (2. baski 2010) | Ongorulemeyen olaylarin (Kara Kugu) ekonomik ve finansal sistemlere etkisi. | Risk Yonetimi, Senaryo Analizi | Orta |
 | 10 | **Thinking in Systems** | Donella Meadows | 2008 | Sistem dusuncesinin temelleri ve dinamik sistemlerde karar alma. | Strateji, Kritik Dusunme | Orta |
@@ -62,7 +62,7 @@
 | 11 | **The Strategy Paradox** | Michael Raynor | 2007 | Stratejik belirsizlik yonetimi ve esneklik. | Strateji, Risk Yonetimi | Ileri |
 | 12 | **HBR's 10 Must Reads on Strategy** | Harvard Business Review | 2011 | Strateji uzerine HBR makaleleri derlemesi. | Strateji | Baslangic |
 | 13 | **Scale: The Universal Laws of Growth and Innovation** | Geoffrey West | 2017 | Olcek kanunlari ve sirketlerin buyume dinamikleri. | Strateji, Buyume | Orta |
-| 14 | **The Growth Mindset** | Heidi Grant & Carol Dweck | 2016 | Buyume zihniyetinin stratejik dusunce ve inovasyondaki rolu. | Strateji, Kisisel Gelisim | Baslangic |
+| 14 | **Mindset: The New Psychology of Success** | Carol Dweck | 2006 | Buyume zihniyetinin stratejik dusunce ve inovasyondaki rolu. (Ayrica bakiniz: Heidi Grant — buyume zihniyeti uzerine arastirmalar) | Strateji, Kisisel Gelisim | Baslangic |
 
 ---
 
@@ -73,17 +73,16 @@
 | 1 | **The Lean Startup** | Eric Ries | 2011 | Yalin startup metodolojisi: yap- olc- ogren dongusu, MVP, pivot. | Girisimcilik | Baslangic |
 | 2 | **Zero to One** | Peter Thiel | 2014 | Teknoloji startup'lari icin tekelci dusunce ve dikey ilerleme. | Girisimcilik, Inovasyon | Orta |
 | 3 | **The Hard Thing About Hard Things** | Ben Horowitz | 2014 | Startup kurmanin ve yonetmenin zor gercekleri. | Girisimcilik, Liderlik | Orta |
-| 4 | **Business Model Generation** | Alexander Osterwalder | 2010 | Is modeli kanvasi araci ile is modeli tasarimi. | Is Modeli, Girisimcilik | Baslangic |
+| 4 | **Business Model Generation** | Alexander Osterwalder & Yves Pigneur | 2010 | Is modeli kanvasi araci ile is modeli tasarimi. | Is Modeli, Girisimcilik | Baslangic |
 | 5 | **The Startup Owner's Manual** | Steve Blank | 2012 (2. baski 2020) | Musteri kesfi ve dogrulama sureci icin kapsamli rehber. | Girisimcilik, Urun Gelistirme | Orta |
 | 6 | **Disciplined Entrepreneurship** | Bill Aulet | 2013 | 24 adimda girisimcilik icin sistematik yaklasim. | Girisimcilik | Baslangic |
 | 7 | **The Mom Test** | Rob Fitzpatrick | 2013 | Musteri gorusmesi ve dogrulama teknikleri. | Urun Gelistirme, Girisimcilik | Baslangic |
 | 8 | **Running Lean** | Ash Maurya | 2012 (2. baski 2022) | Yalin startup'i sistematik bicimde uygulama rehberi. | Girisimcilik | Baslangic |
 | 9 | **Hooked** | Nir Eyal | 2014 | Aliskanlik yaratan urunlerin tasarim modeli. | Urun Gelistirme, Pazarlama | Orta |
-| 10 | **Measure What Matters** | John Doerr | 2018 | OKR (Objectives and Key Results) sistemi ile stratejik hedef yonetimi. | Strateji, Yonetim, Liderlik | Baslangic |
-| 11 | **The E-Myth Revisited** | Michael Gerber | 1995 (2. baski 2004) | Kucuk isletmelerin buyume sorunlari ve franchising modeli. | Girisimcilik, Isletme Yonetimi | Baslangic |
-| 12 | **Sprint** | Jake Knapp (Google Ventures) | 2016 | 5 gunluk urun gelistirme sprint sureci. | Urun Gelistirme, Inovasyon | Baslangic |
-| 13 | **Venture Deals** | Brad Feld & Jason Mendelson | 2011 (4. baski 2019) | Girisim sermayesi terimleri, yatirim sureci ve pazarlik. | Girisim Sermayesi, Fonlama | Orta |
-| 14 | **Startup Nation** | Dan Senor & Saul Singer | 2009 | Israil'in startup ekosisteminin basari hikayesi. | Girisimcilik, Ekosistem | Baslangic |
+| 10 | **The E-Myth Revisited** | Michael Gerber | 1995 (2. baski 2004) | Kucuk isletmelerin buyume sorunlari ve franchising modeli. | Girisimcilik, Isletme Yonetimi | Baslangic |
+| 10 | **Sprint** | Jake Knapp (Google Ventures) | 2016 | 5 gunluk urun gelistirme sprint sureci. | Urun Gelistirme, Inovasyon | Baslangic |
+| 11 | **Venture Deals** | Brad Feld & Jason Mendelson | 2011 (4. baski 2019) | Girisim sermayesi terimleri, yatirim sureci ve pazarlik. | Girisim Sermayesi, Fonlama | Orta |
+| 12 | **Startup Nation** | Dan Senor & Saul Singer | 2009 | Israil'in startup ekosisteminin basari hikayesi. | Girisimcilik, Ekosistem | Baslangic |
 
 ---
 
@@ -91,7 +90,7 @@
 
 | # | Kitap | Yazar(lar) | Yil | Aciklama | Ilgili Modul | Seviye |
 |---|-------|-----------|-----|----------|-------------|--------|
-| 1 | **AI for Everyone: A Non-Technical Guide** | Habil H. K. | — | Yapay zekanin teknik olmayan bir dille is dunyasina uygulanmasi. | AI Okuryazarligi | Baslangic |
+| 1 | **AI for Everyone (Coursera Kurs Notlari)** | Andrew Ng (DeepLearning.AI) | 2019 | Yapay zekanin teknik olmayan bir dille is dunyasina uygulanmasi; Coursera'da Andrew Ng'in populer kursu. | AI Okuryazarligi | Baslangic |
 | 2 | **The Alignment Problem** | Brian Christian | 2020 | AI guvenligi ve insan degerleriyle uyum sorunu. | AI Etigi, Guvenlik | Orta |
 | 3 | **Life 3.0** | Max Tegmark | 2017 | Yapay zeka caginda insanlik: firsatlar, riskler, senaryolar. | AI Okuryazarligi, Etik | Baslangic |
 | 4 | **Superintelligence** | Nick Bostrom | 2014 | Supersefafetli AI'nin yolu ve kontrol problemleri. | AI Stratejisi, AI Guvenligi | Ileri |
@@ -131,7 +130,7 @@
 | # | Kitap | Yazar(lar) | Yil | Aciklama | Ilgili Modul | Seviye |
 |---|-------|-----------|-----|----------|-------------|--------|
 | 1 | **The Effective Executive** | Peter Drucker | 1967 (2017 revize) | Etkili yoneticinin bes aliskanligi: zaman, katki, guclu yonler, oncelik, karar. | Liderlik, Yonetim | Baslangic |
-| 2 | **Measure What Matters** | John Doerr | 2018 | OKR (Objectives and Key Results) sistemi ile stratejik hedef yonetimi. | Strateji, Yonetim | Baslangic |
+| 2 | **Measure What Matters** | John Doerr | 2018 | OKR (Objectives and Key Results) sistemi ile stratejik hedef yonetimi. (Ayrica bakiniz: Girisimcilik bolumu) | Strateji, Yonetim, Liderlik | Baslangic |
 | 3 | **Leaders Eat Last** | Simon Sinek | 2014 | Guvenli ortam yaratan liderlik ve "altin daire" modeli. | Liderlik, Kultur | Baslangic |
 | 4 | **Start with Why** | Simon Sinek | 2009 | Neden ile baslayan liderlik: ilham veren vizyon olusturma. | Liderlik, Strateji | Baslangic |
 | 5 | **The Five Dysfunctions of a Team** | Patrick Lencioni | 2002 | Takim islevsizligini asma modeli: guven, catisma, baglilik, hesap verebilirlik, sonuc. | Liderlik, Takim Yonetimi | Baslangic |

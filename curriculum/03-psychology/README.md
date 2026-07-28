@@ -1,4 +1,4 @@
-# Psikoloji Modulu: Is Dunyasinda Insani Anlamak
+# Modül 03: Psikoloji Modulu: Is Dunyasinda Insani Anlamak
 
 ## Modul Felsefesi
 

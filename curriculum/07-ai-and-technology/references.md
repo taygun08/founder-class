@@ -80,14 +80,14 @@
 |------|----------|--------|------|
 | AI for Everyone | DeepLearning.AI / Coursera | Baslangic | [Coursera](https://www.coursera.org/learn/ai-for-everyone) |
 | Generative AI for Everyone | DeepLearning.AI / Coursera | Baslangic | [Coursera](https://www.deeplearning.ai/courses/generative-ai-for-everyone/) |
-| AI for Business Leaders | AWS Skill Builder | Baslangic | [AWS](https://aws.amazon.com/training/learn-about/ai-for-business/) |
-| AI Literacy | Google Cloud Skills Boost | Baslangic | [Google Cloud](https://www.cloudskillsboost.google/course_templates/726) |
+| AI for Business Leaders | AWS Skill Builder | Baslangic | [AWS](https://aws.amazon.com/training/learn-about/artificial-intelligence/) |
+| AI Literacy | Google Cloud Skills Boost | Baslangic | [Google Cloud](https://www.cloudskillsboost.google/paths/118) |
 | Introduction to Artificial Intelligence | LinkedIn Learning | Baslangic | [LinkedIn](https://www.linkedin.com/learning/topics/artificial-intelligence) |
 
 ### Generative AI ve LLM'ler
 | Kurs | Platform | Seviye | Link |
 |------|----------|--------|------|
-| Prompt Engineering for Everyone | Anthropic Academy | Baslangic | [Anthropic](https://academy.anthropic.com/) |
+| Prompt Engineering for Everyone | Anthropic | Baslangic | [Anthropic](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview) |
 | ChatGPT Prompt Engineering for Developers | DeepLearning.AI / OpenAI | Baslangic | [DeepLearning.AI](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) |
 | LangChain for LLM Application Development | DeepLearning.AI / LangChain | Orta | [DeepLearning.AI](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/) |
 | Building Systems with ChatGPT | DeepLearning.AI / OpenAI | Orta | [DeepLearning.AI](https://www.deeplearning.ai/short-courses/building-systems-with-chatgpt/) |
@@ -103,7 +103,7 @@
 ### AI Etigi
 | Kurs | Platform | Seviye | Link |
 |------|----------|--------|------|
-| Ethics of AI | ETH Zurich / edX | Baslangic | [edX](https://www.edx.org/course/ethics-of-ai) |
+| Ethics of AI | ETH Zurich / edX | Baslangic | [edX](https://www.edx.org/learn/ethics/eth-zurich-ethics-of-ai) |
 | AI Ethics: An Introduction | LinkedIn Learning | Baslangic | [LinkedIn](https://www.linkedin.com/learning/ai-ethics-an-introduction/) |
 | Responsible AI | Google Cloud | Baslangic | [Google Cloud](https://www.cloudskillsboost.google/course_templates/554) |
 | AI Ethics | MIT Media Lab | Orta | [MIT OpenCourseWare](https://ocw.mit.edu/) |
@@ -111,14 +111,14 @@
 ### Siber Guvenlik
 | Kurs | Platform | Seviye | Link |
 |------|----------|--------|------|
-| Cybersecurity for Business Leaders | Pluralsight | Baslangic | [Pluralsight](https://www.pluralsight.com/courses/cybersecurity-for-business-leaders) |
-| Introduction to Cybersecurity for Business | Coursera | Baslangic | [Coursera](https://www.coursera.org/learn/introduction-to-cybersecurity-for-business) |
+| Cybersecurity for Business Leaders | Pluralsight | Baslangic | [Pluralsight](https://www.pluralsight.com/paths/cybersecurity-for-business-leaders) |
+| Cybersecurity Awareness and Innovation | Coursera | Baslangic | [Coursera](https://www.coursera.org/learn/cybersecurity-for-business) |
 | NIST CSF Fundamentals | LinkedIn Learning | Baslangic | [LinkedIn](https://www.linkedin.com/learning/topics/cybersecurity) |
 
 ### Dijital Donusum
 | Kurs | Platform | Seviye | Link |
 |------|----------|--------|------|
-| Digital Transformation | BCG / Coursera | Baslangic | [Coursera](https://www.coursera.org/learn/bcg-u-transformation) |
+| Digital Transformation | BCG / Coursera | Baslangic | [Coursera](https://www.coursera.org/learn/digital-transformation) |
 | Digital Business Leadership | MIT Sloan / edX | Orta | [edX](https://www.edx.org/course/digital-business-leadership) |
 
 ---
@@ -233,7 +233,7 @@ EXAMPLE: [Isterseniz ornek verin]
 
 ### Yapay Zeka
 - [DeepLearning.AI](https://www.deeplearning.ai/) — Andrew Ng'in egitim platformu
-- [Anthropic Academy](https://academy.anthropic.com/) — Prompt muhendisligi dersleri
+- [Anthropic Docs](https://docs.anthropic.com/en/docs/) — Prompt muhendisligi ve API dokumantasyonu
 - [Stanford HAI](https://hai.stanford.edu/) — AI arastirma ve politika
 - [OpenAI Blog](https://openai.com/blog) — AI gelismeleri
 - [Google AI](https://ai.google/) — Google'in AI kaynaklari

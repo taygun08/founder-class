@@ -1,4 +1,4 @@
-# Modül 5: Pazarlama
+# Modül 05: Pazarlama
 
 ## Genel Bakış
 

@@ -1,7 +1,7 @@
 # CLAUDE.md — İş Dünyası Eğitim Müfredatı (mufredat)
 
 ## Proje Özeti
-İş dünyasında bir insanı yenilmez ve başarılı kılacak kapsamlı bir eğitim müfredatı. Muhasebe, finans, psikoloji, iş stratejisi, pazarlama, girişimcilik, yapay zeka, araştırma & analiz ve iş hukuku olmak üzere 10 ana modülden oluşur. Bu ilk versiyondur (v2.0), gelecek iterasyonlar için genişletilebilir yapıdadır.
+İş dünyasında bir insanı yenilmez ve başarılı kılacak kapsamlı bir eğitim müfredatı. Muhasebe, finans, psikoloji, iş stratejisi, pazarlama, girişimcilik, yapay zeka, araştırma & analiz ve iş hukuku olmak üzere 10 ana modülden oluşur. Bu versiyon v2.0'dır, gelecek iterasyonlar için genişletilebilir yapıdadır.
 
 ## Claude'un Rolü: Lider
 Bu projede Claude "Lider" rolündedir. Alt ajanları yönetir, paralel araştırmalar yaptırır, gap'leri tespit eder, kararlar alır ve süreci kesintisiz yürütür.

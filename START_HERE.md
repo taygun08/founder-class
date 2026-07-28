@@ -230,7 +230,7 @@
 
 ## 🎓 MÜFREDAT TAMAMLANDI!
 
-Tebrikler! 97 haftalık yolculuğu bitirdin. Şimdi:
+Tebrikler! 98 haftalık yolculuğu bitirdin. Şimdi:
 
 1. **Öğrendiklerini uygula** — gerçek bir şirkette, kendi girişiminde
 2. **Öğret** — bildiklerini başkalarına aktar, blog yaz, mentor ol

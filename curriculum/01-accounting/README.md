@@ -1,4 +1,4 @@
-# MUHASEBE MODÜLÜ (8 Hafta)
+# Modül 01: MUHASEBE MODÜLÜ (8 Hafta)
 
 ## Genel Bakış
 
