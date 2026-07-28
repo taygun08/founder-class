@@ -181,14 +181,23 @@ Bu dokuman, psikoloji modulu boyunca kullanilan tum kaynaklari kategorize edilmi
 | Kurs | Platform | Egitmen | Aciklama |
 |------|----------|---------|----------|
 | "A Beginner's Guide to Irrational Behavior" | Coursera | Dan Ariely | Davranissal ekonomiye giris |
+| 🆓 **Ucretsiz:** | Dan Ariely TED konusmalari (ted.com) + YouTube roportajlari | TED/YouTube | Ucretsiz |
 | "The Science of Well-Being" | Coursera | Laurie Santos (Yale) | Mutluluk ve resilience |
+| 🆓 **Ucretsiz:** | Coursera Audit mode ile ucretsiz izleme. Ayrica Yale'in ucretsiz PDF calisma rehberi mevcut. | Coursera (Audit) | Ucretsiz |
 | "Negotiation Mastery" | Harvard Business School Online | Michael Wheeler | Muzakere becerileri |
+| 🆓 **Ucretsiz:** | Chris Voss TED konusmasi + Harvard Negotiation Project (pon.harvard.edu) ucretsiz kaynaklar | TED/Harvard | Ucretsiz |
 | "Influence and Persuasion" | Coursera / HBS | Robert Cialdini | Ikna psikolojisi |
+| 🆓 **Ucretsiz:** | Cialdini TED konusmalari + YouTube "Science of Persuasion" animasyonu (7M+ izlenme) | TED/YouTube | Ucretsiz |
 | "Leading with Emotional Intelligence" | LinkedIn Learning | Daniel Goleman | EQ temelli liderlik |
+| 🆓 **Ucretsiz:** | Goleman'in TED konusmasi + YouTube "Emotional Intelligence" playlistleri | TED/YouTube | Ucretsiz |
 | "Organizational Culture" | edX / MIT | Edgar Schein | Kultur analizi |
+| 🆓 **Ucretsiz:** | edX Audit mode ile ucretsiz. MIT OCW'de benzer icerik. | edX (Audit) | Ucretsiz |
 | "The Science of Everyday Thinking" | edX / UQ | Jason Tangen | Bilissel onyargilar |
+| 🆓 **Ucretsiz:** | edX Audit mode ile ucretsiz. YouTube'da "Cognitive Biases" playlistleri. | edX (Audit) | Ucretsiz |
 | "Behavioral Economics in Action" | edX / UToronto | Dilip Soman | Nudge ve davranis degisikligi |
+| 🆓 **Ucretsiz:** | edX Audit mode ucretsiz. Nudge blog (nudges.wordpress.com) ucretsiz kaynak. | edX (Audit) | Ucretsiz |
 | "Managing in Turkish Culture" | Istanbul Universitesi | Acar Baltas (vekil) | Turk is kulturu |
+| 🆓 **Ucretsiz:** | Acar Baltas YouTube soylesileri ve podcast roportajlari. | YouTube | Ucretsiz |
 
 ---
 
@@ -213,10 +222,15 @@ Bu dokuman, psikoloji modulu boyunca kullanilan tum kaynaklari kategorize edilmi
 | Olcek / Arac | Olctugu Ozellik | Soru Sayisi | Sure | Uygulama |
 |-------------|----------------|-------------|------|----------|
 | **Maslach Burnout Inventory (MBI)** | Tukenmislik seviyesi (duygusal tukenme, duyarsizlasma, kisisel basari) | 22 soru | 15 dk | Kendi tukenmislik seviyeni olc |
+| 🆓 **Ucretsiz:** | Mind Garden'dan akademik kullanim icin ucretsiz surum talep edilebilir. Benzer: Copenhagen Burnout Inventory (CBI) ucretsiz. | - | - | Akademik arastirmalar icin ucretsiz alternatif. |
 | **Short Dark Triad (SD3)** | Karanlik ucgen kisilik (narsisizm, makyavelizm, psikopati) | 27 soru | 10 dk | Karanlik ucgen egilimlerini olc |
+| 🆓 **Ucretsiz:** | SD3 kâgit-kalem testi arastirmacilar icin ucretsizdir (Jonason & Webster, 2010) | - | - | Orijinal makalede test yer alir. |
 | **Wong & Law Emotional Intelligence Scale (WLEIS)** | Duygusal zeka (oz-duygu, duygu degerlendirme, duygu kullanimi) | 16 soru | 5 dk | EQ degerlendirmesi |
+| 🆓 **Ucretsiz:** | WLEIS arastirmacilar icin ucretsizdir; orijinal makalede 16 soru yayinlanmistir. | - | - | Akademik kullanim ucretsiz. |
 | **Psychological Safety Scale** (Edmondson) | Psikolojik guvenlik (ekip ici) | 7 soru | 5 dk | Takim psikolojik guvenlik olcumu |
+| 🆓 **Ucretsiz:** | Edmondson'in 7 soruluk olcegi akademik yayinlarda ucretsiz olarak yer alir. | - | - | Orijinal makale uzerinden erisilebilir. |
 | **General Self-Efficacy Scale (GSE)** | Oz-yeterlilik inanci | 8 soru | 3 dk | Kendine guven olcumu |
+| 🆓 **Ucretsiz:** | GSE olcegi (Schwarzer & Jerusalem) ucretsizdir, resmi sitesinde tum dillerde mevcut. | userpage.fu-berlin.de/health/ | Ucretsiz erisim. |
 | **GLOBE Cultural Dimensions Scale** | Kultur boyutlari (Hofstede bazli) | 50+ soru | 15 dk | Kultur profili olcumu |
 | **Interpersonal Mistake Culture (IMCO)** | Hata kulturu algisi (orgutsel) | 20+ soru | 10 dk | Orgutte hata algisi |
 | **New General Self-Efficacy Scale (NGSE)** | Genel oz-yeterlilik (guncellenmis) | 8 soru | 3 dk | Oz-yeterlilik olcumu |

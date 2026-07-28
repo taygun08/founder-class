@@ -8,9 +8,11 @@
 | Kitap | Yazar(lar) | Yil | Odak |
 |-------|------------|-----|------|
 | Competing in the Age of AI | Marco Iansiti & Karim R. Lakhani | 2020 | AI stratejisi ve is donusumu |
+| 🆓 **Ucretsiz:** | Yazarlarin Harvard Business Review makaleleri (secili) ucretsiz. YouTube'da yazar konusmalari ve roportajlar. |
 | AI 2041: Ten Visions for Our Future | Kai-Fu Lee & Chen Qiufan | 2021 | AI'in gelecegi senaryolari |
 | The AI Ladder | Lisa Cohen | 2022 | Veri stratejisi ve AI olgunlugu |
 | Prediction Machines: The Simple Economics of Artificial Intelligence | Ajay Agrawal, Joshua Gans, Avi Goldfarb | 2018 | AI ekonomisi |
+| 🆓 **Ucretsiz:** | Yazarlarin Harvard Business Review makaleleri + YouTube konusmalari. "Prediction Machines" ozet videolari ucretsiz. |
 | The Economics of Artificial Intelligence | Ajay Agrawal, Joshua Gans, Avi Goldfarb (Ed.) | 2019 | AI'in makroekonomik etkileri |
 | Human + Machine: Reimagining Work in the Age of AI | Paul Daugherty & H. James Wilson | 2018 | Insan-AI isbirligi |
 | Applied Artificial Intelligence | Francesco Corea | 2019 | AI uygulamalari rehberi |
@@ -83,6 +85,7 @@
 | AI for Business Leaders | AWS Skill Builder | Baslangic | [AWS](https://aws.amazon.com/training/learn-about/artificial-intelligence/) |
 | AI Literacy | Google Cloud Skills Boost | Baslangic | [Google Cloud](https://www.cloudskillsboost.google/paths/118) |
 | Introduction to Artificial Intelligence | LinkedIn Learning | Baslangic | [LinkedIn](https://www.linkedin.com/learning/topics/artificial-intelligence) |
+| 🆓 **Ucretsiz:** | Andrew Ng "AI for Everyone" (Coursera Audit mode ucretsiz) + YouTube AI egitim playlistleri. |
 
 ### Generative AI ve LLM'ler
 | Kurs | Platform | Seviye | Link |
@@ -112,6 +115,7 @@
 | Kurs | Platform | Seviye | Link |
 |------|----------|--------|------|
 | Cybersecurity for Business Leaders | Pluralsight | Baslangic | [Pluralsight](https://www.pluralsight.com/paths/cybersecurity-for-business-leaders) |
+| 🆓 **Ucretsiz:** | NIST Cybersecurity Framework (nist.gov) ucretsiz rehber. YouTube "Cybersecurity for Beginners" playlistleri. |
 | Cybersecurity Awareness and Innovation | Coursera | Baslangic | [Coursera](https://www.coursera.org/learn/cybersecurity-for-business) |
 | NIST CSF Fundamentals | LinkedIn Learning | Baslangic | [LinkedIn](https://www.linkedin.com/learning/topics/cybersecurity) |
 
@@ -132,6 +136,7 @@
 | Global Cybersecurity Outlook | World Economic Forum | 2025 | WEF websitesi |
 | AI Index Report | Stanford HAI | 2025 | [Stanford HAI](https://hai.stanford.edu/ai-index) |
 | Gartner Hype Cycle for AI | Gartner | 2025 | Gartner websitesi |
+| 🆓 **Ucretsiz:** | Stanford HAI AI Index Report (hai.stanford.edu/ai-index) tamamen ucretsiz. McKinsey State of AI (mckinsey.com) ucretsiz ozet. |
 | Digital Trust Insights | PwC | 2025 | PwC websitesi |
 | Data and AI Leadership Survey | NewVantage Partners | 2025 | NewVantage |
 

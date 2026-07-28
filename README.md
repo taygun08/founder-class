@@ -126,4 +126,4 @@ Bu müfredat yaşayan bir dokümandır. Geri bildirimleriniz, düzeltmeleriniz v
 
 ---
 
-**Başlangıç noktanız:** [`curriculum/00-introduction/`](curriculum/00-introduction/) → Hadi başlayalım! 🚀
+**Başlangıç noktanız:** [`START_HERE.md`](START_HERE.md) → Adım adım lineer öğrenme rehberi 🚀

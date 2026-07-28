@@ -9,24 +9,33 @@
 | Kitap | Yazar(lar) | Yil | Odak |
 |-------|-----------|-----|------|
 | *Competitive Strategy: Techniques for Analyzing Industries and Competitors* | Michael E. Porter | 1980 | Porter 5 Guv, jenerik stratejiler, sektor analizi |
+| 🆓 **Ucretsiz:** | Porter'in HBR makaleleri (secili) + Michael Porter videosu (YouTube) | - | Ucretsiz strateji cercevesi ogrenimi |
 | *Competitive Advantage: Creating and Sustaining Superior Performance* | Michael E. Porter | 1985 | Deger zinciri, rekabet avantaji |
+| 🆓 **Ucretsiz:** | Institute for Strategy and Competitiveness (isc.hbs.edu) — Porter arastirmalari ucretsiz. | - | HBS ucretsiz kaynaklari |
 | *Understanding Michael Porter: The Essential Guide to Competition and Strategy* | Joan Magretta | 2012 | Porter'in strateji cercevelerine guzel bir giris |
+| 🆓 **Ucretsiz:** | McKinsey Insights (mckinsey.com) — ucretsiz strateji makaleleri ve raporlar. | - | Ucretsiz danismanlik perspektifi |
 | *Playing to Win: How Strategy Really Works* | A.G. Lafley & Roger L. Martin | 2013 | Pratik strateji olusturma (P&G ornegi) |
+| 🆓 **Ucretsiz:** | Roger Martin'in YouTube konusmalari ve Medium yazilari ucretsiz. | - | Yazarın ucretsiz icerikleri |
 | *The Five Competitive Forces That Shape Strategy* | Michael E. Porter | 2008 | HBR makale - Porter'in guncellenmis 5 guv |
+| 🆓 **Ucretsiz:** | HBR makale PDF'i bazen ucretsiz sunulmaktadir. Ayrica YouTube'da Porter 5 Forces aciklamalari. | - | Ucretsiz video anlatimlar |
 
 ### Blue Ocean Stratejisi
 
 | Kitap | Yazar(lar) | Yil | Odak |
 |-------|-----------|-----|------|
 | *Blue Ocean Strategy: How to Create Uncontested Market Space and Make the Competition Irrelevant* | W. Chan Kim & Renee Mauborgne | 2005 | Mavi okyanus cercevesi, Strateji Kanvasi, ERRC |
+| 🆓 **Ucretsiz:** | INSEAD Blue Ocean Strategy ucretsiz makaleler (blueoceanstrategy.com) + YouTube TEDx konusmalari. | - | Ucretsiz mavi okyanus kaynaklari |
 | *Blue Ocean Shift: Beyond Competing - Proven Steps to Inspire Confidence and Seize New Growth* | W. Chan Kim & Renee Mauborgne | 2017 | Mavi okyanusu uygulamaya gecirme rehberi |
+| 🆓 **Ucretsiz:** | Blue Ocean Shift ucretsiz araclari ve canvas sablonlari (blueoceanstrategy.com) | - | Ucretsiz strateji araclari |
 
 ### Is Modeli Inovasyonu
 
 | Kitap | Yazar(lar) | Yil | Odak |
 |-------|-----------|-----|------|
 | *Business Model Generation: A Handbook for Visionaries, Game Changers, and Challengers* | Alexander Osterwalder & Yves Pigneur | 2010 | Business Model Canvas |
+| 🆓 **Ucretsiz:** | Strategyzer (strategyzer.com) ucretsiz BMC sablonu ve videolari. Canvanizer (canvanizer.com) ucretsiz canvas araci. | - | Ucretsiz is modeli haritalama |
 | *Value Proposition Design: How to Create Products and Services Customers Want* | Alexander Osterwalder vd. | 2014 | Value Proposition Canvas |
+| 🆓 **Ucretsiz:** | Strategyzer ucretsiz VPC sablonu ve videolari. YouTube'da ucretsiz VPC egitimleri. | - | Ucretsiz deger onerisi tasarimi |
 | *Platform Revolution: How Networked Markets Are Transforming the Economy* | Geoffrey G. Parker, Marshall W. Van Alstyne & Sangeet Paul Choudary | 2016 | Platform ekonomisi, ag etkisi |
 
 ### Stratejik Dusunce
@@ -115,8 +124,11 @@
 
 ### Online Vaka Database
 - **Harvard Business School Publishing** (hbsp.harvard.edu) - A++ Kalite vaka kutuphanesi
+  🆓 **Ucretsiz:** Harvard Business Review YouTube kanali — mini vaka belgeselleri ucretsiz. Ayrica The Case Centre (thecasecentre.org) ucretsiz ornek vakalar sunar.
 - **INSEAD Case Publishing** (cases.insead.edu) - Avrupa odakli vakalar
+  🆓 **Ucretsiz:** INSEAD Knowledge (knowledge.insead.edu) ucretsiz vaka ozetleri ve makaleler.
 - **Ivey Business School Case Collection** - Kanada kaynakli
+  🆓 **Ucretsiz:** Ivey Publishing'de secili ucretsiz vakalar. Ayrica BBC "The Bottom Line" podcast ucretsiz is stratejisi vakalari.
 - **Bogazici Universitesi Vaka Arsivi** - Turkiye odakli vakalar
 - **Sabanci Universitesi Yayinlari** - Turkiye sirket vakalari
 
@@ -132,13 +144,21 @@
 | Kurs | Platform | Icerik |
 |------|----------|--------|
 | "Business Strategy" | Coursera / Michigan (Michael Lenox) | Rekabet stratejisi, Deger zinciri |
+| 🆓 **Ucretsiz:** | Coursera Audit mode ucretsiz. Ayrica YouTube'da "Business Strategy" playlistleri. | Ucretsiz |
 | "Business Model Innovation" | Coursera / HEC Paris | Is modeli, BMC, platformlar |
+| 🆓 **Ucretsiz:** | Coursera Audit mode ucretsiz. Strategyzer YouTube kanali ucretsiz. | Ucretsiz |
 | "Strategic Management" | Coursera / Copenhagen Business School | Stratejik yonetim butuncul |
+| 🆓 **Ucretsiz:** | Coursera Audit mode ucretsiz. MIT OCW Strategy dersleri. | Ucretsiz |
 | "Competitive Strategy" | Coursera / Ludwig-Maximilians-Universitat | Oyun teorisi odakli |
+| 🆓 **Ucretsiz:** | Coursera Audit mode ucretsiz. YouTube oyun teorisi dersleri. | Ucretsiz |
 | "Blue Ocean Strategy" | edX / INSEAD | Kim & Mauborgne'in kendi kursu |
+| 🆓 **Ucretsiz:** | edX Audit mode ucretsiz. Blue Ocean Strategy ucretsiz makaleleri. | Ucretsiz |
 | "Digital Transformation" | Coursera / BCG | BCG dijital donusum cerceveleri |
+| 🆓 **Ucretsiz:** | Coursera Audit mode. BCG Henderson Institute (bcg.com) ucretsiz raporlar. | Ucretsiz |
 | "Leading Digital Transformation" | edX / Boston Consulting Group | Dijital olgunluk ve donusum |
+| 🆓 **Ucretsiz:** | edX Audit mode ucretsiz. BCG YouTube kanali ucretsiz. | Ucretsiz |
 | "Delivering Customer Value with OKR" | LinkedIn Learning | OKR uygulamasi |
+| 🆓 **Ucretsiz:** | YouTube OKR egitimleri + What Matters (whatmatters.com) ucretsiz OKR rehberi. | Ucretsiz |
 
 ---
 
@@ -148,8 +168,11 @@
 | Simulasyon | Saglayici | Aciklama | Ucret | Platform |
 |-----------|-----------|----------|-------|----------|
 | **Marketplace Live** | marketplace-simulation.com | Isletme simulasyonu - strateji, pazarlama, finans | Ucretli (lisans) | Cevrimici |
+| 🆓 **Ucretsiz:** | **The Beer Game** (MIT) — ucretsiz tedarik zinciri simulasyonu | mitsloan.mit.edu | Ucretsiz | Fiziksel |
 | **Harvard Business Simulations** | hbsp.harvard.edu | Strateji, liderlik, pazarlama simulasyonlari | Ucretli (per oyun) | Cevrimici / Fiziksel |
+| 🆓 **Ucretsiz:** | **Marshmallow Challenge** (Tom Wujec) — ucretsiz takim ve prototipleme oyunu | marshmallowchallenge.com | Ucretsiz | Fiziksel |
 | **Cesim** | cesim.com | Global is simulasyonlari | Ucretli (kurumsal) | Cevrimici |
+| 🆓 **Ucretsiz:** | **Strategy Bites** — ucretsiz strateji egzersizleri ve simulasyon alternatifleri | strategybites.com | Ucretsiz | Cevrimici |
 | **Strategy Dynamics** | stratsimulations.com | Stratejik dinamikler | Ucretli | Cevrimici |
 
 ### Oyunlar

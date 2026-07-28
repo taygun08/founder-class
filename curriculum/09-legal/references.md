@@ -62,16 +62,27 @@ Bu modül boyunca kullanılan başlıca mevzuat, kurum kaynakları, kitaplar ve 
 | Yazar(lar) | Yıl | Başlık | Yayınevi |
 |---|---|---|---|
 | Poroy, R., Tekinalp, Ü., & Çamoğlu, E. | 2022 | Ortaklıklar Hukuku I-II | Vedat Kitapçılık |
+| 🆓 **Ücretsiz:** | Mevzuat Bilgi Sistemi (mevzuat.gov.tr) — TTK ve ilgili tüm kanun metinleri ücretsiz. Dergipark (dergipark.org.tr) ücretsiz akademik makaleler. | | |
 | Tekinalp, Ü. | 2021 | Sermaye Piyasası Hukuku | Vedat Kitapçılık |
+| 🆓 **Ücretsiz:** | SPK (spk.gov.tr) — tüm sermaye piyasası mevzuatı ve tebliğler ücretsiz. | | |
 | Baştuğ, İ. & Erdem, B. | 2020 | Şirketler Hukuku Temel Bilgiler | Beta Yayınları |
+| 🆓 **Ücretsiz:** | TTK (mevzuat.gov.tr) + MERSİS (mersis.gtb.gov.tr) şirket kuruluş kılavuzları ücretsiz. | | |
 | Oğuzman, K. & Öz, T. | 2022 | Borçlar Hukuku Genel Hükümler (Cilt 1-2) | Vedat Kitapçılık |
+| 🆓 **Ücretsiz:** | TBK (mevzuat.gov.tr) ücretsiz. Yargıtay kararları (yargitay.gov.tr) ücretsiz içtihat taraması. | | |
 | Dural, M. & Öz, T. | 2022 | Türk Borçlar Hukuku Özel Borç İlişkileri | Filiz Kitabevi |
+| 🆓 **Ücretsiz:** | TBK (mevzuat.gov.tr) ücretsiz. Dergipark (dergipark.org.tr) ücretsiz hukuk makaleleri. | | |
 | Sulhi, T. & Narmanlıoğlu, Ü. | 2021 | İş Hukuku (Cilt 1-2) | Beta Yayınları |
+| 🆓 **Ücretsiz:** | İş Kanunu (mevzuat.gov.tr) ücretsiz. SGK (sgk.gov.tr) ücretsiz rehber ve duyurular. | | |
 | Mollamahmutoğlu, H. & Astarlı, M. | 2022 | İş Hukuku (Güncellenmiş 7. Baskı) | Lykeion Yayınları |
+| 🆓 **Ücretsiz:** | İş Kanunu ve İSG Kanunu (mevzuat.gov.tr) ücretsiz. Çalışma Bakanlığı yayınları ücretsiz. | | |
 | Kızılot, Ş. & Taş, M. | 2023 | Vergi Hukuku ve Türk Vergi Sistemi | Yaklaşım Yayınları |
+| 🆓 **Ücretsiz:** | GİB (gib.gov.tr) — tüm vergi mevzuatı, tebliğler ve rehberler ücretsiz. | | |
 | Uluatam, Ö. & Methibay, Y. | 2022 | Türk Vergi Sistemi (Güncellenmiş 15. Baskı) | Turhan Kitabevi |
+| 🆓 **Ücretsiz:** | VUK, GVK, KVK (mevzuat.gov.tr) ücretsiz. GİB İnteraktif Vergi Dairesi ücretsiz. | | |
 | Yaltı, B. | 2021 | Kurumlar Vergisi Kanunu Şerhi | Vedat Kitapçılık |
+| 🆓 **Ücretsiz:** | Kurumlar Vergisi Kanunu (mevzuat.gov.tr) ücretsiz. GİB Kurumlar Vergisi rehberi ücretsiz. | | |
 | Bozkurt, Y. & Akdoğan, Y. | 2023 | Türk Ticaret Kanunu'na Göre Şirket Kuruluşu | Seçkin Yayınları |
+| 🆓 **Ücretsiz:** | MERSİS (mersis.gtb.gov.tr) şirket kuruluş kılavuzları ücretsiz. Ticaret Bakanlığı yayınları ücretsiz. | | |
 | Karakocalı, A. | 2022 | Fikri Mülkiyet Hukuku (SMK Şerhi) | Adalet Yayınevi |
 
 ### C.2. Süreli Yayınlar (Periodicals & Journals)
@@ -91,7 +102,9 @@ Bu modül boyunca kullanılan başlıca mevzuat, kurum kaynakları, kitaplar ve 
 - **Dergipark** (dergipark.org.tr) — Türkçe hakemli dergilerde hukuk ve vergi makaleleri
 - **Hukuk Türk** (hukukturk.com) — Güncel yargı kararları, içtihat taraması
 - **Kazancı İçtihat Bilgi Bankası** (kazanci.com.tr) — Yargıtay, Danıştay, Anayasa Mahkemesi kararları
+  🆓 **Ücretsiz:** Yargıtay Karar Arama (yargitay.gov.tr) + Danıştay Karar Arama (danistay.gov.tr) + Anayasa Mahkemesi (anayasa.gov.tr) — tüm içtihatlar ücretsiz. Hukuk Türk (hukukturk.com) ücretsiz güncel kararlar.
 - **Lexpera** (lexpera.com.tr) — Mevzuat, içtihat ve hukuki analiz platformu
+  🆓 **Ücretsiz:** Mevzuat Bilgi Sistemi (mevzuat.gov.tr) — tüm mevzuat ücretsiz. Dergipark (dergipark.org.tr) ücretsiz akademik hukuk makaleleri.
 - **Yargıtay Karar Arama** (yargitay.gov.tr) — Yargıtay Hukuk Daireleri kararları
 - **Danıştay Karar Arama** (danistay.gov.tr) — Danıştay Vergi ve İdari Dava Daireleri kararları
 

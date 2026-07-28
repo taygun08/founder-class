@@ -5,10 +5,13 @@
 | # | Yazar(lar) | Başlık | Yayınevi / Yıl | İlişkili Hafta |
 |---|-----------|--------|---------------|-----------------|
 | 1 | Kotler, P. & Keller, K. L. | *Marketing Management* (15th Global Edition) | Pearson, 2016 | H1, H2, H6, H8 |
+| 🆓 **Ucretsiz:** | Kotler'in YouTube kanali ve TED konusmalari. Marketing Management ozet PDF'leri ucretsiz. | - | - | |
 | 2 | Ries, A. & Trout, J. | *Positioning: The Battle for Your Mind* | McGraw-Hill, 2000 (Güncellenmiş) | H1 |
 | 3 | Aaker, D. | *Building Strong Brands* | Free Press, 1996 | H3 |
 | 4 | Keller, K. L. | *Strategic Brand Management* (5th Edition) | Pearson, 2019 | H3 |
+| 🆓 **Ucretsiz:** | Keller'in Journal of Marketing makaleleri (Google Scholar). Brand Management ucretsiz online kaynaklar. | - | - | |
 | 5 | Chaffey, D. & Ellis-Chadwick, F. | *Digital Marketing: Strategy, Implementation and Practice* (7th Edition) | Pearson, 2019 | H4, H5 |
+| 🆓 **Ucretsiz:** | Google Digital Garage (learndigital.withgoogle.com) ucretsiz dijital pazarlama sertifikasi. | - | - | |
 | 6 | Cialdini, R. | *Influence: The Psychology of Persuasion* | HarperBusiness, 2006 | H2 |
 | 7 | Kahneman, D. | *Thinking, Fast and Slow* | Farrar, Straus and Giroux, 2011 | H2 |
 | 8 | Thaler, R. & Sunstein, C. | *Nudge: Improving Decisions About Health, Wealth, and Happiness* | Penguin, 2009 | H2 |
@@ -103,21 +106,37 @@
 |---------|---------|----------------|
 | Google Digital Garage | Dijital Pazarlamanın Temelleri | H1, H4 |
 | Google Skillshop | Google Analytics 4 Sertifikası | H8 |
+| 🆓 **Ucretsiz:** | Google Skillshop tamamen ucretsiz. | |
 | Google Skillshop | Google Ads Sertifikaları (Arama, Görüntülü, Video) | H5 |
+| 🆓 **Ucretsiz:** | Google Skillshop tamamen ucretsiz. | |
 | HubSpot Academy | Dijital Pazarlama Sertifikası | H4 |
+| 🆓 **Ucretsiz:** | HubSpot Academy tamamen ucretsiz sertifika programi. | |
 | HubSpot Academy | İçerik Pazarlaması Sertifikası | H4 |
+| 🆓 **Ucretsiz:** | HubSpot Academy ucretsiz. | |
 | HubSpot Academy | Pazarlama Analitiği Sertifikası | H8 |
+| 🆓 **Ucretsiz:** | HubSpot Academy ucretsiz. | |
 | HubSpot Academy | Pazarlama Otomasyonu Eğitimi | H5 |
+| 🆓 **Ucretsiz:** | HubSpot Academy ucretsiz. | |
 | Meta Blueprint | Sosyal Medya Pazarlaması Profesyoneli | H4 |
+| 🆓 **Ucretsiz:** | Meta Blueprint temel egitimleri ucretsiz. | |
 | Meta Blueprint | Marka Bilinirliği Sertifikası | H3 |
+| 🆓 **Ucretsiz:** | Meta Blueprint ucretsiz egitim modulleri. | |
 | Reforge | Growth Serisi (Growth Fundamentals, Growth Systems, Experimentation) | H7, H8 |
+| 🆓 **Ucretsiz:** | Reforge blog (blog.reforge.com) ucretsiz growth makaleleri. Brian Balfour ve Andrew Chen bloglari ucretsiz. | |
 | Reforge | Pricing ve Monetizasyon Serisi | H6 |
+| 🆓 **Ucretsiz:** | Lenny's Podcast/Newsletter (lennysnewsletter.com) ucretsiz pricing ve growth icerikleri. | |
 | Reforge | Data Science for Growth | H8 |
+| 🆓 **Ucretsiz:** | Reforge blog ucretsiz. Andrew Chen (andrewchen.com) blogu ucretsiz. | |
 | CXL Institute | Dönüşüm Optimizasyonu Mini Derecesi | H5 |
+| 🆓 **Ucretsiz:** | CXL blog (cxl.com/blog) ucretsiz CRO makaleleri ve rehberleri. | |
 | CXL Institute | Dijital Analitik Mini Derecesi | H8 |
+| 🆓 **Ucretsiz:** | Google Analytics 4 ucretsiz egitim (skillshop.withgoogle.com). | |
 | LinkedIn Learning | Pazarlama Stratejisi Temelleri | H1 |
+| 🆓 **Ucretsiz:** | YouTube pazarlama stratejisi playlistleri ucretsiz. | |
 | LinkedIn Learning | Fiyatlandırma Stratejisi Temelleri | H6 |
+| 🆓 **Ucretsiz:** | YouTube "Pricing Strategy" egitimleri ucretsiz. | |
 | LinkedIn Learning | Marka Stratejisi Temelleri | H3 |
+| 🆓 **Ucretsiz:** | YouTube marka stratejisi icerikleri ucretsiz. | |
 
 ## Online Bloglar ve Yayınlar
 
@@ -194,11 +213,13 @@
 | Analitik | Google Analytics 4, Mixpanel, Amplitude | Web/mobil analitik, kullanıcı davranışı |
 | CRM & Otomasyon | HubSpot, Salesforce, Insider, Retinasoft | Müşteri yönetimi, otomasyon |
 | SEO | Ahrefs, SEMrush, Moz | Anahtar kelime, backlink, site analizi |
+| 🆓 **Ucretsiz:** | Google Keyword Planner (ucretsiz), Google Trends (trends.google.com), Ubersuggest (neilpatel.com) ucretsiz plan, AnswerThePublic (answerthepublic.com) ucretsiz anahtar kelime kesfi | | |
 | Reklam Yönetimi | Google Ads, Meta Ads Manager, DV360 | Performans pazarlaması, programatik |
 | E-posta Pazarlama | Mailchimp, Sendinblue, CleverPush | E-posta otomasyonu, segmentasyon |
 | CRO ve Test | Optimizely, VWO, Google Optimize | A/B test, dönüşüm optimizasyonu |
 | Sosyal Medya | Hootsuite, Buffer, Later | Sosyal medya yönetimi, planlama |
 | Veri Görselleştirme | Tableau, Looker, Power BI | Dashboard, raporlama |
+| 🆓 **Ucretsiz:** | Google Looker Studio (lookerstudio.google.com) — tamamen ucretsiz dashboard. Ayrica Metabase (metabase.com) acik kaynak BI araci. | | |
 | Attribution | Rockerbox, Northbeam, Ruler Analytics | Çoklu dokunuş attribution |
 | Müşteri Veri Platformu | Segment, mParticle, Blueconic | Müşteri verisi birleştirme |
 
@@ -239,8 +260,11 @@
 |--------|---------|
 | **Pazarlama Sözlüğü** (AMA - American Marketing Association) | Pazarlama terminolojisi için temel referans |
 | **Statista** | Pazar istatistikleri ve tüketici verileri |
+| 🆓 **Ucretsiz:** | Our World in Data (ourworldindata.org) + World Bank Open Data (data.worldbank.org) + TUİK (tuik.gov.tr) — ucretsiz pazar verileri. | |
 | **eMarketer / Insider Intelligence** | Dijital pazarlama trendleri ve verileri |
+| 🆓 **Ucretsiz:** | Think with Google (thinkwithgoogle.com) + Meta for Business (facebook.com/business) + We Are Social Digital Report (wearesocial.com) — ucretsiz dijital trend raporlari. | |
 | **Gartner Marketing Symposium** | Yıllık pazarlama trend raporları |
+| 🆓 **Ucretsiz:** | McKinsey Marketing & Sales (mckinsey.com) ucretsiz raporlar. HubSpot Blog (blog.hubspot.com) ucretsiz trend icerikleri. | |
 | **McKinsey Marketing & Sales** | Pazarlama stratejisi makaleleri ve raporları |
 | **BCG Center for Customer Insight** | Müşteri içgörüleri ve pazarlama stratejisi |
 | **Simon-Kucher & Partners** | Fiyatlandırma stratejisi raporları ve araştırmaları |

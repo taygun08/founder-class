@@ -6,21 +6,21 @@
 
 ## Coursera
 
-| # | Kurs | Platform | Egitmen | Sure | Seviye | Ucret | Ilgili Modul |
-|---|------|----------|---------|------|--------|-------|-------------|
-| 1 | **Machine Learning Specialization** | Coursera | Andrew Ng (DeepLearning.AI / Stanford) | ~60 saat | Baslangic | Ucretli (maddi yardim mumkun) | AI & Veri, Makine Ogrenmesi |
-| 2 | **Deep Learning Specialization** | Coursera | Andrew Ng (DeepLearning.AI) | ~120 saat | Orta | Ucretli | AI & Veri, Derin Ogrenme |
-| 3 | **AI For Everyone** | Coursera | Andrew Ng (DeepLearning.AI) | ~8 saat | Baslangic | Ucretsiz/Ucretli | AI Okuryazarligi |
-| 4 | **Financial Markets** | Coursera | Robert Shiller (Yale) | ~27 saat | Baslangic | Ucretsiz/Ucretli | Finansin Temelleri |
-| 5 | **Behavioral Finance** | Coursera | Yale University | ~12 saat | Orta | Ucretsiz/Ucretli | Davranissal Finans |
-| 6 | **Corporate Finance Essentials** | Coursera | IESE Business School | ~20 saat | Baslangic | Ucretsiz/Ucretli | Sirket Finansmani |
-| 7 | **Game Theory** | Coursera | Stanford & UBC | ~30 saat | Orta | Ucretsiz/Ucretli | Strateji, Muzakere |
-| 8 | **Strategic Management** | Coursera | Copenhagen Business School | ~12 saat | Baslangic | Ucretsiz/Ucretli | Strateji |
-| 9 | **Entrepreneurship Specialization** | Coursera | Wharton (UPenn) | ~80 saat | Baslangic | Ucretli | Girisimcilik |
-| 10 | **Data Science Specialization** | Coursera | Johns Hopkins | ~180 saat | Baslangic | Ucretli | Veri Analizi |
-| 11 | **Business Statistics and Analysis Specialization** | Coursera | Rice University | ~48 saat | Baslangic | Ucretli | Istatistik, Analiz |
-| 12 | **Leading People and Teams Specialization** | Coursera | Michigan University | ~40 saat | Baslangic | Ucretsiz/Ucretli | Liderlik |
-| 13 | **Negotiation Mastery** | Coursera | Michigan University | ~15 saat | Orta | Ucretli | Muzakere |
+| # | Kurs | Platform | Egitmen | Sure | Seviye | Ucret | Ilgili Modul | 🆓 Ucretsiz Alternatif |
+|---|------|----------|---------|------|--------|-------|-------------|------------------------|
+| 1 | **Machine Learning Specialization** | Coursera | Andrew Ng (DeepLearning.AI / Stanford) | ~60 saat | Baslangic | Ucretli (maddi yardim mumkun) | AI & Veri, Makine Ogrenmesi | [Google ML Crash Course](https://developers.google.com/machine-learning/crash-course) (ucretsiz) |
+| 2 | **Deep Learning Specialization** | Coursera | Andrew Ng (DeepLearning.AI) | ~120 saat | Orta | Ucretli | AI & Veri, Derin Ogrenme | [Fast.ai Practical Deep Learning](https://course.fast.ai/) (ucretsiz) |
+| 3 | **AI For Everyone** | Coursera | Andrew Ng (DeepLearning.AI) | ~8 saat | Baslangic | Ucretsiz/Ucretli | AI Okuryazarligi | - |
+| 4 | **Financial Markets** | Coursera | Robert Shiller (Yale) | ~27 saat | Baslangic | Ucretsiz/Ucretli | Finansin Temelleri | - |
+| 5 | **Behavioral Finance** | Coursera | Yale University | ~12 saat | Orta | Ucretsiz/Ucretli | Davranissal Finans | - |
+| 6 | **Corporate Finance Essentials** | Coursera | IESE Business School | ~20 saat | Baslangic | Ucretsiz/Ucretli | Sirket Finansmani | - |
+| 7 | **Game Theory** | Coursera | Stanford & UBC | ~30 saat | Orta | Ucretsiz/Ucretli | Strateji, Muzakere | - |
+| 8 | **Strategic Management** | Coursera | Copenhagen Business School | ~12 saat | Baslangic | Ucretsiz/Ucretli | Strateji | - |
+| 9 | **Entrepreneurship Specialization** | Coursera | Wharton (UPenn) | ~80 saat | Baslangic | Ucretli | Girisimcilik | [YC Startup School](https://www.startupschool.org/) (ucretsiz) |
+| 10 | **Data Science Specialization** | Coursera | Johns Hopkins | ~180 saat | Baslangic | Ucretli | Veri Analizi | [Harvard CS109 Data Science](https://cs109.github.io/2015/) (ucretsiz) |
+| 11 | **Business Statistics and Analysis Specialization** | Coursera | Rice University | ~48 saat | Baslangic | Ucretli | Istatistik, Analiz | [Khan Academy Statistics](https://www.khanacademy.org/math/statistics-probability) (ucretsiz) |
+| 12 | **Leading People and Teams Specialization** | Coursera | Michigan University | ~40 saat | Baslangic | Ucretsiz/Ucretli | Liderlik | - |
+| 13 | **Negotiation Mastery** | Coursera | Michigan University | ~15 saat | Orta | Ucretli | Muzakere | [Harvard PON Daily](https://www.pon.harvard.edu/daily/) (ucretsiz makaleler) |
 
 **Link**: [coursera.org](https://www.coursera.org)
 
@@ -28,15 +28,15 @@
 
 ## edX
 
-| # | Kurs | Platform | Egitmen | Sure | Seviye | Ucret | Ilgili Modul |
-|---|------|----------|---------|------|--------|-------|-------------|
-| 1 | **MITx: Finance** | edX | MIT Sloan | ~48 saat | Ileri | Ucretsiz (sertifika ucretli) | Finans, Sirket Finansmani |
-| 2 | **MITx: 14.73x The Challenges of Global Poverty** | edX | MIT (Banerjee & Duflo) | ~36 saat | Baslangic | Ucretsiz | Ekonomi, Politika |
-| 3 | **HarvardX: Exercising Leadership** | edX | Harvard | ~24 saat | Baslangic | Ucretsiz/Ucretli | Liderlik |
-| 4 | **BerkeleyX: Principles of Corporate Finance** | edX | Berkeley Haas | ~30 saat | Orta | Ucretsiz/Ucretli | Sirket Finansmani |
-| 5 | **HarvardX: Data Science Professional Certificate** | edX | Harvard (Rafael Irizarry) | ~200 saat | Baslangic | Ucretli | Veri Bilimi |
-| 6 | **Wharton: Business and Financial Modeling** | edX | UPenn Wharton | ~24 saat | Orta | Ucretsiz/Ucretli | Finansal Modelleme |
-| 7 | **MITx: Supply Chain Management** | edX | MIT | ~180 saat | Orta | Ucretli | Operasyon, Lojistik |
+| # | Kurs | Platform | Egitmen | Sure | Seviye | Ucret | Ilgili Modul | 🆓 Ucretsiz Alternatif |
+|---|------|----------|---------|------|--------|-------|-------------|------------------------|
+| 1 | **MITx: Finance** | edX | MIT Sloan | ~48 saat | Ileri | Ucretsiz (sertifika ucretli) | Finans, Sirket Finansmani | - |
+| 2 | **MITx: 14.73x The Challenges of Global Poverty** | edX | MIT (Banerjee & Duflo) | ~36 saat | Baslangic | Ucretsiz | Ekonomi, Politika | - |
+| 3 | **HarvardX: Exercising Leadership** | edX | Harvard | ~24 saat | Baslangic | Ucretsiz/Ucretli | Liderlik | - |
+| 4 | **BerkeleyX: Principles of Corporate Finance** | edX | Berkeley Haas | ~30 saat | Orta | Ucretsiz/Ucretli | Sirket Finansmani | - |
+| 5 | **HarvardX: Data Science Professional Certificate** | edX | Harvard (Rafael Irizarry) | ~200 saat | Baslangic | Ucretli | Veri Bilimi | [HarvardX Data Science (Audit ile ucretsiz)](https://www.edx.org/professional-certificate/harvardx-data-science) |
+| 6 | **Wharton: Business and Financial Modeling** | edX | UPenn Wharton | ~24 saat | Orta | Ucretsiz/Ucretli | Finansal Modelleme | - |
+| 7 | **MITx: Supply Chain Management** | edX | MIT | ~180 saat | Orta | Ucretli | Operasyon, Lojistik | [MIT OCW Supply Chain](https://ocw.mit.edu/search/?q=supply+chain) (ucretsiz) |
 
 **Link**: [edx.org](https://www.edx.org)
 
@@ -44,18 +44,18 @@
 
 ## Udemy
 
-| # | Kurs | Egitmen | Sure | Seviye | Ucret | Ilgili Modul |
-|---|------|---------|------|--------|-------|-------------|
-| 1 | **The Complete Financial Analyst Course** | 365 Careers | ~20 saat | Baslangic | Ucretli (sik indirimde) | Finansal Analiz |
-| 2 | **Python for Financial Analysis and Algorithmic Trading** | Jose Portilla | ~16 saat | Orta | Ucretli | Finans, Kodlama |
-| 3 | **Machine Learning & Data Science Bootcamp** | 365 Careers | ~30 saat | Baslangic | Ucretli | Veri Bilimi |
-| 4 | **The Complete SQL Bootcamp** | Jose Portilla | ~9 saat | Baslangic | Ucretli | Veri Analizi |
-| 5 | **Excel for Business Analysts** | 365 Careers | ~12 saat | Baslangic | Ucretli | Finansal Modelleme |
-| 6 | **Negotiation Skills** | Chris Croft | ~4 saat | Baslangic | Ucretli | Muzakere |
-| 7 | **Strategic Management** | Mike Clayton | ~6 saat | Baslangic | Ucretli | Strateji |
-| 8 | **Public Speaking & Presentation Skills** | Chris Haroun | ~7 saat | Baslangic | Ucretli | Iletisim |
-| 9 | **Leadership: Practical Leadership Skills** | Chris Croft | ~5 saat | Baslangic | Ucretli | Liderlik |
-| 10 | **Startup Funding & VC** | Evan Kimbrell | ~10 saat | Baslangic | Ucretli | Girisimcilik, Fonlama |
+| # | Kurs | Egitmen | Sure | Seviye | Ucret | Ilgili Modul | 🆓 Ucretsiz Alternatif |
+|---|------|---------|------|--------|-------|-------------|------------------------|
+| 1 | **The Complete Financial Analyst Course** | 365 Careers | ~20 saat | Baslangic | Ucretli (sik indirimde) | Finansal Analiz | [CFI Free Resources](https://corporatefinanceinstitute.com/free-resources/) |
+| 2 | **Python for Financial Analysis and Algorithmic Trading** | Jose Portilla | ~16 saat | Orta | Ucretli | Finans, Kodlama | [Corey Schafer Python YouTube](https://www.youtube.com/user/schafer5) (ucretsiz) |
+| 3 | **Machine Learning & Data Science Bootcamp** | 365 Careers | ~30 saat | Baslangic | Ucretli | Veri Bilimi | [Kaggle Learn](https://www.kaggle.com/learn) (ucretsiz) |
+| 4 | **The Complete SQL Bootcamp** | Jose Portilla | ~9 saat | Baslangic | Ucretli | Veri Analizi | [Mode Analytics SQL Tutorial](https://mode.com/sql-tutorial/) (ucretsiz) |
+| 5 | **Excel for Business Analysts** | 365 Careers | ~12 saat | Baslangic | Ucretli | Finansal Modelleme | [Microsoft Excel Training](https://support.microsoft.com/en-us/training) (ucretsiz) |
+| 6 | **Negotiation Skills** | Chris Croft | ~4 saat | Baslangic | Ucretli | Muzakere | [Kellogg Negotiation Resources](https://www.kellogg.northwestern.edu/executive-education/negotiation-strategies.aspx) |
+| 7 | **Strategic Management** | Mike Clayton | ~6 saat | Baslangic | Ucretli | Strateji | [Yale OCW - Strategy](https://oyc.yale.edu/economics/econ-159) (ucretsiz) |
+| 8 | **Public Speaking & Presentation Skills** | Chris Haroun | ~7 saat | Baslangic | Ucretli | Iletisim | [TED's Masterclass YouTube](https://www.youtube.com/user/TEDtalksDirector) |
+| 9 | **Leadership: Practical Leadership Skills** | Chris Croft | ~5 saat | Baslangic | Ucretli | Liderlik | [Simon Sinek YouTube](https://www.youtube.com/user/SimonSinek) (ucretsiz) |
+| 10 | **Startup Funding & VC** | Evan Kimbrell | ~10 saat | Baslangic | Ucretli | Girisimcilik, Fonlama | [YC Startup School](https://www.startupschool.org/) (ucretsiz) |
 
 **Link**: [udemy.com](https://www.udemy.com)
 **Not**: Udemy kurslari siklikla $9.99-$14.99 arasinda indirime girer. Tam fiyattan almayin.
@@ -85,21 +85,21 @@
 
 ## Sertifika Programlari
 
-| # | Sertifika | Kurum | Sure | Seviye | Ucret | Ilgili Modul |
-|---|----------|-------|------|--------|-------|-------------|
-| 1 | **CFA (Chartered Financial Analyst)** | CFA Institute | ~1000 saat (seviye basi) | Ileri | ~$1000-4000/seviye | Finans, Yatirim, Portfoy |
-| 2 | **FRM (Financial Risk Manager)** | GARP | ~300 saat/seviye | Ileri | ~$800-1500/seviye | Risk Yonetimi |
-| 3 | **SPK Lisanslama (L1, L2, L3, Turev)** | SPK / TSPB | Degisken | Orta | ~200-500 TL/sinav | Finansal Piyasalar, Turev |
-| 4 | **CMA (Certified Management Accountant)** | IMA | ~300 saat | Orta | ~$1000-2000 | Yonetim Muhasebesi |
-| 5 | **CAIA (Chartered Alternative Investment Analyst)** | CAIA Association | ~300 saat | Ileri | ~$3000-4000 | Alternatif Yatirimlar |
-| 6 | **Google Data Analytics Certificate** | Google (Coursera) | ~170 saat | Baslangic | ~$49/ay | Veri Analizi |
-| 7 | **Google Project Management Certificate** | Google (Coursera) | ~140 saat | Baslangic | ~$49/ay | Proje Yonetimi |
-| 8 | **Google Digital Marketing Certificate** | Google (Coursera) | ~100 saat | Baslangic | ~$49/ay | Pazarlama |
-| 9 | **IBM Data Science Professional Certificate** | IBM (Coursera) | ~200 saat | Baslangic | ~$49/ay | Veri Bilimi |
-| 10 | **AWS Cloud Practitioner** | Amazon AWS | ~40 saat | Baslangic | ~$100 (sinav) | Bulut Bilisim |
-| 11 | **AWS Solutions Architect** | Amazon AWS | ~120 saat | Orta | ~$150 (sinav) | Bulut Bilisim |
-| 12 | **DeepLearning.AI TensorFlow Developer** | DeepLearning.AI | ~80 saat | Orta | ~$49/ay | AI, ML |
-| 13 | **SKK (Sermaye Piyasasi Lisanslama)** | TSPB | Degisken | Orta | Degisken | Finansal Piyasalar |
+| # | Sertifika | Kurum | Sure | Seviye | Ucret | Ilgili Modul | 🆓 Ucretsiz Alternatif |
+|---|----------|-------|------|--------|-------|-------------|------------------------|
+| 1 | **CFA (Chartered Financial Analyst)** | CFA Institute | ~1000 saat (seviye basi) | Ileri | ~$1000-4000/seviye | Finans, Yatirim, Portfoy | [CFA Institute Refresher Readings](https://www.cfainstitute.org/en/membership/professional-development/refresher-readings) (ucretsiz) |
+| 2 | **FRM (Financial Risk Manager)** | GARP | ~300 saat/seviye | Ileri | ~$800-1500/seviye | Risk Yonetimi | [GARP FRM Free Resources](https://www.garp.org/frm) (ornek sinavlar) |
+| 3 | **SPK Lisanslama (L1, L2, L3, Turev)** | SPK / TSPB | Degisken | Orta | ~200-500 TL/sinav | Finansal Piyasalar, Turev | [TSPB Ucretsiz Kaynaklar](https://www.tspb.org.tr/) |
+| 4 | **CMA (Certified Management Accountant)** | IMA | ~300 saat | Orta | ~$1000-2000 | Yonetim Muhasebesi | [IMA Free Resources](https://www.imanet.org/cma-certification/getting-started) |
+| 5 | **CAIA (Chartered Alternative Investment Analyst)** | CAIA Association | ~300 saat | Ileri | ~$3000-4000 | Alternatif Yatirimlar | [CAIA Free Study Resources](https://caia.org/why-caia) |
+| 6 | **Google Data Analytics Certificate** | Google (Coursera) | ~170 saat | Baslangic | ~$49/ay | Veri Analizi | [Google Skillshop](https://skillsbuild.org/students/resources/google-data-analytics) (ucretsiz) |
+| 7 | **Google Project Management Certificate** | Google (Coursera) | ~140 saat | Baslangic | ~$49/ay | Proje Yonetimi | [Google Project Management Free Course](https://grow.google/certificates/project-management/) |
+| 8 | **Google Digital Marketing Certificate** | Google (Coursera) | ~100 saat | Baslangic | ~$49/ay | Pazarlama | [Google Digital Garage](https://learndigital.withgoogle.com/digitalgarage) (ucretsiz) |
+| 9 | **IBM Data Science Professional Certificate** | IBM (Coursera) | ~200 saat | Baslangic | ~$49/ay | Veri Bilimi | [IBM Data Science Free Courses](https://cognitiveclass.ai/) (ucretsiz) |
+| 10 | **AWS Cloud Practitioner** | Amazon AWS | ~40 saat | Baslangic | ~$100 (sinav) | Bulut Bilisim | [AWS Skill Builder Free Tier](https://aws.amazon.com/training/digital/) (ucretsiz) |
+| 11 | **AWS Solutions Architect** | Amazon AWS | ~120 saat | Orta | ~$150 (sinav) | Bulut Bilisim | [AWS Skill Builder Free Labs](https://aws.amazon.com/training/learn-about/) (ucretsiz) |
+| 12 | **DeepLearning.AI TensorFlow Developer** | DeepLearning.AI | ~80 saat | Orta | ~$49/ay | AI, ML | [TensorFlow Free Tutorials](https://www.tensorflow.org/tutorials) (ucretsiz) |
+| 13 | **SKK (Sermaye Piyasasi Lisanslama)** | TSPB | Degisken | Orta | Degisken | Finansal Piyasalar | [TSPB Ucretsiz Kaynaklar](https://www.tspb.org.tr/) |
 
 ---
 

@@ -11,7 +11,9 @@ Bu dokuman, Finans modulu boyunca kullanilacak tum kaynaklari kategorize edilmis
 | Kitap | Yazar(lar) | Baski | Yayinevi | Neden Onemli? |
 |-------|-----------|-------|----------|---------------|
 | *Financial Statement Analysis and Security Valuation* | Stephen H. Penman | 5. Baski (2025'te 6. baskisi guncelleniyor) | McGraw-Hill | Finansal tablo analizinden sirket degerlemesine butunlesik yaklasim sunar. Modulun 1-2. haftalari icin ana kaynak. |
+| 🆓 **Ucretsiz:** | OpenStax Principles of Finance (openstax.org) + Damodaran NYU Stern dersleri (pages.stern.nyu.edu/adamodar/) | - | - | Finansal tablo analizi ve degerleme icin tamamen ucretsiz kaynaklar. |
 | *Financial Statement Analysis: A Practitioner's Guide* | Martin Fridson & Fernando Alvarez | 5. Baski | Wiley | Uygulayicilar icin kapsamli rehber, gercek hayat ornekleriyle doludur. Oran analizi ve kirmizi bayrak tespiti icin ideal. |
+| 🆓 **Ucretsiz:** | Yazarın makaleleri ve röportajları (YouTube), CFA Institute Refresher Readings (cfainstitute.org) | - | - | Ucretsiz uygulamali finansal analiz kaynaklari. |
 | *Financial Reporting and Analysis: Using Financial Accounting Information* | Charles H. Gibson | - | - | Sirket raporlamasini finansal analizle birlestirir, IFRS/US GAAP karsilastirmalari icerir. |
 | *Finance for Non-Finance People* | Sandeep Goel | 3. Baski (2025) | Routledge | Finans egitimi almayanlar icin ideal baslangic kitabi. Modul oncesi hazirlik okumasi olarak onerilir. |
 
@@ -20,6 +22,7 @@ Bu dokuman, Finans modulu boyunca kullanilacak tum kaynaklari kategorize edilmis
 | Kitap | Yazar(lar) | Baski | Yayinevi | Neden Onemli? |
 |-------|-----------|-------|----------|---------------|
 | *Macroeconomics* | N. Gregory Mankiw | 11. Baski (2025) | Worth Publishers | Standart makroekonomi ders kitabi, temel kavramlar icin en yaygin kullanilan kaynak. 3. hafta ana okumasi. |
+| 🆓 **Ucretsiz:** | OpenStax Principles of Macroeconomics (openstax.org) | - | - | Tamamen ucretsiz, akredite makroekonomi ders kitabi. |
 | *Macroeconomics* | Olivier Blanchard | 8. Baski | Pearson | Avrupa ve emerging market odakli, Turkiye gibi ekonomiler icin daha uygun ornekler icerir. |
 | *Monetary Policy, Inflation, and the Business Cycle* | Jordi Gali | 2. Baski | Princeton | New Keynesyen cercevenin kurucusundan ileri duzey para politikasi analizi. |
 | *Monetary Economics and Policy* | Pierpaolo Benigno | (2025) | Princeton University Press | Merkez bankaciligi ve para politikasina guncel bir bakis. |
@@ -31,9 +34,12 @@ Bu dokuman, Finans modulu boyunca kullanilacak tum kaynaklari kategorize edilmis
 | Kitap | Yazar(lar) | Baski | Yayinevi | Neden Onemli? |
 |-------|-----------|-------|----------|---------------|
 | *Investment Valuation: Tools and Techniques for Determining the Value of Any Asset* | Aswath Damodaran | 4. Baski (2025) | Wiley | Degerlemenin "Incil"i. Varlik degerlemenin her yonunu kapsar. Startup, distressed sirket ve senaryo analizi icin yeni bolumler. 4-6. haftalar icin temel kaynak. |
+| 🆓 **Ucretsiz:** | Damodaran'in tum ders videolari, slaytlari, veri setleri ve Excel sablonlari pages.stern.nyu.edu/adamodar/ adresinde ucretsizdir. | - | - | Kitabin kendisi ucretli ancak yazarin tum egitim materyali ucretsiz. |
 | *Applied Corporate Finance* | Aswath Damodaran | 4. Baski | Wiley | Kurumsal finansman kararlarina uygulamali yaklasim. WACC ve sermaye yapisi kararlari icin ideal. |
 | *Principles of Corporate Finance: 2025 Release* | Brealey, Myers, Allen, Edmans | 2025 Release | McGraw-Hill | 150+ gercek vaka ve interaktif ogelerle finansin temel prensipleri. Modulun 4-5. haftalari icin temel kaynak. |
+| 🆓 **Ucretsiz:** | MIT OpenCourseWare — Finance (ocw.mit.edu), 15.401 Finance Theory I dersi ucretsiz video ve notlar. | - | - | MIT'in ucretsiz finans dersleri. |
 | *Valuation: Measuring and Managing the Value of Companies* | Koller, Goedhart, Wessels (McKinsey) | 8. Baski (2025) | Wiley | Dijital ve ESG odakli guncellemelerle piyasanin #1 degerleme rehberi. DCF degerleme icin en kapsamli kaynak. 6. hafta ana kaynagi. |
+| 🆓 **Ucretsiz:** | McKinsey Insights (mckinsey.com/featured-insights) ucretsiz makaleler ve raporlar. Damodaran DCF Excel sablonu ucretsiz. | - | - | McKinsey'in ucretsiz yayinlari ve Damodaran sablonlari. |
 | *Corporate Finance* | Jonathan Berk & Peter DeMarzo | 5. Baski | Pearson | Standart MBA duzeyi ders kitabi, cok sayida alistirma ve ornek icerir. |
 | *Valuation: University Edition* | McKinsey & Company | 7. Baski | Wiley | DCF agirlikli, pratige yonelik. Ogrenciler icin daha erisilebilir bir versiyon. |
 
@@ -62,6 +68,7 @@ Bu dokuman, Finans modulu boyunca kullanilacak tum kaynaklari kategorize edilmis
 | Kitap | Yazar(lar) | Baski | Yayinevi | Neden Onemli? |
 |-------|-----------|-------|----------|---------------|
 | *Options, Futures, and Other Derivatives* | John C. Hull | 11. Baski (2025) | Pearson | Türev ürünler alaninda dünyanin en çok kullanilan ders kitabi. Futures, opsiyon, swap ve hedging stratejileri için temel kaynak. |
+| 🆓 **Ucretsiz:** | MIT OCW — Derivatives (ocw.mit.edu) ucretsiz ders notlari. QuantLib (quantlib.org) ucretsiz kantitatif finans kutuphanesi. | - | - | Turev urun fiyatlama icin ucretsiz kaynaklar. |
 | *Options Markets* | John C. Cox & Mark Rubinstein | - | - | Opsiyon fiyatlama teorisinin klasiklesmis kaynagi, Black-Scholes modelinin derinlemesine açiklamasi. |
 | *Derivatives: Principles and Practice* | Rangarajan K. Sundaram & Sanjiv R. Das | 2. Baski | McGraw-Hill | Türev ürünlerin teori ve uygulamasini dengeleyen kapsamli bir kaynak. |
 | *Value at Risk: The New Benchmark for Managing Financial Risk* | Philippe Jorion | 3. Baski | McGraw-Hill | VaR ve risk yönetimi konusunda en kapsamli referans kaynak. Stres testi ve senaryo analizi bölümleri. |
@@ -74,6 +81,7 @@ Bu dokuman, Finans modulu boyunca kullanilacak tum kaynaklari kategorize edilmis
 | Kitap | Yazar(lar) | Baski | Yayinevi | Neden Onemli? |
 |-------|-----------|-------|----------|---------------|
 | *Thinking, Fast and Slow* | Daniel Kahneman | - | Farrar, Straus and Giroux | Davranissal iktisadin temel kitabi. Bilissel onyargilar ve karar verme uzerine kapsamli. 10. hafta ana kaynagi. |
+| 🆓 **Ucretsiz:** | Kahneman'in Nobel konusmasi (Nobel.org ucretsiz) ve YouTube'da "Thinking, Fast and Slow" ozet videolari. Kahneman ile yapilan podcast roportajlari ucretsiz. | - | - | Yazarın TED/Nobel konusmalari ucretsiz. |
 | *Misbehaving: The Making of Behavioral Economics* | Richard H. Thaler | - | W.W. Norton | Davranissal iktisadin kurucusundan, alanin dogusu ve temel kavramlar. |
 | *The Winner's Curse: Behavioral Economics Anomalies, Then and Now* | Richard H. Thaler & Alex O. Imas | (2025) | Simon & Schuster | Thaler'in klasik anomaliler yazisinin 30 yil sonraki guncellemesi. Financial Times 2025 en iyi kitaplar listesinde. |
 | *The Success Equation: Untangling Skill and Luck in Business, Sports, and Investing* | Michael J. Mauboussin | - | - | Beceri ve sans ayrimi, yatirim kararlarinda sansin rolu. |
@@ -136,13 +144,21 @@ Bu dokuman, Finans modulu boyunca kullanilacak tum kaynaklari kategorize edilmis
 | Kurs | Platform | Link | Sure | Ucret (yaklasik) |
 |------|----------|------|------|------------------|
 | Financial Statement Modeling + Excel Crash Course | Wall Street Prep | wallstreetprep.com | 60-90 saat | $499-$999 |
+| 🆓 **Ucretsiz:** | Damodaran DCF Excel sablonu + YouTube Wall Street Prep ucretsiz videolari | pages.stern.nyu.edu/adamodar/ | Kendi hizinda | Ucretsiz |
 | Finance MicroMasters | edX MITx | edx.org | 1 yil 4 ay | $2,965 |
+| 🆓 **Ucretsiz:** | MIT OCW Finance Theory I (15.401) — ucretsiz video ve notlar | ocw.mit.edu | 12 hafta | Ucretsiz |
 | CFA Program (Level I-III) | CFA Institute | cfainstitute.org | 2-4 yil | ~$3,000+ |
+| 🆓 **Ucretsiz:** | CFA Institute Refresher Readings (cfainstitute.org) — CFA mufredatinin ucretsiz versiyonu | cfainstitute.org | Kendi hizinda | Ucretsiz |
 | FMVA (Financial Modeling & Valuation Analyst) | CFI | corporatefinanceinstitute.com | 100+ saat | ~$499 |
+| 🆓 **Ucretsiz:** | Damodaran ucretsiz degerleme dersleri + YouTube finansal modelleme playlistleri | Damodaran Online | 30+ saat | Ucretsiz |
 | Financial Analysis & Investment Strategy Mastery | Coursera | coursera.org | 4-6 ay | ~$49-79/ay |
+| 🆓 **Ucretsiz:** | Coursera Audit mode ile ucretsiz izleme (sertifikasiz) | coursera.org | Audit | Ucretsiz |
 | Accounting and Financial Modelling Bootcamp | Coursera | coursera.org | 4 ders | ~$49-79/ay |
+| 🆓 **Ucretsiz:** | Coursera Audit mode ucretsiz | coursera.org | Audit | Ucretsiz |
 | Quantitative Finance & Risk Modeling | Coursera | coursera.org | 16 ders | ~$49-79/ay |
+| 🆓 **Ucretsiz:** | Coursera Audit mode ucretsiz + QuantLib (quantlib.org) ucretsiz kutuphane | coursera.org / quantlib.org | Audit | Ucretsiz |
 | Financial Modeling Fundamentals | Coursera | coursera.org | - | ~$49-79/ay |
+| 🆓 **Ucretsiz:** | Coursera Audit mode ucretsiz | coursera.org | Audit | Ucretsiz |
 | SPK Lisanslama Sinavi (Temel/Ileri) | SPK | spk.gov.tr | Kendi hizinda | Sinav ucreti |
 
 ---
@@ -156,9 +172,13 @@ Bu dokuman, Finans modulu boyunca kullanilacak tum kaynaklari kategorize edilmis
 | Damodaran Online Veri Setleri | pages.stern.nyu.edu/adamodar/ | WACC, beta, risk primi, sektor carpanlari - guncel veriler |
 | Damodaran DCF Excel Sablonu | pages.stern.nyu.edu/adamodar/ | Sifirdan DCF modeli icin referans sablon |
 | Wall Street Prep Excel Sablonlari | wallstreetprep.com | 3-statement model, DCF, LBO sablonlari |
+| 🆓 **Ucretsiz:** | Damodaran Excel sablonlari (pages.stern.nyu.edu/adamodar/) | pages.stern.nyu.edu/adamodar/ | Ucretsiz DCF, WACC, beta hesaplama sablonlari |
 | CFI Financial Modeling Templates | corporatefinanceinstitute.com | Finansal modelleme icin profesyonel sablonlar |
+| 🆓 **Ucretsiz:** | Corporate Finance Institute ucretsiz kaynaklari ve makaleleri | corporatefinanceinstitute.com | Ucretsiz egitim icerikleri |
 | Macabacus Excel Eklentisi | macabacus.com | Finansal modelleme icin Excel ribbon eklentisi (ucretli) |
+| 🆓 **Ucretsiz:** | Excel yerlesik fonksiyonlar + YouTube'da finansal modelleme Excel egitimleri | YouTube | Ucretsiz Excel modelleme teknikleri |
 | QuickFS | quickfs.net | Finansal veri analizi, ozel sektor karsilastirmalari (ucretli) |
+| 🆓 **Ucretsiz:** | KAP (kamuyuap.org.tr) + TCMB EVDS (evds2.tcmb.gov.tr) + Yahoo Finance | Kamu portallari | Ucretsiz finansal veri kaynaklari |
 
 ### Veri Kaynaklari ve Platformlar
 
@@ -172,7 +192,9 @@ Bu dokuman, Finans modulu boyunca kullanilacak tum kaynaklari kategorize edilmis
 | BDDK | bddk.org.tr | Bankacilik sektoru verileri ve duzenlemeleri |
 | Yahoo Finance | finance.yahoo.com | Uluslararasi hisse senedi verileri, beta hesaplama |
 | Bloomberg Terminal | - | Profesyonel finansal veri ve analiz platformu (ucretli) |
+| 🆓 **Ucretsiz:** | Yahoo Finance (finance.yahoo.com) + Google Finance (google.com/finance) + FRED (fred.stlouisfed.org) + TCMB EVDS | Ucretsiz | Hisse senedi, makroekonomi ve finansal veriler icin ucretsiz alternatifler |
 | Reuters Eikon | - | Profesyonel finansal veri ve analiz platformu (ucretli) |
+| 🆓 **Ucretsiz:** | Investing.com (investing.com) + KAP (kamuyuap.org.tr) + BIST (borsaistanbul.com) | Ucretsiz | Finansal veri, teknik analiz ve piyasa verileri icin ucretsiz alternatifler |
 | Investing.com | investing.com | Finansal veriler, teknik analiz, ekonomi takvimi |
 
 ### Portfoy Analizi ve Risk Araclari

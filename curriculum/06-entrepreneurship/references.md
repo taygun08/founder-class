@@ -11,16 +11,19 @@ Bu dokuman, girisimcilik modulu boyunca kullanilacak tum kaynaklari kategorize e
 | Kitap | Yazar | Yil | Konu |
 |-------|-------|-----|------|
 | *The Lean Startup* | Eric Ries | 2011 | Lean Startup metodolojisi, BML dongusu, pivot |
+| 🆓 **Ucretsiz:** | Eric Ries TED konusmasi (YouTube) + Lean Startup blog (startuplessonslearned.com) ucretsiz makaleler. |
 | *The Four Steps to the Epiphany* | Steve Blank | 2005 | Customer Development framework |
 | *Running Lean* | Ash Maurya | 2012 | Pratik Lean Startup uygulama rehberi |
 | *The Startup Owner's Manual* | Steve Blank & Bob Dorf | 2012 | Kapsamli basvuru kaynagi |
 | *Business Model Generation* | Alexander Osterwalder | 2010 | Is modeli kanvasi ve strateji |
+| 🆓 **Ucretsiz:** | Strategyzer (strategyzer.com) ucretsiz BMC sablonu. Canvanizer (canvanizer.com) ucretsiz canvas araci. |
 
 ### Y Combinator ve Paul Graham
 
 | Kitap | Yazar | Yil | Konu |
 |-------|-------|-----|------|
 | *Hackers and Painters* | Paul Graham | 2004 | Denemelerinin derlemesi, teknoloji ve startup |
+| 🆓 **Ucretsiz:** | Paul Graham essay'leri (paulgraham.com) tamamen ucretsiz — tüm denemelerine ucretsiz erisim. |
 | *The Startup Playbook* | Sam Altman | 2016 | YC perspektifinden startup rehberi |
 | *Founders at Work* | Jessica Livingston | 2007 | Unlu startup kuruculariyla roportajlar |
 | *The Launch Pad* | Randall Stross | 2012 | YC deneyiminin ic bakis |
@@ -30,6 +33,7 @@ Bu dokuman, girisimcilik modulu boyunca kullanilacak tum kaynaklari kategorize e
 | Kitap | Yazar | Yil | Konu |
 |-------|-------|-----|------|
 | *Venture Deals* | Brad Feld & Jason Mendelson | 2011 | Term sheet ve VC hukuku icin en iyi kaynak |
+| 🆓 **Ucretsiz:** | Feld'in blogu (feld.com) ucretsiz VC icerikleri. YC SAFE kilavuzu (ycombinator.com) ucretsiz. |
 | *Venture Capitalists at Work* | Brad Feld | 2012 | VC'lerle roportajlar |
 | *The Startup Game* | William H. Draper | 2011 | Bir VC'nin anilari |
 | *Term Sheets & Valuations* | Alex Wilmerding | 2006 | Teknik term sheet rehberi |
@@ -70,6 +74,7 @@ Bu dokuman, girisimcilik modulu boyunca kullanilacak tum kaynaklari kategorize e
 | Kitap | Yazar | Yil | Konu |
 |-------|-------|-----|------|
 | *The Hard Thing About Hard Things* | Ben Horowitz | 2014 | Startup yonetiminin zor gercekleri |
+| 🆓 **Ucretsiz:** | Horowitz'in blogu (a16z.com) ucretsiz yazilari. YouTube roportajlari ucretsiz. |
 | *The Five Dysfunctions of a Team* | Patrick Lencioni | 2002 | Ekip dinamikleri ve cozumleri |
 | *The Alliance* | Reid Hoffman, Ben Casnocha | 2014 | Calisan-sirket iliskisi uzerine |
 | *Work Rules!* | Laszlo Bock | 2015 | Google'in insan kaynaklari yaklasimi |
@@ -79,6 +84,7 @@ Bu dokuman, girisimcilik modulu boyunca kullanilacak tum kaynaklari kategorize e
 | Kitap | Yazar | Yil | Konu |
 |-------|-------|-----|------|
 | *Blitzscaling* | Reid Hoffman & Chris Yeh | 2018 | Hizli olceklenmenin kapsamli rehberi |
+| 🆓 **Ucretsiz:** | Hoffman'in Stanford GSB konusmasi (YouTube) ucretsiz. Masters of Scale podcast ucretsiz. |
 | *Crossing the Chasm* | Geoffrey Moore | 1991 | Erken benimseyicilerden kitlesel pazara gecis |
 | *Inspired* | Marty Cagan | 2018 | Olcekte urun yonetimi |
 | *How Google Works* | Eric Schmidt & Jonathan Rosenberg | 2014 | Olcekte yonetim dersleri |
@@ -89,6 +95,7 @@ Bu dokuman, girisimcilik modulu boyunca kullanilacak tum kaynaklari kategorize e
 | Kitap | Yazar | Yil | Konu |
 |-------|-------|-----|------|
 | *Why Startups Fail* | Tom Eisenmann | 2021 | Sistematik basarisizlik analizi (Harvard) |
+| 🆓 **Ucretsiz:** | Eisenmann'in Harvard Business Review makalesi "Why Startups Fail" secili bolumler ucretsiz. CB Insights "Top 12 Reasons Startups Fail" ucretsiz rapor. |
 | *How the Mighty Fall* | Jim Collins | 2009 | Buyuk sirketlerin dusus nedenleri |
 | *The Four* | Scott Galloway | 2017 | Teknoloji devlerinin basari ve kirilganliklari |
 
@@ -97,7 +104,9 @@ Bu dokuman, girisimcilik modulu boyunca kullanilacak tum kaynaklari kategorize e
 | Kitap | Yazar | Yil | Konu |
 |-------|-------|-----|------|
 | *Disciplined Entrepreneurship* | Bill Aulet | 2013 | 24 adimlik startup yol haritasi (MIT) |
+| 🆓 **Ucretsiz:** | MIT OCW 15.390 (ocw.mit.edu) ucretsiz girisimcilik dersi. Bill Aulet YouTube konusmalari ucretsiz. |
 | *The Innovator's Dilemma* | Clayton Christensen | 1997 | Harvard klasigi, yikici inovasyon |
+| 🆓 **Ucretsiz:** | Christensen'in YouTube konusmalari ve HBR makaleleri (secili) ucretsiz. "Disruptive Innovation" aciklayici videolar. |
 | *The Monk and the Riddle* | Randy Komisar | 2000 | Stanford GSB onerisi |
 | *The New Business Road Test* | John W. Mullins | 2003 | Girisim fikirlerini test etme |
 
@@ -191,10 +200,15 @@ YC Library'de 500+ video, yazi ve kilavuz bulunmaktadir. En onemlileri:
 |---------|-------|-------|------|------|
 | **YC Startup School** | Y Combinator | Ucretsiz | 7-10 hafta | startupschool.org |
 | **Lean Startup Online Course** | Eric Ries | Ucretli | Kendi hizinda | leanstartup.co |
+| 🆓 **Ucretsiz:** | Eric Ries YouTube kanali ucretsiz. Lean Startup blog ucretsiz. | | | |
 | **Stanford eCorner** | Stanford | Ucretsiz | Surekli | ecorner.stanford.edu |
+| ✅ Zaten ucretsiz | | | | |
 | **MIT Open Courseware (15.390)** | MIT Sloan | Ucretsiz | Donemlik | ocw.mit.edu |
+| ✅ Zaten ucretsiz | | | | |
 | **Harvard i-Lab** | Harvard | Ucretsiz | Atolyeler | i-lab.harvard.edu |
+| ✅ Zaten ucretsiz | | | | |
 | **Disciplined Entrepreneurship** | MIT (Bill Aulet) | Ucretli | 24 adim | disciplinedentrepreneurship.com |
+| 🆓 **Ucretsiz:** | MIT OCW 15.390 (ocw.mit.edu) ucretsiz girisimcilik dersi. Bill Aulet'in YouTube konusmalari ucretsiz. |
 
 ### Hizlandirici Programlari
 
@@ -205,6 +219,7 @@ YC Library'de 500+ video, yazi ve kilavuz bulunmaktadir. En onemlileri:
 | **On Deck** | On Deck | 8 hafta | Ucretli | beondeck.com |
 | **Alchemist Accelerator** | Alchemist | 6 ay | $50K | alchemistaccelerator.com |
 | **Startupbootcamp** | Startupbootcamp | 3 ay | Secili | startupbootcamp.com |
+| 🆓 **Ucretsiz:** | **YC Startup School** (startupschool.org) — tamamen ucretsiz, 7-10 haftalik global hizlandirma programi. 100.000+ mezun. |
 
 ### Turkiye Programlari
 
@@ -285,10 +300,14 @@ YC Library'de 500+ video, yazi ve kilavuz bulunmaktadir. En onemlileri:
 | Kaynak | Tur | Kullanim Alani |
 |--------|-----|----------------|
 | **CB Insights** | Veri + arastirma | Startup basarisizlik analizi, fonlama verileri |
+| 🆓 **Ucretsiz:** | CB Insights blog ve e-posta bulteni ucretsiz. Startups.watch (Turkiye) ucretsiz veri. |
 | **Dealroom.co** | Veri | Guncel cikis verileri, startup degerlemeleri |
 | **Crunchbase** | Veri | Startup ve yatirim veritabani |
+| 🆓 **Ucretsiz:** | Crunchbase ucretsiz plani sinirli arama ve profil goruntuleme sunar. Startups.watch (startups.watch) Turkiye odakli ucretsiz. |
 | **PitchBook** | Veri | Kapsamli VC/PE verileri |
+| 🆓 **Ucretsiz:** | PitchBook ucretsiz haber bulteni ve ozet raporlar sunar. Dealroom.co (dealmroom.co) ucretsiz veri goruntuleme. |
 | **Statista** | Veri | Pazar arastirmasi ve istatistikler |
+| 🆓 **Ucretsiz:** | Our World in Data (ourworldindata.org) + World Bank Open Data (data.worldbank.org) + TUİK (tuik.gov.tr) ucretsiz alternatifler. |
 | **SimilarWeb** | Veri | Web trafigi ve kullanici davranisi |
 | **App Annie (data.ai)** | Veri | Mobil uygulama verileri |
 | **Startups.watch** | Veri | Turkiye startup ekosistemi verileri |

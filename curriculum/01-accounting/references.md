@@ -8,41 +8,53 @@
 
 - **Penman, S. (2013).** *Financial Statement Analysis and Security Valuation* (5th ed.). McGraw-Hill Education. ISBN: 978-0073379661.
   — Finansal tablo analizinin en kapsamlı kaynaklarından biri. Muhasebe ve değerleme arasındaki ilişkiyi derinlemesine ele alır.
+  🆓 **Ücretsiz:** OpenStax Principles of Accounting (openstax.org/details/books/principles-financial-accounting) — tamamen ücretsiz, akredite ders kitabı. Ayrıca Aswath Damodaran'ın NYU Stern dersleri ve veri setleri (pages.stern.nyu.edu/adamodar/) ücretsizdir.
 
 - **Gibson, C. (2013).** *Financial Reporting and Analysis: Using Financial Accounting Information* (13th ed.). South-Western Cengage Learning. ISBN: 978-1133188798.
   — Finansal raporlama ve analiz konusunda sektörde referans kabul edilen eser.
+  🆓 **Ücretsiz:** MIT OpenCourseWare — Financial Accounting (ocw.mit.edu/courses/15-501-accounting-spring-2004/) ücretsiz ders notları, video ve problem setleri.
 
 - **Warren, C., Reeve, J., Duchac, J. (2016).** *Financial & Managerial Accounting* (14th ed.). Cengage Learning. ISBN: 978-1305084836.
   — Finansal ve yönetsel muhasebeyi birlikte ele alan kapsamlı ders kitabı.
+  🆓 **Ücretsiz:** Khan Academy — Accounting and Financial Statements (khanacademy.org) ücretsiz video ders serisi.
 
 - **Horngren, C., Datar, S., Rajan, M. (2020).** *Cost Accounting: A Managerial Emphasis* (16th ed.). Pearson. ISBN: 978-0134475585.
   — Maliyet muhasebesi alanında dünyada en çok kullanılan ders kitabı.
+  🆓 **Ücretsiz:** MIT OCW — Managerial Accounting (ocw.mit.edu) kaynakları ve AccountingCoach (accountingcoach.com) ücretsiz maliyet muhasebesi rehberleri.
 
 - **Garrison, R., Noreen, E., Brewer, P. (2021).** *Managerial Accounting* (17th ed.). McGraw-Hill Education. ISBN: 978-1260247860.
   — Yönetim muhasebesi için başlıca kaynak.
+  🆓 **Ücretsiz:** Khan Academy Managerial Accounting playlist ve Corporate Finance Institute (corporatefinanceinstitute.com) ücretsiz makale ve rehberleri.
 
 - **Kaplan, R., Norton, D. (1996).** *The Balanced Scorecard: Translating Strategy into Action*. Harvard Business Review Press. ISBN: 978-0875846514.
   — Balanced Scorecard yaklaşımının kurucu metni.
+  🆓 **Ücretsiz:** Kaplan'ın Harvard Business Review makaleleri (bazıları ücretsiz), Balanced Scorecard Institute (balancedscorecard.org) ücretsiz rehber ve şablonlar.
 
 - **Epstein, B., Jermakowicz, E. (2018).** *Wiley IFRS 2018: Interpretation and Application of IFRS Standards*. Wiley. ISBN: 978-1119435903.
   — IFRS standartlarının yorumlanması ve uygulanması için kapsamlı rehber.
+  🆓 **Ücretsiz:** IFRS Foundation (ifrs.org) — tüm IFRS standartları ve eğitim modülleri ücretsiz erişime açıktır. IASB webcasts ve webinars ücretsiz.
 
 - **Kieso, D., Weygandt, J., Warfield, T. (2019).** *Intermediate Accounting* (17th ed.). Wiley. ISBN: 978-1119503688.
   — Orta düzey muhasebenin dünya çapında en yaygın kullanılan ders kitabı.
+  🆓 **Ücretsiz:** OpenStax Principles of Accounting (openstax.org) ve Lumen Learning (lumenlearning.com) ücretsiz muhasebe kurs içerikleri.
 
 - **Needles, B., Powers, M. (2013).** *Financial Accounting* (12th ed.). South-Western. ISBN: 978-1133604171.
   — Finansal muhasebede başlangıç ve orta düzey için kapsamlı kaynak.
+  🆓 **Ücretsiz:** Saylor Academy (saylor.org) — ücretsiz Financial Accounting dersi ve PDF ders kitabı.
 
 - **Wild, J., Shaw, K. (2021).** *Financial and Managerial Accounting* (9th ed.). McGraw-Hill Education. ISBN: 978-1260728772.
   — Uygulamalı örneklerle muhasebe, hem finansal hem yönetsel yaklaşımı birleştirir.
+  🆓 **Ücretsiz:** Harvard Business Publishing Education (hbsp.harvard.edu) ücretsiz örnek olaylar ve Core Curriculum okumalar.
 
 ### Türkiye'deki Kitaplar
 
 - **Sevilengül, O. (2020).** *Genel Muhasebe* (19. Baskı). Gazi Kitabevi. ISBN: 978-9757313009.
   — Türkiye'de en çok kullanılan genel muhasebe ders kitabı. Tek düzen hesap planına uygun, bol uygulamalı.
+  🆓 **Ücretsiz:** KGK (kgk.gov.tr) — TMS/TFRS seti ve rehber dokümanlar ücretsiz. Ayrıca YouTube "muhasebedersleri" ve "TMS/TFRS Akademi" kanalları ücretsiz video içerik sunar.
 
 - **Büyükmirza, K. (2020).** *Maliyet ve Yönetim Muhasebesi* (10. Baskı). Gazi Kitabevi. ISBN: 978-9757313078.
   — Maliyet ve yönetim muhasebesi alanında Türkiye'deki temel başvuru kaynağı.
+  🆓 **Ücretsiz:** KGK (kgk.gov.tr) ücretsiz yayınlar ve TÜRMOB (turmob.org.tr) eğitim dokümanları.
 
 - **Akdoğu, E. (2021).** *Finansal Tablolar Analizi* (8. Baskı). Detay Yayıncılık. ISBN: 978-6052321979.
   — Finansal tabloların Türkiye'deki düzenlemeler ve UFRS çerçevesinde analizi.
@@ -114,33 +126,43 @@
 
 - **Coursera — "Introduction to Financial Accounting" (Wharton School, University of Pennsylvania)**
   — Başlangıç ve orta düzey. Hafta 1-4 arası temel muhasebe konuları. www.coursera.org
+  🆓 **Ücretsiz:** Coursera'da denetim modu (Audit) ile ücretsiz izleme. Ayrıca MIT OCW Financial Accounting (ocw.mit.edu) tamamen ücretsiz.
 
 - **Coursera — "Financial Reporting I" (University of Illinois)**
   — IFRS odaklı, orta düzey. www.coursera.org
+  🆓 **Ücretsiz:** Coursera Audit mode ile ücretsiz izleme. IFRS Foundation (ifrs.org) ücretsiz eğitim modülleri.
 
 - **Coursera — "Managerial Accounting: Cost Behaviors, Systems, and Analysis" (University of Illinois)**
   — Maliyet ve yönetim muhasebesi. www.coursera.org
+  🆓 **Ücretsiz:** Coursera Audit mode ile ücretsiz. AccountingCoach (accountingcoach.com) ücretsiz rehberler.
 
 - **Coursera — "Auditing I: Conceptual Foundations of Auditing" (University of Illinois)**
   — Denetimin temelleri. www.coursera.org
+  🆓 **Ücretsiz:** Coursera Audit mode ile ücretsiz. IAASB (ifac.org) ücretsiz denetim standartları ve rehberleri.
 
 - **CFI (Corporate Finance Institute) — "Accounting Fundamentals"**
   — Sertifikalı, uygulamalı, 20+ saat. www.corporatefinanceinstitute.com
+  🆓 **Ücretsiz:** CFI sayfasındaki ücretsiz makaleler ve kaynaklar. YouTube'da benzer içerikli ücretsiz playlistler.
 
 - **CFI — "Reading Financial Statements"**
   — Finansal tablo okuma ve yorumlama. www.corporatefinanceinstitute.com
+  🆓 **Ücretsiz:** Damodaran NYU Stern (pages.stern.nyu.edu/adamodar/) ücretsiz finansal tablo analizi dersleri ve örnekleri.
 
 - **CFI — "Cost Accounting Fundamentals"**
   — Maliyet muhasebesi ve başabaş analizi. www.corporatefinanceinstitute.com
+  🆓 **Ücretsiz:** YouTube "Cost Accounting" playlistleri ve Khan Academy ücretsiz içerikler.
 
 - **edX — "Financial Accounting" (Babson College)**
   — Finansal muhasebe, 3 modül. www.edx.org
+  🆓 **Ücretsiz:** edX Audit mode ile ücretsiz izleme (sertifikasız).
 
 - **edX — "IFRS Fundamentals" (PwC)**
   — IFRS standartlarına giriş. www.edx.org
+  🆓 **Ücretsiz:** edX Audit mode ile ücretsiz. Ayrıca IFRS Foundation (ifrs.org) ücretsiz IFRS eğitimleri.
 
 - **LinkedIn Learning — "Accounting Foundations"**
   — İş dünyası profesyonelleri için hızlı giriş. www.linkedin.com/learning
+  🆓 **Ücretsiz:** YouTube'da "Accounting Foundations" benzeri ücretsiz playlistler. Khan Academy Financial Accounting videoları.
 
 ### Ücretsiz Kaynaklar
 
@@ -223,11 +245,17 @@ Her bir şirket için son 3 yıllık finansal tablolar, bağımsız denetim rapo
 
 - **Excel / Google Sheets:** Finansal modelleme, başabaş analizi, bütçeleme, sapma analizi
 - **Luca:** Türkiye'de en yaygın kullanılan muhasebe yazılımı (www.luca.com.tr)
+  🆓 **Ücretsiz:** GnuCash (gnucash.org) — açık kaynaklı, çift kayıtlı muhasebe yazılımı, KOBİ'ler için ücretsiz.
 - **Logo:** KOBİ ve kurumsal şirketler için entegre muhasebe yazılımı (www.logo.com.tr)
+  🆓 **Ücretsiz:** Odoo Community Edition (odoo.com) — açık kaynaklı, modüler ERP ve muhasebe yazılımı.
 - **Micro:** Kurumsal muhasebe ve ERP çözümü (www.micro.com.tr)
+  🆓 **Ücretsiz:** ERPNext (erpnext.com) — açık kaynaklı, kapsamlı ERP sistemi, ücretsiz self-hosted seçenek.
 - **Zirve:** KOBİ'ler için muhasebe yazılımı (www.zirve.com.tr)
+  🆓 **Ücretsiz:** GnuCash (gnucash.org) — küçük işletmeler için ücretsiz muhasebe yazılımı.
 - **SAP FI:** Kurumsal şirketler için küresel ERP çözümü (www.sap.com)
+  🆓 **Ücretsiz:** ERPNext (erpnext.com) ve Odoo Community Edition — açık kaynak ERP alternatifleri.
 - **Oracle NetSuite:** Bulut tabanlı kurumsal muhasebe ve finans çözümü
+  🆓 **Ücretsiz:** ERPNext Cloud (erpnext.com) — açık kaynak bulut ERP, KOBİ dostu ücretsiz plan.
 
 ---
 

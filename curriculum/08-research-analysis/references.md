@@ -8,7 +8,9 @@
 | Kitap | Yazar | Yıl | Neden Önemli? |
 |-------|-------|-----|---------------|
 | *The Art of Scientific Investigation* | W.I.B. Beveridge | 1957 | Bilimsel yöntemin iş dünyasına uygulanması, klasik |
+| 🆓 **Ucretsiz:** | Kitabin ozel mülkiyeti sona ermistir, Internet Archive'de (archive.org) ucretsiz PDF olarak mevcuttur. |
 | *How to Measure Anything* | Douglas Hubbard | 2014 | Ölçülemeyen şeyleri ölçme metodolojisi |
+| 🆓 **Ucretsiz:** | Yazarın YouTube konusmalari ve blog yazilari. "How to Measure Anything" ozet makaleleri ucretsiz. |
 | *Trustworthy Online Controlled Experiments* | Kohavi, Tang, Xu | 2020 | A/B testing'in İncil'i (Google, Microsoft, LinkedIn) |
 | *Causal Inference: The Mixtape* | Scott Cunningham | 2021 | Nedensel çıkarım, ücretsiz online |
 
@@ -17,6 +19,7 @@
 |-------|-------|-----|---------------|
 | *Competing Against Luck* | Clayton Christensen | 2016 | JTBD teorisinin tam anlatımı |
 | *The Mom Test* | Rob Fitzpatrick | 2013 | Müşteri görüşmesi sanatı, yalın ve pratik |
+| 🆓 **Ucretsiz:** | Yazarin blogu (robfitz.com) ucretsiz makaleler. Kitap kisa oldugu icin kutuphane uzerinden temin edilebilir. |
 | *Blue Ocean Strategy* | Kim & Mauborgne | 2005 | Pazar yaratma stratejisi |
 | *Play Bigger* | Ramadan, Peterson | 2016 | Kategori tasarımı ve pazar yaratma |
 
@@ -53,14 +56,18 @@
 |------|----------|------|--------|
 | **Data Science for Everyone** (DataCamp) | DataCamp | 2 saat | Başlangıç |
 | **Google Data Analytics Certificate** | Coursera | 6 ay (10s/h) | Başlangıç |
+| 🆓 **Ucretsiz:** | Coursera Audit mode ile ucretsiz izleme (sertifikasiz). Google'ın ucretsiz egitim kaynaklari. |
 | **Excel Skills for Business** (Macquarie) | Coursera | 4 ders | Başlangıç-Orta |
+| 🆓 **Ucretsiz:** | Coursera Audit mode ucretsiz. YouTube Excel egitim playlistleri (ExcelIsFun kanali) ucretsiz. |
 | **Business Analytics** (Wharton) | Coursera | 5 ders | Orta |
 | **SQL for Data Analysis** | DataCamp / Dataquest | 20-30 saat | Başlangıç |
 | **Data Analyst in Python** | Dataquest | 8 ay (5s/h) | Orta |
 | **Data Visualization with Tableau** | Coursera (UC Davis) | 5 ders | Başlangıç-Orta |
+| 🆓 **Ucretsiz:** | Coursera Audit mode ucretsiz. Ayrica Google Looker Studio (lookerstudio.google.com) ucretsiz BI araci. |
 | **McKinsey Academy** | McKinsey | Kurumsal | İleri |
 | **Quantitative Research** (Amsterdam) | Coursera | 4 hafta | Orta |
 | **Superforecasting Workshop** | Good Judgment | 1 gün | Orta |
+| 🆓 **Ucretsiz:** | Good Judgment Project (goodjudgment.com) ucretsiz tahmin oyunlari. Tetlock'un TED konusmasi ucretsiz. |
 
 ---
 
@@ -84,12 +91,17 @@
 - **Google Forms**: Temel anketler
 - **Typeform**: Daha iyi UX'li anketler
 - **SurveyMonkey**: Profesyonel anket platformu
+  🆓 **Ücretsiz:** Google Forms (forms.google.com) — tamamen ücretsiz anket aracı. LimeSurvey (limesurvey.org) — açık kaynak anket platformu.
 - **Qualtrics**: Kurumsal araştırma platformu
+  🆓 **Ücretsiz:** Google Forms + LimeSurvey. Jotform (jotform.com) ücretsiz plan. Typeform ücretsiz plan.
 
 ### Pazar Araştırması
 - **Statista**: Hazır pazar verileri
+  🆓 **Ücretsiz:** Our World in Data (ourworldindata.org), World Bank Open Data (data.worldbank.org), TUİK (tuik.gov.tr) — ücretsiz alternatifler.
 - **SimilarWeb**: Web trafiği ve rekabet analizi
+  🆓 **Ücretsiz:** SimilarWeb ücretsiz plan (sinirli). Google Trends (trends.google.com) ücretsiz trafik ve ilgi verisi.
 - **Crunchbase**: Startup ve yatırım verisi
+  🆓 **Ücretsiz:** Crunchbase ücretsiz plan. Startups.watch (startups.watch) Türkiye odaklı ücretsiz startup verileri.
 - **TÜİK**: Türkiye'nin resmi istatistik kurumu (ücretsiz)
 - **TCMB EVDS**: Ekonomik veriler (ücretsiz)
 - **KAP**: BIST şirket verileri (ücretsiz)
