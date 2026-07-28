@@ -79,10 +79,12 @@ Bu modülü tamamladığınızda:
 | **How to Read a Book** | Mortimer Adler | Derin okuma rehberi |
 
 ### Online Kurs
-| Kurs | Platform | Süre |
-|------|----------|------|
-| [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn) | Coursera | ~15 saat |
-| [Mental Models for Better Thinking](https://fs.blog/mental-models/) | Farnam Street | Ücretsiz |
+| Kurs | Platform | Süre | Ücret |
+|------|----------|------|-------|
+| [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn) | Coursera | ~15 saat | Ücretsiz (audit) |
+| 🆓 [Barbara Oakley - Learning How to Learn (YouTube)](https://www.youtube.com/results?search_query=barbara+oakley+learning+how+to+learn) | YouTube | ~3 saat | Ücretsiz |
+| [Mental Models for Better Thinking](https://fs.blog/mental-models/) | Farnam Street | — | Ücretsiz |
+| 🆓 [The Science of Thinking (Veritasium)](https://www.youtube.com/watch?v=UBVV8pch1dM) | YouTube | 12 dk | Ücretsiz |
 
 ---
 

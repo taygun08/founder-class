@@ -16,7 +16,7 @@ Bu dokuman, girisimcilik modulu boyunca kullanilacak tum kaynaklari kategorize e
 | *Running Lean* | Ash Maurya | 2012 | Pratik Lean Startup uygulama rehberi |
 | *The Startup Owner's Manual* | Steve Blank & Bob Dorf | 2012 | Kapsamli basvuru kaynagi |
 | *Business Model Generation* | Alexander Osterwalder | 2010 | Is modeli kanvasi ve strateji |
-| 🆓 **Ucretsiz:** | Strategyzer (strategyzer.com) ucretsiz BMC sablonu. Canvanizer (canvanizer.com) ucretsiz canvas araci. |
+| 🆓 **Ucretsiz:** | Canvanizer (canvanizer.com) ucretsiz BMC araci. |
 
 ### Y Combinator ve Paul Graham
 

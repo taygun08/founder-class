@@ -13,7 +13,7 @@ Bu dokuman, Finans modulu boyunca kullanilacak tum kaynaklari kategorize edilmis
 | *Financial Statement Analysis and Security Valuation* | Stephen H. Penman | 5. Baski (2025'te 6. baskisi guncelleniyor) | McGraw-Hill | Finansal tablo analizinden sirket degerlemesine butunlesik yaklasim sunar. Modulun 1-2. haftalari icin ana kaynak. |
 | 🆓 **Ucretsiz:** | OpenStax Principles of Finance (openstax.org) + Damodaran NYU Stern dersleri (pages.stern.nyu.edu/adamodar/) | - | - | Finansal tablo analizi ve degerleme icin tamamen ucretsiz kaynaklar. |
 | *Financial Statement Analysis: A Practitioner's Guide* | Martin Fridson & Fernando Alvarez | 5. Baski | Wiley | Uygulayicilar icin kapsamli rehber, gercek hayat ornekleriyle doludur. Oran analizi ve kirmizi bayrak tespiti icin ideal. |
-| 🆓 **Ucretsiz:** | Yazarın makaleleri ve röportajları (YouTube), CFA Institute Refresher Readings (cfainstitute.org) | - | - | Ucretsiz uygulamali finansal analiz kaynaklari. |
+| 🆓 **Ucretsiz:** | Yazarın makaleleri ve röportajları (YouTube) + Damodaran Online (pages.stern.nyu.edu/adamodar/) | - | - | Ucretsiz uygulamali finansal analiz kaynaklari. |
 | *Financial Reporting and Analysis: Using Financial Accounting Information* | Charles H. Gibson | - | - | Sirket raporlamasini finansal analizle birlestirir, IFRS/US GAAP karsilastirmalari icerir. |
 | *Finance for Non-Finance People* | Sandeep Goel | 3. Baski (2025) | Routledge | Finans egitimi almayanlar icin ideal baslangic kitabi. Modul oncesi hazirlik okumasi olarak onerilir. |
 
@@ -128,7 +128,7 @@ Bu dokuman, Finans modulu boyunca kullanilacak tum kaynaklari kategorize edilmis
 
 | Kurs | Platform | Link | Sure | Seviye |
 |------|----------|------|------|--------|
-| CFA Institute Refresher Readings | CFA Institute | cfainstitute.org | Kendi hizinda | Orta-ileri |
+| CFA Institute Refresher Readings | CFA Institute | cfainstitute.org | Kendi hizinda (CFA uyelerine ozel) | Orta-ileri |
 | Damodaran NYU Stern Dersleri (MBA) | YouTube | pages.stern.nyu.edu/adamodar/ | 30+ saat video | Baslangic-ileri |
 | Y Combinator Startup School | YC | ycombinator.com/library | 7 hafta | Baslangic-orta |
 | MITx Foundations of Modern Finance I | edX | edx.org | 12 hafta | Baslangic-ileri |
@@ -137,7 +137,7 @@ Bu dokuman, Finans modulu boyunca kullanilacak tum kaynaklari kategorize edilmis
 | OpenStax Principles of Macroeconomics | LibreTexts | libretexts.org | Kendi hizinda | Baslangic |
 | Behavioral Finance (Duke/Thaler) | Coursera | coursera.org | 6 hafta | Baslangic-orta |
 | TCMB EVDS Kullanim Kilavuzu | TCMB | evds2.tcmb.gov.tr | - | Tum seviyeler |
-| KAP Platform Kullanim Kilavuzu | KAP | kamuyuap.org.tr | - | Tum seviyeler |
+| KAP Platform Kullanim Kilavuzu | KAP | kap.gov.tr | - | Tum seviyeler |
 
 ### Ucretli Programlar ve Sertifikalar
 
@@ -148,7 +148,7 @@ Bu dokuman, Finans modulu boyunca kullanilacak tum kaynaklari kategorize edilmis
 | Finance MicroMasters | edX MITx | edx.org | 1 yil 4 ay | $2,965 |
 | 🆓 **Ucretsiz:** | MIT OCW Finance Theory I (15.401) — ucretsiz video ve notlar | ocw.mit.edu | 12 hafta | Ucretsiz |
 | CFA Program (Level I-III) | CFA Institute | cfainstitute.org | 2-4 yil | ~$3,000+ |
-| 🆓 **Ucretsiz:** | CFA Institute Refresher Readings (cfainstitute.org) — CFA mufredatinin ucretsiz versiyonu | cfainstitute.org | Kendi hizinda | Ucretsiz |
+| 🆓 **Ucretsiz:** | Damodaran Online (pages.stern.nyu.edu/adamodar/) — ucretsiz degerleme ve finans dersleri | Damodaran | 30+ saat | Ucretsiz |
 | FMVA (Financial Modeling & Valuation Analyst) | CFI | corporatefinanceinstitute.com | 100+ saat | ~$499 |
 | 🆓 **Ucretsiz:** | Damodaran ucretsiz degerleme dersleri + YouTube finansal modelleme playlistleri | Damodaran Online | 30+ saat | Ucretsiz |
 | Financial Analysis & Investment Strategy Mastery | Coursera | coursera.org | 4-6 ay | ~$49-79/ay |
@@ -178,13 +178,13 @@ Bu dokuman, Finans modulu boyunca kullanilacak tum kaynaklari kategorize edilmis
 | Macabacus Excel Eklentisi | macabacus.com | Finansal modelleme icin Excel ribbon eklentisi (ucretli) |
 | 🆓 **Ucretsiz:** | Excel yerlesik fonksiyonlar + YouTube'da finansal modelleme Excel egitimleri | YouTube | Ucretsiz Excel modelleme teknikleri |
 | QuickFS | quickfs.net | Finansal veri analizi, ozel sektor karsilastirmalari (ucretli) |
-| 🆓 **Ucretsiz:** | KAP (kamuyuap.org.tr) + TCMB EVDS (evds2.tcmb.gov.tr) + Yahoo Finance | Kamu portallari | Ucretsiz finansal veri kaynaklari |
+| 🆓 **Ucretsiz:** | KAP (kap.gov.tr) + TCMB EVDS (evds2.tcmb.gov.tr) + Yahoo Finance | Kamu portallari | Ucretsiz finansal veri kaynaklari |
 
 ### Veri Kaynaklari ve Platformlar
 
 | Kaynak | Link | Icerik |
 |--------|------|--------|
-| KAP (Kamuyu Aydinlatma Platformu) | kamuyuap.org.tr | BIST sirketlerinin finansal tablolari ve ozel durum aciklamalari |
+| KAP (Kamuyu Aydinlatma Platformu) | kap.gov.tr | BIST sirketlerinin finansal tablolari ve ozel durum aciklamalari |
 | TCMB EVDS | evds2.tcmb.gov.tr | Makroekonomik veriler, faizler, doviz kurlari, enflasyon |
 | BIST | borsaistanbul.com | Endeks verileri, islem hacmi, halka arz bilgileri |
 | SPK | spk.gov.tr | Duzenleyici kararlar, enflasyon muhasebesi rehberi, lisanslama |
@@ -194,7 +194,7 @@ Bu dokuman, Finans modulu boyunca kullanilacak tum kaynaklari kategorize edilmis
 | Bloomberg Terminal | - | Profesyonel finansal veri ve analiz platformu (ucretli) |
 | 🆓 **Ucretsiz:** | Yahoo Finance (finance.yahoo.com) + Google Finance (google.com/finance) + FRED (fred.stlouisfed.org) + TCMB EVDS | Ucretsiz | Hisse senedi, makroekonomi ve finansal veriler icin ucretsiz alternatifler |
 | Reuters Eikon | - | Profesyonel finansal veri ve analiz platformu (ucretli) |
-| 🆓 **Ucretsiz:** | Investing.com (investing.com) + KAP (kamuyuap.org.tr) + BIST (borsaistanbul.com) | Ucretsiz | Finansal veri, teknik analiz ve piyasa verileri icin ucretsiz alternatifler |
+| 🆓 **Ucretsiz:** | Investing.com (investing.com) + KAP (kap.gov.tr) + BIST (borsaistanbul.com) | Ucretsiz | Finansal veri, teknik analiz ve piyasa verileri icin ucretsiz alternatifler |
 | Investing.com | investing.com | Finansal veriler, teknik analiz, ekonomi takvimi |
 
 ### Portfoy Analizi ve Risk Araclari
@@ -222,7 +222,6 @@ Bu dokuman, Finans modulu boyunca kullanilacak tum kaynaklari kategorize edilmis
 | **CFA Institute** | youtube.com/@CFAInstitute | CFA mufredati, profesyonel finans egitimi | Orta-ileri |
 | **Y Combinator** | youtube.com/@ycombinator | Startup finansmani, girisimcilik | Baslangic-orta |
 | **Racionale (Mert Basaran)** | youtube.com/@Racionale | Turkiye piyasalari, makroekonomi analizi | Orta |
-| **Finansfiks** | youtube.com/@Finansfiks | Turkiye'de kisisel finans, BIST analizi | Baslangic |
 
 ### Podcast'ler
 
@@ -272,7 +271,7 @@ Bu dokuman, Finans modulu boyunca kullanilacak tum kaynaklari kategorize edilmis
 | Kaynak | Link | Aciklama |
 |--------|------|----------|
 | **Borsa Istanbul (BIST)** | borsaistanbul.com | Endeks verileri, islem hacmi, halka arz takvimi, bultenler |
-| **KAP (Kamuyu Aydinlatma Platformu)** | kamuyuap.org.tr | Tum BIST sirketlerinin finansal tablolari, ozel durum aciklamalari, haftalik bulten |
+| **KAP (Kamuyu Aydinlatma Platformu)** | kap.gov.tr | Tum BIST sirketlerinin finansal tablolari, ozel durum aciklamalari, haftalik bulten |
 | **SPK (Sermaye Piyasasi Kurulu)** | spk.gov.tr | Duzenleyici kararlar, lisanslama, ihrac izinleri, enflasyon muhasebesi uygulama rehberi |
 | **TCMB EVDS** | evds2.tcmb.gov.tr | Makroekonomik zaman serileri, faiz oranlari, doviz kurlari, enflasyon verileri |
 | **TSPB** | tspb.org.tr | Eğitim yayinlari, sektor raporlari, istatistikler |
@@ -313,7 +312,7 @@ Bu dokuman, Finans modulu boyunca kullanilacak tum kaynaklari kategorize edilmis
 | MKK (Merkezi Kayit Kurulusu) | mkk.com.tr | Yatirimci bazli veri, portfoy raporlama |
 | Takasbank | takasbank.com.tr | Takas ve saklama hizmetleri |
 | VOB (Vadeli Islem ve Opsiyon Borsasi) | viop.borsaistanbul.com | Turev urun piyasasi |
-| KAP Mobil | kamuyuap.org.tr (mobil) | Mobil uzerinden KAP bildirim takibi |
+| KAP Mobil | kap.gov.tr (mobil) | Mobil uzerinden KAP bildirim takibi |
 | Fintech Portfoy Takip Uygulamalari | - | Bireysel portfoy takibi (Midas, Trade Ates, Info Yatirim vb.) |
 
 ---

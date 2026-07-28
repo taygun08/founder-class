@@ -23,7 +23,7 @@
 | **TradingView** | Teknik analiz, grafik, topluluk fikirleri | Ucretsiz (Pro ~$50/ay) | [tradingview.com](https://www.tradingview.com) |
 | **Yahoo Finance** | Temel finansal veri, portfoy takibi, haberler | Ucretsiz | [finance.yahoo.com](https://finance.yahoo.com) |
 | **Finviz** | Hisse senedi tarama, grafik, teknik/fundamental analiz | Ucretsiz (Elite ~$40/ay) | [finviz.com](https://finviz.com) |
-| **Seeking Alpha** | Arastirma raporlari, hisse analizleri, topluluk | Ucretsiz/ Premium | [seekingalpha.com](https://seekingalpha.com) |
+| **Seeking Alpha** | Arastirma raporlari, hisse analizleri, topluluk | Sinirli ucretsiz (sadece haber basliklari; analizler ucretli) | [seekingalpha.com](https://seekingalpha.com) |
 | **Simply Wall St** | Gorsel sirket analizleri ve degerleme | Ucretsiz (Plus ~$20/ay) | [simplywall.st](https://simplywall.st) |
 | **Koyfin** | Gelismis portfoy analizi, sektor tarama | Ucretsiz (Pro ~$30/ay) | [koyfin.com](https://www.koyfin.com) |
 | **Wall Street Prep** | Finansal modelleme egitim ve sablonlari | ~$500+ | [wallstreetprep.com](https://www.wallstreetprep.com) |

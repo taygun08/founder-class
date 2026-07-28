@@ -33,7 +33,7 @@
 | Kitap | Yazar(lar) | Yil | Odak |
 |-------|-----------|-----|------|
 | *Business Model Generation: A Handbook for Visionaries, Game Changers, and Challengers* | Alexander Osterwalder & Yves Pigneur | 2010 | Business Model Canvas |
-| 🆓 **Ucretsiz:** | Strategyzer (strategyzer.com) ucretsiz BMC sablonu ve videolari. Canvanizer (canvanizer.com) ucretsiz canvas araci. | - | Ucretsiz is modeli haritalama |
+| 🆓 **Ucretsiz:** | Canvanizer (canvanizer.com) ucretsiz BMC araci. | - | Ucretsiz is modeli haritalama |
 | *Value Proposition Design: How to Create Products and Services Customers Want* | Alexander Osterwalder vd. | 2014 | Value Proposition Canvas |
 | 🆓 **Ucretsiz:** | Strategyzer ucretsiz VPC sablonu ve videolari. YouTube'da ucretsiz VPC egitimleri. | - | Ucretsiz deger onerisi tasarimi |
 | *Platform Revolution: How Networked Markets Are Transforming the Economy* | Geoffrey G. Parker, Marshall W. Van Alstyne & Sangeet Paul Choudary | 2016 | Platform ekonomisi, ag etkisi |

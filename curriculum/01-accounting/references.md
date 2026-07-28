@@ -142,7 +142,7 @@
 
 - **CFI (Corporate Finance Institute) — "Accounting Fundamentals"**
   — Sertifikalı, uygulamalı, 20+ saat. www.corporatefinanceinstitute.com
-  🆓 **Ücretsiz:** CFI sayfasındaki ücretsiz makaleler ve kaynaklar. YouTube'da benzer içerikli ücretsiz playlistler.
+  🆓 **Sınırlı ücretsiz:** corporatefinanceinstitute.com ana sayfası (ücretsiz hesap gerekli).
 
 - **CFI — "Reading Financial Statements"**
   — Finansal tablo okuma ve yorumlama. www.corporatefinanceinstitute.com

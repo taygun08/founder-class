@@ -14,13 +14,13 @@
 | 4 | **Financial Markets** | Coursera | Robert Shiller (Yale) | ~27 saat | Baslangic | Ucretsiz/Ucretli | Finansin Temelleri | - |
 | 5 | **Behavioral Finance** | Coursera | Yale University | ~12 saat | Orta | Ucretsiz/Ucretli | Davranissal Finans | - |
 | 6 | **Corporate Finance Essentials** | Coursera | IESE Business School | ~20 saat | Baslangic | Ucretsiz/Ucretli | Sirket Finansmani | - |
-| 7 | **Game Theory** | Coursera | Stanford & UBC | ~30 saat | Orta | Ucretsiz/Ucretli | Strateji, Muzakere | - |
+| 7 | **Game Theory (ECON 159)** | Yale Open Courses | Ben Polak (Yale) | ~30 saat | Orta | Ucretsiz | Strateji, Muzakere | [Yale OCW ECON 159](https://oyc.yale.edu/economics/econ-159) |
 | 8 | **Strategic Management** | Coursera | Copenhagen Business School | ~12 saat | Baslangic | Ucretsiz/Ucretli | Strateji | - |
 | 9 | **Entrepreneurship Specialization** | Coursera | Wharton (UPenn) | ~80 saat | Baslangic | Ucretli | Girisimcilik | [YC Startup School](https://www.startupschool.org/) (ucretsiz) |
 | 10 | **Data Science Specialization** | Coursera | Johns Hopkins | ~180 saat | Baslangic | Ucretli | Veri Analizi | [Harvard CS109 Data Science](https://cs109.github.io/2015/) (ucretsiz) |
 | 11 | **Business Statistics and Analysis Specialization** | Coursera | Rice University | ~48 saat | Baslangic | Ucretli | Istatistik, Analiz | [Khan Academy Statistics](https://www.khanacademy.org/math/statistics-probability) (ucretsiz) |
 | 12 | **Leading People and Teams Specialization** | Coursera | Michigan University | ~40 saat | Baslangic | Ucretsiz/Ucretli | Liderlik | - |
-| 13 | **Negotiation Mastery** | Coursera | Michigan University | ~15 saat | Orta | Ucretli | Muzakere | [Harvard PON Daily](https://www.pon.harvard.edu/daily/) (ucretsiz makaleler) |
+| 13 | **Negotiation Mastery** | Coursera | Michigan University | ~15 saat | Orta | Ucretli | Muzakere | [Harvard PON Daily Blog](https://www.pon.harvard.edu/daily/) (ucretsiz makaleler) |
 
 **Link**: [coursera.org](https://www.coursera.org)
 
@@ -51,7 +51,7 @@
 | 3 | **Machine Learning & Data Science Bootcamp** | 365 Careers | ~30 saat | Baslangic | Ucretli | Veri Bilimi | [Kaggle Learn](https://www.kaggle.com/learn) (ucretsiz) |
 | 4 | **The Complete SQL Bootcamp** | Jose Portilla | ~9 saat | Baslangic | Ucretli | Veri Analizi | [Mode Analytics SQL Tutorial](https://mode.com/sql-tutorial/) (ucretsiz) |
 | 5 | **Excel for Business Analysts** | 365 Careers | ~12 saat | Baslangic | Ucretli | Finansal Modelleme | [Microsoft Excel Training](https://support.microsoft.com/en-us/training) (ucretsiz) |
-| 6 | **Negotiation Skills** | Chris Croft | ~4 saat | Baslangic | Ucretli | Muzakere | [Kellogg Negotiation Resources](https://www.kellogg.northwestern.edu/executive-education/negotiation-strategies.aspx) |
+| 6 | **Negotiation Skills** | Chris Croft | ~4 saat | Baslangic | Ucretli | Muzakere | [Harvard PON (Program on Negotiation) Daily Blog](https://www.pon.harvard.edu/daily/) |
 | 7 | **Strategic Management** | Mike Clayton | ~6 saat | Baslangic | Ucretli | Strateji | [Yale OCW - Strategy](https://oyc.yale.edu/economics/econ-159) (ucretsiz) |
 | 8 | **Public Speaking & Presentation Skills** | Chris Haroun | ~7 saat | Baslangic | Ucretli | Iletisim | [TED's Masterclass YouTube](https://www.youtube.com/user/TEDtalksDirector) |
 | 9 | **Leadership: Practical Leadership Skills** | Chris Croft | ~5 saat | Baslangic | Ucretli | Liderlik | [Simon Sinek YouTube](https://www.youtube.com/user/SimonSinek) (ucretsiz) |
@@ -87,7 +87,7 @@
 
 | # | Sertifika | Kurum | Sure | Seviye | Ucret | Ilgili Modul | 🆓 Ucretsiz Alternatif |
 |---|----------|-------|------|--------|-------|-------------|------------------------|
-| 1 | **CFA (Chartered Financial Analyst)** | CFA Institute | ~1000 saat (seviye basi) | Ileri | ~$1000-4000/seviye | Finans, Yatirim, Portfoy | [CFA Institute Refresher Readings](https://www.cfainstitute.org/en/membership/professional-development/refresher-readings) (ucretsiz) |
+| 1 | **CFA (Chartered Financial Analyst)** | CFA Institute | ~1000 saat (seviye basi) | Ileri | ~$1000-4000/seviye | Finans, Yatirim, Portfoy | [CFA Institute Refresher Readings](https://www.cfainstitute.org/en/membership/professional-development/refresher-readings) (CFA uyelerine ozel) |
 | 2 | **FRM (Financial Risk Manager)** | GARP | ~300 saat/seviye | Ileri | ~$800-1500/seviye | Risk Yonetimi | [GARP FRM Free Resources](https://www.garp.org/frm) (ornek sinavlar) |
 | 3 | **SPK Lisanslama (L1, L2, L3, Turev)** | SPK / TSPB | Degisken | Orta | ~200-500 TL/sinav | Finansal Piyasalar, Turev | [TSPB Ucretsiz Kaynaklar](https://www.tspb.org.tr/) |
 | 4 | **CMA (Certified Management Accountant)** | IMA | ~300 saat | Orta | ~$1000-2000 | Yonetim Muhasebesi | [IMA Free Resources](https://www.imanet.org/cma-certification/getting-started) |
@@ -126,13 +126,11 @@
 |---|--------|----------|--------|------|
 | 1 | **BTK Akademi** | BTK | Ucretsiz yazilim ve teknoloji egitimleri | [btkakademi.gov.tr](https://www.btkakademi.gov.tr) |
 | 2 | **Turkcell Gelecegi Yazanlar** | Turkcell | Mobil ve web gelistirme egitimleri | [gelecegiyazanlar.turkcell.com.tr](https://gelecegiyazanlar.turkcell.com.tr) |
-| 3 | **Acik Akademi** | Eczacibasi | Is dunyasi, liderlik ve teknoloji egitimleri | [acikakademi.com](https://www.acikakademi.com) |
-| 4 | **SAP Turkey Academy** | SAP Turk | SAP ve is yazilimlari egitimleri | Ucretli |
-| 5 | **Istanbul University - UZEM** | Istanbul Uni. | Ucretsiz acik dersler | [uzem.istanbul.edu.tr](https://uzem.istanbul.edu.tr) |
-| 6 | **Anadolu Universitesi Acikogretim** | Anadolu Uni. | Acikogretim kaynaklari (isletme, iktisat) | [anadolu.edu.tr](https://www.anadolu.edu.tr) |
-| 7 | **Finansal Piyasalar Sozlugu** | SPK | SPK resmi finansal terimler sozlugu | [spk.gov.tr](https://www.spk.gov.tr) |
-| 8 | **KAP (Kamu Aydinlatma Platformu)** | Merkezi Kayit Kurulusu | Sirket finansal raporlari ve bildirimleri | [kap.gov.tr](https://www.kap.gov.tr) |
-| 9 | **TCMB (Turkiye Cumhuriyet Merkez Bankasi)** | TCMB | Para politikasi, veri ve yayinlar | [tcmb.gov.tr](https://www.tcmb.gov.tr) |
+| 3 | **SAP Turkey Academy** | SAP Turk | SAP ve is yazilimlari egitimleri | Ucretli |
+| 4 | **Anadolu Universitesi Acikogretim** | Anadolu Uni. | Acikogretim kaynaklari (isletme, iktisat) | [anadolu.edu.tr](https://www.anadolu.edu.tr) |
+| 5 | **Finansal Piyasalar Sozlugu** | SPK | SPK resmi finansal terimler sozlugu | [spk.gov.tr](https://www.spk.gov.tr) |
+| 6 | **KAP (Kamu Aydinlatma Platformu)** | Merkezi Kayit Kurulusu | Sirket finansal raporlari ve bildirimleri | [kap.gov.tr](https://www.kap.gov.tr) |
+| 7 | **TCMB (Turkiye Cumhuriyet Merkez Bankasi)** | TCMB | Para politikasi, veri ve yayinlar | [tcmb.gov.tr](https://www.tcmb.gov.tr) |
 
 ---
 

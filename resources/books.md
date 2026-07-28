@@ -71,12 +71,12 @@
 | # | Kitap | Yazar(lar) | Yil | Aciklama | Ilgili Modul | Seviye | 🆓 Ucretsiz Alternatif |
 |---|-------|-----------|-----|----------|-------------|--------|------------------------|
 | 1 | **The Lean Startup** | Eric Ries | 2011 | Yalin startup metodolojisi: yap- olc- ogren dongusu, MVP, pivot. | Girisimcilik | Baslangic | [Eric Ries - Startup Lessons Learned Blog](https://www.startuplessonslearned.com/) |
-| 2 | **Zero to One** | Peter Thiel | 2014 | Teknoloji startup'lari icin tekelci dusunce ve dikey ilerleme. | Girisimcilik, Inovasyon | Orta | [Peter Thiel CS183 Stanford Ders Notlari](https://cs183.stanford.edu/) |
+| 2 | **Zero to One** | Peter Thiel | 2014 | Teknoloji startup'lari icin tekelci dusunce ve dikey ilerleme. | Girisimcilik, Inovasyon | Orta | [YouTube: Peter Thiel CS183 Stanford Dersleri](https://www.youtube.com/playlist?list=PL5A714C94D40392AB) |
 | 3 | **The Hard Thing About Hard Things** | Ben Horowitz | 2014 | Startup kurmanin ve yonetmenin zor gercekleri. | Girisimcilik, Liderlik | Orta | [Ben Horowitz a16z Blog](https://a16z.com/author/ben-horowitz/) |
-| 4 | **Business Model Generation** | Alexander Osterwalder & Yves Pigneur | 2010 | Is modeli kanvasi araci ile is modeli tasarimi. | Is Modeli, Girisimcilik | Baslangic | [Strategyzer - Is Modeli Kanvasi](https://www.strategyzer.com/canvas) |
+| 4 | **Business Model Generation** | Alexander Osterwalder & Yves Pigneur | 2010 | Is modeli kanvasi araci ile is modeli tasarimi. | Is Modeli, Girisimcilik | Baslangic | [Canvanizer - Is Modeli Kanvasi](https://canvanizer.com) |
 | 5 | **The Startup Owner's Manual** | Steve Blank | 2012 (2. baski 2020) | Musteri kesfi ve dogrulama sureci icin kapsamli rehber. | Girisimcilik, Urun Gelistirme | Orta | [Steve Blank Blog](https://steveblank.com/) |
 | 6 | **Disciplined Entrepreneurship** | Bill Aulet | 2013 | 24 adimda girisimcilik icin sistematik yaklasim. | Girisimcilik | Baslangic | [MIT Entrepreneurship - Bill Aulet](https://entrepreneurship.mit.edu/resource/disciplined-entrepreneurship/) |
-| 7 | **The Mom Test** | Rob Fitzpatrick | 2013 | Musteri gorusmesi ve dogrulama teknikleri. | Urun Gelistirme, Girisimcilik | Baslangic | [The Mom Test - Free Chapters](https://www.momtestbook.com/) |
+| 7 | **The Mom Test** | Rob Fitzpatrick | 2013 | Musteri gorusmesi ve dogrulama teknikleri. | Urun Gelistirme, Girisimcilik | Baslangic | [Rob Fitzpatrick'in blogu (robfitz.com) - ucretsiz girisimci mulakat ipuclari](https://robfitz.com/) |
 | 8 | **Running Lean** | Ash Maurya | 2012 (2. baski 2022) | Yalin startup'i sistematik bicimde uygulama rehberi. | Girisimcilik | Baslangic | [Lean Stack Blog](https://leanstack.com/blog) |
 | 9 | **Hooked** | Nir Eyal | 2014 | Aliskanlik yaratan urunlerin tasarim modeli. | Urun Gelistirme, Pazarlama | Orta | [Nir Eyal Blog](https://www.nirandfar.com/blog/) |
 | 10 | **The E-Myth Revisited** | Michael Gerber | 1995 (2. baski 2004) | Kucuk isletmelerin buyume sorunlari ve franchising modeli. | Girisimcilik, Isletme Yonetimi | Baslangic | [SCORE - Kucuk Isletme Kaynaklari](https://www.score.org/) |
